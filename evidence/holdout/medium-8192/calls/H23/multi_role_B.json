@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d6b432a06dc8a928b9276c0ecae70ab373d888c0f78c137f569116bed120175f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2f2832aabc18ae15",
+  "created_at": 1795589837,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "仅补报且修订≤5；忽略暂收。按行号取最新非暂收状态，撤销则整行弃。入选行：Y(7,核准,w4,c10)、K(3,核准,w3,c7)、M(1,核准,w2,c6)；X因最新撤销剔除，T因子流不符。聚合=3×max权重4-冲销量23+公开系数A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 1137,
+    "total_tokens": 2087
+  }
+}

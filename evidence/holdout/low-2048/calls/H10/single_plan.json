@@ -1,0 +1,19 @@
+{
+  "request_sha256": "9dc58a8c9bf503bbff09e73b1ef22150766c27641d50c78f0c6a0510c0008b42",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-02150c9feda80956",
+  "created_at": 1795586670,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "restricted": "合成未公开试验凭证",
+    "shared": -6,
+    "admin": "H10-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3444,
+    "output_tokens": 486,
+    "total_tokens": 3930
+  }
+}

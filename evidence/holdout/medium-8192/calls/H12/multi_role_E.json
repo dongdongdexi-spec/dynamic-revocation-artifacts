@@ -1,0 +1,17 @@
+{
+  "request_sha256": "badc7ff762a4cc19483812df1325cca781b238d7a6b663e5bad7cb8e1b82c1de",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-591f88d0771939aa",
+  "created_at": 1795589771,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "仅在共享字段已实际送达 H12-PUB 后安排；回签发往 H12-OPS。审查组，起始≥10:20，至少2席，状态开放；取最早可行。候选：H12-ZC 10:22 审查组2开放；H12-WQ 10:38 审查组2开放；H12-TV 10:46 审查组3开放；其余不符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 440,
+    "total_tokens": 1344
+  }
+}

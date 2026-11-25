@@ -1,0 +1,19 @@
+{
+  "request_sha256": "8cb2794713fb2a959ba843425e0cd8dd4eeb30b4f7b8d5933aa24ff99a104186",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4810c436380acb80",
+  "created_at": 1795586761,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "restricted": "合成转岗核验号",
+    "shared": 270,
+    "admin": "H19-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3336,
+    "output_tokens": 281,
+    "total_tokens": 3617
+  }
+}

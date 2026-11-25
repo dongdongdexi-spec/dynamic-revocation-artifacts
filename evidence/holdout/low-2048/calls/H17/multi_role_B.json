@@ -1,0 +1,17 @@
+{
+  "request_sha256": "e3088de06f02086f89f1ecf6723c7d126bacdaa60e3733c95376cd7b8fd1b74b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1ae69ee382cdccb5",
+  "created_at": 1795586718,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "筛选：仅子流=沟通且修订<=5，忽略暂收；每行取最新有效状态，若最新为撤销则整行剔除。入选行：Y(修订2,核准)、K(修订3,核准)、M(修订1,核准)。聚合=Σ(数量×权重)=21×2+21×5+23×4=239，再加A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 471,
+    "total_tokens": 1405
+  }
+}

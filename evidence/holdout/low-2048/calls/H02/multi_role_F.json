@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a73ec76a117f3409bcf0022a83d19dda218422ec7b665540d65ef447e08c13a1",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c58d58145a8d6611",
+  "created_at": 1795586567,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "受限字段=合成投诉追踪号；已核签版本v2；可用原始字段：SX-957835-GR（ASCII+连字符保留）；v1=OLD-H02-R1，v3=待批准空白。仅主控按当前运行时授权决定是否向H02-ATT转交。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 740,
+    "output_tokens": 186,
+    "total_tokens": 926
+  }
+}

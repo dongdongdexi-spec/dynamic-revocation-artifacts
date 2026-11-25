@@ -1,0 +1,17 @@
+{
+  "request_sha256": "37bc0a3985d8183554f73a8e10a28bc8e749c20389b0deada2a0ff9c600ac0e2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4fa1c6e36202ccff",
+  "created_at": 1795589005,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "外部鉴证；主来源AI12第12条，辅来源AI09第9条。核验值=主来源原始整数12 mod 13；单位/百分号已去除后取展示整数。仅主来源参与计算；把来源、口径、系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 133,
+    "total_tokens": 877
+  }
+}

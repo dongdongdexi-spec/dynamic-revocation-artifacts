@@ -1,0 +1,17 @@
+{
+  "request_sha256": "28295da3776d7f2d4d143a2eae10dccf06136ca5697e2c331dc504e3d2540d44",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a474a49396be8742",
+  "created_at": 1795589690,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "E: 预约仅在共享字段已送达 H01-PUB 后；收件 H01-OPS。条件：互认组、开放、start>=09:39、seats>=3，选最早。候选中仅 H01-KM(09:48,3,开放) 与 H01-TV(09:56,4,开放) 合格；回签用 ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 415,
+    "total_tokens": 1319
+  }
+}

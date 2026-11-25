@@ -1,0 +1,17 @@
+{
+  "request_sha256": "cf0437ac4ee5018229e8309ec9c4f445d0f23314c42036c0940ea827fcbd0c43",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b5c733ededc17a42",
+  "created_at": 1795586566,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "渠道登记：受限附件=H09-ATT；共享核验值=H09-PUB；行政预约=H09-OPS。近似收件台编号无效；仅当前政策记录可作授权，历史材料仅审计/重算，不构成新授权。须区分参与与可及；签名未通过的补交等下一班。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 727,
+    "output_tokens": 169,
+    "total_tokens": 896
+  }
+}

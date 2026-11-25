@@ -1,0 +1,17 @@
+{
+  "request_sha256": "eebd01cf5ff6accc87347f33293db55cc46103c9891ea797de6f08974f273c96",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-561bc1faadb5b6c3",
+  "created_at": 1795586759,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "受限字段=合成第三方附件号；密封副本 v1=OLD-H18-R1，v2=SX-927541-MQ，v3=待批准空白；已核签版本=v2。仅主控可按当前有效授权将原始字段转交 H18-ATT；保留ASCII/连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 740,
+    "output_tokens": 158,
+    "total_tokens": 898
+  }
+}

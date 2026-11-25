@@ -1,0 +1,39 @@
+{
+  "seed": 734087,
+  "worker_counts": [6, 16],
+  "rounds_per_worker_count": 5,
+  "jobs_per_worker": 18,
+  "round_cutoff_seconds_after_common_start": 50,
+  "withdrawal_timer_ms_range": [25, 190],
+  "scope_sequence": "withdrawn, independent, alternating per worker",
+  "transport": "Inherited multiprocessing pipes with correlated request/reply IDs",
+  "transport_amendment_before_formal_run": "The managed Windows sandbox allowed bind but denied localhost connect with WinError 10013. An excluded TCP smoke logged no durable receipts. The confirmatory run replaces only TCP framing with inherited IPC pipes. Seed, workload, bound receipt checks, SQLite durability, fault scenarios, and support gates are unchanged. No cross-transport latency comparison is authorized by this protocol.",
+  "fault_rotation": ["normal", "precommit_failure", "lost_ack", "duplicate", "late_original", "query_outage", "malformed_ack"],
+  "latency_claim": "None. Outcome-oriented replication on the laboratory machine.",
+  "primary_gates": {
+    "issued_natural_operations": 1980,
+    "independent_deliveries": 990,
+    "post_publication_old_commits": 0,
+    "post_publication_old_decrypt_admissions": 0,
+    "duplicate_durable_receipts": 0,
+    "digest_mismatches": 0,
+    "unbound_worker_requests_in_natural_runs": 0,
+    "missing_or_nonterminal_natural_operations": 0,
+    "authorized_attempts_without_matching_durable_receipt_or_fence_before_lease_release": 0,
+    "retired_scope_overlap_rounds_minimum": 5,
+    "target_scope_actual_ack_suppression_minimum": 1,
+    "target_scope_durable_fence_minimum": 1,
+    "target_scope_attempt_denials_minimum": 1,
+    "delayed_original_refusals_minimum": 1,
+    "cached_duplicate_outcomes_minimum": 1,
+    "malformed_ack_rejected_and_resolved_minimum": 1
+  },
+  "secondary_controls": {
+    "retired_after_regrant": "denied",
+    "valid_regrant": "committed",
+    "binding_mismatch": "binding_mismatch",
+    "cross_handle": "binding_mismatch",
+    "invalid_tag": "invalid_ciphertext",
+    "regrant_status": "committed"
+  }
+}

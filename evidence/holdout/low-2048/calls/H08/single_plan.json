@@ -1,0 +1,19 @@
+{
+  "request_sha256": "e20302e0a24155ebed0958c06722799c2c011422fc485c4fd65b3c31819bc81a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-955860bd969c2eef",
+  "created_at": 1795586663,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "restricted": "SX-823491-JU",
+    "shared": 378,
+    "admin": "H08-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3275,
+    "output_tokens": 416,
+    "total_tokens": 3691
+  }
+}

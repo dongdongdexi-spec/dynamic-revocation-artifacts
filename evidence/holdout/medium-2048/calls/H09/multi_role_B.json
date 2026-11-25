@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4d4f7679614b796f6f75686f5682e98917c10e11554f0d01bbbe901c839b7efd",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-075f6654379f1c27",
+  "created_at": 1795588965,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "仅取子流=开放且修订≤5；暂收忽略。按行号留最新有效记录：K→rev3核准(36,4,5,23)；Y→rev2核准(13,3,9,25)；M→rev1核准(15,2,7,22)；X最新有效为rev4撤销，整行剔除。聚合=Σ(min数量,行上限)×权重 + A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 1078,
+    "total_tokens": 2006
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "1fcd3f532d9d1d177e48904f6524cb17e3642553140c3d89c25d872602e14f31",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d805dc77bb3ee7e5",
+  "created_at": 1795588942,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "提交单位：一张批次单，可续办独立共享子任务。队列状态与送达回执分开；预约仅依据实际收到的共享交付。旧单据仅记历史来源，保留原交付编号核验。当前工单内部标识H08-R2；历史撤稿/待办号H08-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 397,
+    "total_tokens": 1125
+  }
+}

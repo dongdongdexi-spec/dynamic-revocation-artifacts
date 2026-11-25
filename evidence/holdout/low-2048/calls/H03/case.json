@@ -1,0 +1,22 @@
+{
+  "single": {
+    "plan": {
+      "id": "H03",
+      "restricted": "SX-977326-JW",
+      "shared": 105,
+      "admin": "H03-TV"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H03",
+      "restricted": "SX-977326-JW",
+      "shared": 16,
+      "admin": "H03-TV"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

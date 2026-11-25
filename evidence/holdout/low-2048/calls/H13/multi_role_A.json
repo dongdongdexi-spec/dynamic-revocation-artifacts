@@ -1,0 +1,17 @@
+{
+  "request_sha256": "77a6bfa89926be02092a34ad7cf617f19ec05bc6673a146b63c7528f9f2c747c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-573b48283514e0d1",
+  "created_at": 1795586680,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "外部鉴证：主来源AI12第12条；对照AI09第9条仅作说明。核验系数=12 mod 13=12。口径：将百万单位和百分号移除后取所示整数；法规按条号。向主控报来源、口径、系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 150,
+    "total_tokens": 894
+  }
+}

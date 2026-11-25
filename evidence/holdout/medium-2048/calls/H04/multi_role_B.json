@@ -1,0 +1,17 @@
+{
+  "request_sha256": "45674b645bde0dc3973757d2699335af8751c06753121074fc692ab215b9626b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-754860323fb23255",
+  "created_at": 1795588888,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "入选K3、M1、Y2；X4为最新有效状态=撤销，整线去掉；K5、M4为暂收忽略；Y7超截止剔除。数量=3，最大权重=5，冲销量合计=14，聚合=3×5-14+系数=1+系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 965,
+    "total_tokens": 1915
+  }
+}

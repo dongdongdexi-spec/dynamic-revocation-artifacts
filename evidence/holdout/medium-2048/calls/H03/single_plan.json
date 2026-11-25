@@ -1,0 +1,19 @@
+{
+  "request_sha256": "7b650f54f7f8eac5f6b6649302ef52bc6018547b7fc3d34e363f3c8cace60447",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-96b9270590eb1381",
+  "created_at": 1795588904,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "restricted": "合成保密审查索引",
+    "shared": 193,
+    "admin": "H03-TV"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3286,
+    "output_tokens": 198,
+    "total_tokens": 3484
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b1a9f1b5689a06068f81d28a2bb3c69a08b385852d84166a3b7bcc68497c2edf",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-417cc00ba54ac4cf",
+  "created_at": 1795589719,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "A: 产品遥测访问工单。主来源 DA04 第4条：用户访问、使用互联产品及相关服务数据，以及数据持有者提供数据的义务；辅源 DA05 第5条：用户将数据分享给第三方。核验系数=主来源原始整数4 mod 13；百万单位、百分号去除后取显示整数。仅主来源参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 261,
+    "total_tokens": 1005
+  }
+}

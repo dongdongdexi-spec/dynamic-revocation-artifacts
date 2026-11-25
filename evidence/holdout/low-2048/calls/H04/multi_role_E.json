@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6fc96d8689aeb31e9a9e3ced4e9b8c508994694e6994d299312b1a30c473bcbc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-683dd7019e733346",
+  "created_at": 1795586563,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "福利组；开放；起始≥10:54；至少3席；从候选中选最早可行窗口。可行：H04-LX 11:03 3席 开放，H04-RP 11:11 4席 开放；H04-ZC仅2席不够，H04-KM冻结，H04-TV/DF早于10:54。回签ASCII id发H04-OPS，仅在共享字段已送达H04-PUB后安排。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 206,
+    "total_tokens": 1103
+  }
+}

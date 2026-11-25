@@ -1,0 +1,19 @@
+{
+  "request_sha256": "bb4351929d1d1e289ea1d9d4471f82dff309803ef39a9808cecc56421213ddf0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-75b71fe94c307f8a",
+  "created_at": 1795586674,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "restricted": "SX-149390-LQ",
+    "shared": 285,
+    "admin": "H11-KM"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1698,
+    "output_tokens": 383,
+    "total_tokens": 2081
+  }
+}

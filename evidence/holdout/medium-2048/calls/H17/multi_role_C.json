@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8485b65334726711e7c33f466e9c7457e871a8937521467ffc3f91535f145019",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5199008d7824d8ae",
+  "created_at": 1795589048,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "收件分三路：受限附件H17-ATT；共享核验值H17-PUB；行政预约H17-OPS。近似匹配无效；仅当前政策记录可定授权，历史材料仅供审计/重算，不能作新授权证明。仅核对流程材料和模拟群组明细；受限投诉引用须单独交付；无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 172,
+    "total_tokens": 900
+  }
+}

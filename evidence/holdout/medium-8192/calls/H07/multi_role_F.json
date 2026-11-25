@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ec458b66c028f251a8a17931a7e4abb7ab745615d04125893cc76acabf8e6bbf",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a20e6fb590c94150",
+  "created_at": 1795589731,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "受限字段=合成转运事件号；已核签版本=v2=SX-854969-GU（v1=OLD-H07-R1，v3待批空白）。仅在最新有效运行时授权允许时，原始字段按渠道交给 H07-ATT；保留 ASCII/连字符，其他下游仅收已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 740,
+    "output_tokens": 603,
+    "total_tokens": 1343
+  }
+}

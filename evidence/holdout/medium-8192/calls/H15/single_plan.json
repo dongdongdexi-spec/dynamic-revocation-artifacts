@@ -1,0 +1,19 @@
+{
+  "request_sha256": "f50a111996ecf052908c789a1f4815577334e7c7b3c49c74e73b18421854098f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1fd4fe9228191dc3",
+  "created_at": 1795589792,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "restricted": "SX-951350-MQ",
+    "shared": 284,
+    "admin": "H15-WQ"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3100,
+    "output_tokens": 1070,
+    "total_tokens": 4170
+  }
+}

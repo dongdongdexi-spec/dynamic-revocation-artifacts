@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2ad8932cfe4a6eaf24a086b4dcff1d4211ab5206e48731102e014a35875ac67b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-29861c30be27a966",
+  "created_at": 1795586768,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "主来源AI09第9条；对照DA05第5条。核验系数=主来源原始整数9 mod 13=9。说明：仅主来源参与核验值，DA05仅作说明。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 165,
+    "total_tokens": 907
+  }
+}

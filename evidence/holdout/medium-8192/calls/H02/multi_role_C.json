@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b4decf0bf04159b78bc9323b09997617c2097b4d86f5c74f27a67d2f1b0b4d35",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fb815722adccbd0f",
+  "created_at": 1795589684,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "收件人按渠道登记：受限附件H02-ATT；共享核验值H02-PUB；行政预约H02-OPS。近似匹配无效；仅当前政策记录决定授权，历史材料仅可审计/重算，不构成新授权。发布台仅收组级调查核验量，假名投诉工单另处；均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 271,
+    "total_tokens": 995
+  }
+}

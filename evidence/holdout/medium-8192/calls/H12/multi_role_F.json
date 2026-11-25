@@ -1,0 +1,17 @@
+{
+  "request_sha256": "06b8cb38a833e1cdef37164e86907885c54a4f85b99cf8f9bc0e57b5a4ff24a9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-506d7cea15cb72df",
+  "created_at": 1795589775,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "受限字段=「合成调查抽检索引」；密封副本v1=OLD-H12-R1，v2=SX-466281-LR，v3=待批准空白；本岗已核签v2。仅主控可内部读取以决定路由；若政策允许，原始字段按渠道交给H12-ATT。仅最新有效运行时授权记录适用。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 215,
+    "total_tokens": 956
+  }
+}

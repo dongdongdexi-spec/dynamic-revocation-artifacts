@@ -1,0 +1,17 @@
+{
+  "request_sha256": "deefd748a477858f05945d14f5a29202558923efa03bd96ed82bfea98c10b064",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-730ff024f0bcea92",
+  "created_at": 1795588893,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "接收人登记：受限附件H04-ATT；共享核验值H04-PUB；行政预约H04-OPS。近似匹配无效；仅当前政策记录可决定授权，历史材料仅供审计/重算。员工福利系数可作组核验，个案复核凭证仅限指定人员。虚构台账，无真实收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 305,
+    "total_tokens": 1033
+  }
+}

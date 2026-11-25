@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7edfbe9560393d41ca5e21ce1c08e53fce29fd3829808a49e95d47fc618e67b2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-92a3a51ea6469918",
+  "created_at": 1795589085,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "合规组；仅共享字段已送达H18-PUB后安排。条件：开始≥09:05、≥2席、状态开放；选最早。候选：TV 09:23 2开，DF 09:31 3开，RP 09:07 2开；KM 09:15 1开，LX 09:03 3开，ZC 候补组 09:20 4开，WQ 09:18 3冻。回签发H18-OPS，用ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 654,
+    "total_tokens": 1558
+  }
+}

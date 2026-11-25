@@ -1,0 +1,22 @@
+{
+  "single": {
+    "plan": {
+      "id": "PREFLIGHT-INDEPENDENT",
+      "restricted": "SYN-PREFLIGHT-Z9-281",
+      "shared": 52,
+      "admin": "PREFLIGHT-S2"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "PREFLIGHT-INDEPENDENT",
+      "restricted": "SYN-PREFLIGHT-Z9-281",
+      "shared": 52,
+      "admin": "PREFLIGHT-S2"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

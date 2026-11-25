@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5ce8873ce1a9a112ca106b3b20745d1e51b99736391a5c971f37e94cdb3246cf",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-891e6b684945051b",
+  "created_at": 1795586666,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "E: 仅在共享字段已实际送达 H11-PUB 后安排；行政预约筛选为核算组、开始不早于10:04、至少4席、状态开放，取最早。合格窗口：H11-KM 10:13 4席 开放；H11-LX 10:21 5席 开放。回签用候选ASCII id 发 H11-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 159,
+    "total_tokens": 1063
+  }
+}

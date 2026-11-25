@@ -1,0 +1,17 @@
+{
+  "request_sha256": "22f9691f8ac888a53f9234739b0d8b67edc8ec48651cc7f0ee2cd018b63e5745",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-cf735433f1d200c6",
+  "created_at": 1795586651,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "来源: RMF与HERD23。RMF: AI RMF Core四功能=Govern, Map, Measure, Manage，原始整数4；核验系数=4÷13余数，故仅主来源参与。HERD23仅作说明：FY2023总研发支出108,841、联邦资金59,679（百万单位与%移除后取整数）。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 749,
+    "output_tokens": 139,
+    "total_tokens": 888
+  }
+}

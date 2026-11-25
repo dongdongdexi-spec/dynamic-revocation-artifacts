@@ -1,0 +1,17 @@
+{
+  "request_sha256": "38f484ecb4d2b9e397554860ae12e5665c6f83588fd4aa87d00303f931f7e208",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1a8b470decc2e047",
+  "created_at": 1795586777,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "主来源OQR；Compare按季度刷新=每年4次，为索引口径。对照来源STAR：HCAHPS星级评分需12个月报告期内≥100份调查且具公开报告资格。核验系数=主来源原始整数4÷13的余数；去除百万单位和%后取展示整数；法规按条号。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 762,
+    "output_tokens": 147,
+    "total_tokens": 909
+  }
+}

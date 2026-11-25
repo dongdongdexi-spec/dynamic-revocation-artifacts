@@ -1,0 +1,29 @@
+{
+  "single": {
+    "plan": {
+      "id": "H20",
+      "restricted": "SX-242404-GU",
+      "shared": 436,
+      "admin": "H20-LX"
+    },
+    "note_failures": [
+      "A:incomplete",
+      "B:incomplete",
+      "C:incomplete",
+      "D:incomplete",
+      "E:incomplete",
+      "F:incomplete"
+    ],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H20",
+      "restricted": "SX-242404-GU",
+      "shared": -13,
+      "admin": "H20-KM"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

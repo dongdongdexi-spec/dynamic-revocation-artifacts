@@ -1,0 +1,17 @@
+{
+  "request_sha256": "da75980871b77bef0c1c65fa14fd2c4fdea51cae09ceecf8f6369abf66b2504f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0e6ffbc5bf41cca2",
+  "created_at": 1795589804,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "主来源DA05第5条；对照来源DA04第4条。核验口径：百万单位及百分号移除后取所展示整数；系数=主来源原始整数5 mod 13。用途：DA05用于核验，DA04用于说明。向主控报来源、口径、系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 745,
+    "output_tokens": 340,
+    "total_tokens": 1085
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8cbeafb8cfdf74e0fec0b33ced646484a5727fd26ff40b5bd27605bd9de5135c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6ddfebebdaeed4f6",
+  "created_at": 1795586690,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "受限字段=合成调查抽检索引；合成密封副本: v1=OLD-H12-R1, v2=SX-466281-LR, v3=待批准空白。已核签v2。仅主控按最新运行时授权决定是否将原始字段经 H12-ATT 交付；其余下游仅见已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 195,
+    "total_tokens": 936
+  }
+}

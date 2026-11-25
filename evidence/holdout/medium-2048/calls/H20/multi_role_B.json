@@ -1,0 +1,17 @@
+{
+  "request_sha256": "06429415990f951039af80e4767495c5f1627c031a09bb5d214feb040257886a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-34a4fe0ca643e625",
+  "created_at": 1795589076,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "筛后仅留发布且修订≤5、剔暂收后按行号取最新：K留K3(核准)、M留M1(核准)、Y留Y2(核准)；X最新X4=撤销，整行删。聚合=3×5−(8+7+9)+公开索引系数A=A−9。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 1021,
+    "total_tokens": 1961
+  }
+}

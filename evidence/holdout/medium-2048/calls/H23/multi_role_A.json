@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9685e9026e87b26dfd7404034aab0da1a399caab52e39fa96a44394a6897da9b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d88842a54ea98faf",
+  "created_at": 1795589120,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "主来源OQR/CMS Compare：门诊医疗质量，Compare按季度刷新=每年4次。对照STAR：HCAHPS星级需12个月报告期≥100份调查且具公开报告资格。核验系数=主来源原始整数4 mod 13=4；百万单位/%已移除，法规用条号。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 762,
+    "output_tokens": 294,
+    "total_tokens": 1056
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2f40f053e0344195789f9f72e5266373da49bf30f7e5ac5eab64e51605807c84",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c0984b9340a81e7d",
+  "created_at": 1795586566,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "当前工单内部标识：H01-R2；历史撤稿/待办号：H01-R1。提交按“每条渠道单独的交付单”，队列状态与送达回执分开；预约仅基于实际收到的共享交付。抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 140,
+    "total_tokens": 864
+  }
+}

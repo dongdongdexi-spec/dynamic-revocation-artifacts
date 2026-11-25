@@ -1,0 +1,29 @@
+{
+  "single": {
+    "plan": {
+      "id": "H14",
+      "restricted": "SX-632795-PU",
+      "shared": 213,
+      "admin": "H14-RP"
+    },
+    "note_failures": [
+      "A:incomplete",
+      "B:incomplete",
+      "C:incomplete",
+      "D:incomplete",
+      "E:incomplete",
+      "F:incomplete"
+    ],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H14",
+      "restricted": null,
+      "shared": null,
+      "admin": null
+    },
+    "note_failures": [],
+    "plan_failure": "incomplete"
+  }
+}

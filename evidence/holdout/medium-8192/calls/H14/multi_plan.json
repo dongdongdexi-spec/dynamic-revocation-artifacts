@@ -1,0 +1,19 @@
+{
+  "request_sha256": "1b71f062b0462e79fbf234ca7da970f9fd70b8822884b008a0dd91ffb67f6125",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8482afc3c4ffd515",
+  "created_at": 1795589789,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "restricted": "SX-632795-PU",
+    "shared": 213,
+    "admin": "H14-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1798,
+    "output_tokens": 510,
+    "total_tokens": 2308
+  }
+}

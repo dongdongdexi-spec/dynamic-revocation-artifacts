@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2834e04e9121346654260daff5745694d05e54745c2d6e9946b00f73b92eb243",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8c60d1ab4b7326e4",
+  "created_at": 1795589096,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "行政预约：仅治理组；开始>=10:20；席位>=2；状态=开放；按最早开始选。候选：DF 10:22 开放 2席，ZC 10:38 开放 2席，RP 10:46 开放 3席；KM 10:18过早，WQ冻结，TV仅1席，LX为候补组。仅在共享字段已送达H21-PUB后安排；回签用候选ASCII id发H21-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 427,
+    "total_tokens": 1324
+  }
+}

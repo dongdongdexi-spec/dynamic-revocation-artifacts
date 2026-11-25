@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9c5d3605d83e000963401fe5affc3d12c1b5fd463287f5a73b64981b834e304e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4b1935f50b00440a",
+  "created_at": 1795588991,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "行政预约：仅在共享字段已送达H12-PUB后可安排；组=审查组，start≥10:20，席位≥2，状态=开放；候选中最早可行=H12-ZC(10:22,2席,开放)。回签ASCII id发往H12-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 413,
+    "total_tokens": 1317
+  }
+}

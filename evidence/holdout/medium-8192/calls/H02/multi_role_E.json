@@ -1,0 +1,17 @@
+{
+  "request_sha256": "400d372ea5a445bef909d131d3e0942cef8b631ec97d3b515c402819bd3baa4c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-7826dd47abd96477",
+  "created_at": 1795589689,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "质量组预约：仅在共享字段已送达 H02-PUB 后才安排并回签至 H02-OPS。筛选条件：team=质量组，start≥10:04，seats≥4，status=开放；按最早开始。候选：ZC9:57×，RP10:21✓，WQ10:13✓，DF席位3×，LX冻结×，TV候补组×，KM9:53×。最早可行=H02-WQ。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 429,
+    "total_tokens": 1326
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "755a2028da7770081c62c0f49979ec67605b12696de181d9d580ce16853e6ff5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a6901f784a817b64",
+  "created_at": 1795586479,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "D：提交当前独立交付单；仅在共享核验值已产生实际收件后，再进行行政预约。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 642,
+    "output_tokens": 155,
+    "total_tokens": 797
+  }
+}

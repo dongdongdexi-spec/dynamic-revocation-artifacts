@@ -1,0 +1,17 @@
+{
+  "request_sha256": "68db3724cff38c4f1b6400544a5d601e9143f342cbeca31936db0b18da7baab5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2b33ed4ca4c9eb44",
+  "created_at": 1795589771,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "收件渠道登记：受限附件H14-ATT；共享核验值H14-PUB；行政预约H14-OPS。近似匹配无效；仅当前政策记录可决定授权，历史材料仅供审计/重算，不能作新授权证明。连锁门店申报与个案申诉同批到件，岗位改签或淘汰上一版；均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 730,
+    "output_tokens": 262,
+    "total_tokens": 992
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "83b1506a01d50e6dbe97e1fc8b038becad75c91ca34d670f49d21d68d5b1222a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4269a6932cfc5b38",
+  "created_at": 1795588938,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "行政预约：仅在共享字段已送达H05-PUB后安排；核算组，开始≥11:19，席位≥4，状态开放，取最早。候选：H05-WQ 11:28 4开；H05-KM 11:12 4开(早于起点)；H05-LX 11:23 5冻；H05-RP 候补组；H05-DF 11:08；H05-ZC 3席；H05-TV 11:36 5开。回签ASCII id发H05-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 457,
+    "total_tokens": 1361
+  }
+}

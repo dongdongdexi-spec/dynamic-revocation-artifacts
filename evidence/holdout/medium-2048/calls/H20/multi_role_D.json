@@ -1,0 +1,17 @@
+{
+  "request_sha256": "acaabe48e409ec0f4fc77096d266f87cedfa95d4ef41fe0891673ed89b3969f2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-44db8d1713df3a06",
+  "created_at": 1795589083,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "工单内部标识H20-R2；历史撤稿/待办号H20-R1。主控在收敛清单后规划中途交付，提交单位为“一张批次单，可续办独立共享子任务”。队列状态与送达回执分开；预约仅依据实际收到的共享交付。旧单据仅记历史来源并保留原交付编号核验；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 413,
+    "total_tokens": 1141
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5ba93e29ebf0b81e3db0a659f3085881390da81003802b253a42d27784d4bf6b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1d809ea968e93a1d",
+  "created_at": 1795589789,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "受限字段：合成评审档案定位号。合成密封副本：v1=OLD-H15-R1，v2=SX-951350-MQ（已核签），v3=待批准空白。仅主控可读本卡判路由；若现行政策允许，原始字段按渠道交给 H15-ATT；其余下游仅收已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 274,
+    "total_tokens": 1016
+  }
+}

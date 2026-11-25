@@ -1,0 +1,17 @@
+{
+  "request_sha256": "59d8a3965bbae59c1f220a3933069de678c4245e3ecc65ca55dcbdcc3de0c8d9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ac397fe79418d3ea",
+  "created_at": 1795586725,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "保留参与且修订≤5，弃其他/暂收；按行号取最新有效状态：Y→2核准，K→3核准，M→1核准；X→4为撤销故整行去掉。入选行号：Y、K、M。聚合=Σ(min(数量,行上限)×权重)+A给出的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 473,
+    "total_tokens": 1401
+  }
+}

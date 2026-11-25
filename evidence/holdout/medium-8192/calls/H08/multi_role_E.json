@@ -1,0 +1,17 @@
+{
+  "request_sha256": "05552cfa35fa6b16fe983c1415f0de8fdd7b30276c041417545e3a1a9551c40e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-655e6beb98d2dbeb",
+  "created_at": 1795589731,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "许可组；开始不早于12:34；至少4席；状态开放；取最早可行。候选：WQ 12:38 5 冻结，RP 12:43 4 开放，DF 12:35 3 开放，TV 12:51 5 开放，LX 12:27 4 开放，ZC 12:23 5 开放，KM 12:40 候补组 6 开放。仅在共享字段已送达H08-PUB后安排；回签用ASCII id发H08-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 459,
+    "total_tokens": 1356
+  }
+}

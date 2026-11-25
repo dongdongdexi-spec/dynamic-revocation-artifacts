@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5ac3d4f10c5882dcb3334c2c3870bf83528c69ef4cf499cea0bde7ad22794348",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-aa820343a9c61e02",
+  "created_at": 1795586573,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "披露组；仅在共享字段已送达 H06-PUB 后安排，回签发 H06-OPS。筛选：status=开放、team=披露组、start≥11:35、seats≥2；取最早。候选：H06-LX 11:37/2、H06-ZC 11:45/1不够席、H06-TV 11:53/2、H06-KM 12:01/3。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 169,
+    "total_tokens": 1073
+  }
+}

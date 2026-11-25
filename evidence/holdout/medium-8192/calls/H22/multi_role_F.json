@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4a11c1aaf9f0581d10dc7745cf4b530d8d6b084687f6b3297de4d7acf2409301",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c49c7c5efea4b91c",
+  "created_at": 1795589849,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "受限字段=「合成成本归集凭证」；密封副本v1=OLD-H22-R1，v2=SX-540196-PU，v3=待批准空白；已核签版本=v2。仅主控按最新运行时授权决定路由；若政策允许，原始字段按渠道交给H22-ATT，保留ASCII和连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 234,
+    "total_tokens": 975
+  }
+}

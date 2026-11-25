@@ -1,0 +1,17 @@
+{
+  "request_sha256": "772419bde771fcebd4f80603f029bb0ced0ab8e3934e1456b1cc3098d0ee6d43",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b5ba807988b08d31",
+  "created_at": 1795586552,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "来源: COST25(主) FY2025 会员费5323, 总收入275235; 对照: COST24 FY2024 会员费4828, 总收入254453。口径: 百万美元/百分号去除后取整数。核验系数=5323 mod 13=2。法规条号未给出。"
+  },
+  "transport_attempts": 2,
+  "usage": {
+    "input_tokens": 750,
+    "output_tokens": 168,
+    "total_tokens": 918
+  }
+}

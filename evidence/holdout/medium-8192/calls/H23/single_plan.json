@@ -1,0 +1,19 @@
+{
+  "request_sha256": "2d5364910b12f76eeb027ab160da1241acf3a0c5836b1d38ca19f42f582576b7",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ea0e5677d1dfa217",
+  "created_at": 1795589854,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "restricted": "SX-728441-NQ",
+    "shared": 0,
+    "admin": "H23-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3474,
+    "output_tokens": 1070,
+    "total_tokens": 4544
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "single": {
+    "plan": {
+      "id": "H08",
+      "restricted": "SX-823491-JU",
+      "shared": 283,
+      "admin": "H08-RP"
+    },
+    "note_failures": [
+      "A:incomplete",
+      "B:incomplete",
+      "C:incomplete",
+      "D:incomplete",
+      "E:incomplete",
+      "F:incomplete"
+    ],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H08",
+      "restricted": "SX-823491-JU",
+      "shared": 28,
+      "admin": "H08-RP"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

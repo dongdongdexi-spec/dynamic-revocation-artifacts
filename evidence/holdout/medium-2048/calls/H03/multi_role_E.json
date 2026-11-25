@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5b019b90ec335531cb2b5d23acaa0d739e4808159d40c80e8f5b77873e03f225",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-267e423ba7d326e8",
+  "created_at": 1795588898,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "行政预约：仅在共享字段已实际送达 H03-PUB 后安排；审查组，开始≥10:20，至少2席，状态=开放，选最早。候选：WQ 10:46 3 开；RP 10:38 2 开；KM 10:35 候补组 4 开；ZC 10:30 1 开；DF 10:33 3 冻结；LX 10:18 3 开；TV 10:22 2 开。最早合规=H03-TV。回签用ASCII id，发往 H03-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 671,
+    "total_tokens": 1575
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8129cd29f60cc14755a8a76f665601af31d571a943a9b4a2df091dcad00386e6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-7960bd50b667784a",
+  "created_at": 1795586777,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "仅算子流=成本且修订≤5；先按行号保留最新有效状态，若最新为撤销则删整行；再忽略暂收。数据：X4撤销23/2/7/16，M1核准15/2/8/28，K1核准31/2/6/14，X2核准10/2/2/26，K3核准12/2/8/17，M4暂收19/3/8/27，K5暂收14/4/6/29。聚合=∑min(数量,行上限)×权重+公开索引系数，系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 268,
+    "total_tokens": 1196
+  }
+}

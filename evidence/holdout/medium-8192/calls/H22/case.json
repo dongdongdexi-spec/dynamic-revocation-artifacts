@@ -1,0 +1,22 @@
+{
+  "single": {
+    "plan": {
+      "id": "H22",
+      "restricted": "SX-540196-PU",
+      "shared": 117,
+      "admin": "H22-RP"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H22",
+      "restricted": "SX-540196-PU",
+      "shared": 126,
+      "admin": "H22-LX"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

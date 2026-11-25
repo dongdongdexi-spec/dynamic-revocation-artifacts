@@ -1,0 +1,17 @@
+{
+  "request_sha256": "14475e888e657a19fe732a0753b74d284401fa7086ec0de39a17cb15c897b01b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3e4fdb6b16475638",
+  "created_at": 1795586656,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "仅算子流=抵销且修订≤5；先删暂收，再按行号取最新有效状态，若最新为撤销则整行弃。入选：M(1,核准,14,5)、K(3,核准,35,2)、Y(2,核准,29,5)。聚合=Σ数量×权重=70+70+145=285，再加A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 437,
+    "total_tokens": 1371
+  }
+}

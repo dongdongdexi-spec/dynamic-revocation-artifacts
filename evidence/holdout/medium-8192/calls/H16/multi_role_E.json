@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c463309ff56aedafbf615f388764cb16657bcd7b04319c1bae16d0a9caae4cb6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-078c4d23d7837d85",
+  "created_at": 1795589791,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "行政预约：仅在共享字段已送达 H16-PUB 后执行；条件=运营组、start≥12:09、seats≥3、status=开放。候选：RP 12:26/4/开，KM 12:18/3/开；TV 12:10/2 不足，DF 11:58、LX 12:02 过早，WQ 冻结，ZC 非运营组。最早可行窗口 H16-KM，回签发 H16-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 650,
+    "total_tokens": 1547
+  }
+}

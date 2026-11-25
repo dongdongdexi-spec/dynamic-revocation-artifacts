@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a246f4c964597fb6ee8469f1235c504af2f28d3301da467a447bd7772c6dc5b6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-aeb2ef1740a5b61e",
+  "created_at": 1795589781,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "筛后仅更正且修订≤5，去暂收；同号取最新有效状态，若最新为撤销则整行删。入选：K(3核准,23→20×2=40)、M(1核准,34→30×3=90)、Y(2核准,11×3=33)；X因4撤销删除。聚合=163+A给的系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 938,
+    "output_tokens": 994,
+    "total_tokens": 1932
+  }
+}

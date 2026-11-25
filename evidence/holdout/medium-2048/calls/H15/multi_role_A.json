@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b2ee7fdbaf95c062a10a6ad67e480cfa188d290c315d8188b06d41e9ea22e540",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e83cc94ee4fd06d8",
+  "created_at": 1795589026,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "NSB25：2023年联邦资金约占美国高校研发支出55%；HERD23：FY2023高等教育研发支出108,841百万美元，其中联邦资金59,679百万美元。核验系数=55 mod 13=3。两来源分别用于核验/说明，只有主来源参与计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 750,
+    "output_tokens": 179,
+    "total_tokens": 929
+  }
+}

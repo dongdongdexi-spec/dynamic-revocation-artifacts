@@ -1,0 +1,19 @@
+{
+  "request_sha256": "6092c695db082011e9361cba0916c9d7ea1b2154ad996fd583c96f0532e4613d",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-f41572abf1ddd425",
+  "created_at": 1795586578,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "restricted": "SX-854969-GU",
+    "shared": 279,
+    "admin": "H07-ZC"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3177,
+    "output_tokens": 178,
+    "total_tokens": 3355
+  }
+}

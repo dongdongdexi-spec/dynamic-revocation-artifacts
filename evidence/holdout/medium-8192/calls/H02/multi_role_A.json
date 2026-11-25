@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b9b9f266884f50c3fea9349851efd4007e90bca7e475e913c7503b7a184ae496",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c7d51741611bfbd4",
+  "created_at": 1795589678,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "来源：主=HCAHPS（2006全国实施，2008起公开报告）；辅=STAR（要求12个月报告期≥100份调查且具公开报告资格）。口径：百万单位、%移除后取所示整数；法规用条号。核验系数=2008÷13余数=6。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 759,
+    "output_tokens": 328,
+    "total_tokens": 1087
+  }
+}

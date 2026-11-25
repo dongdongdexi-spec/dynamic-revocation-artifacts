@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b60cce9d733082bb2f2448978316e5ce117d6c7a8e1a31ef9328b79d59999415",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0675a269395b702e",
+  "created_at": 1795589691,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "行政预约：仅在共享字段已实际送达 H04-PUB 后安排；限制=福利组、开始>=10:54、至少3席、状态=开放；候选按最早可行：H04-LX 11:03/3/开放，H04-RP 11:11/4/开放；其他不符：H04-ZC席位2、H04-KM冻结、H04-DF 10:43、H04-TV 10:47、H04-WQ候补组。回签用ASCII id发H04-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 281,
+    "total_tokens": 1178
+  }
+}

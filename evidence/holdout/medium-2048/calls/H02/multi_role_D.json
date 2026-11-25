@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d5d370f650e475f82f6eb4c6f063c9f5a79759b89d13f7c9157190fefca38207",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-edcb9479c75d4cea",
+  "created_at": 1795588896,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "交付单按“每条渠道单独”处理；队列状态与送达回执分离；预约仅可依据实际收到的共享交付安排。历史旧单据仅记来源并保留原编号核验。当前工单内部标识H02-R2；历史撤稿/待办号H02-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 221,
+    "total_tokens": 945
+  }
+}

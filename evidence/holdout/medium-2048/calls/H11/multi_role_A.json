@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f2514a6632b9f140f78bad1752ff356101fa439a38c0e833700ee6831bb89a30",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-398b7c6c6f8b896a",
+  "created_at": 1795588977,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "主来源 INTC24：FY2024 合并收入 53101（百万美元，合并口径，排除内部交易）；对照 ADBE24：FY2024 收入 21505，订阅收入 20521。核验系数=主来源整数53101÷13的余数；仅主来源参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 230,
+    "total_tokens": 987
+  }
+}

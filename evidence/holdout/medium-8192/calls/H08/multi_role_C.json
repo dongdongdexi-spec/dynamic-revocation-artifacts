@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ef1e9f538d0784990496065e11aa0e65f6321118366606cb41e0c533b92d25f3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2fa44735474caf04",
+  "created_at": 1795589726,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "收件人分轨：受限附件 H08-ATT；共享核验值 H08-PUB；行政预约 H08-OPS。近似匹配无效；仅当前政策记录可授权，历史材料仅审计/重算，不得作新授权。用户申请与模拟第三方分轨；律师窗口按签批时间再预约；均为虚构台账，无真实收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 726,
+    "output_tokens": 210,
+    "total_tokens": 936
+  }
+}

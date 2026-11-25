@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7e18dbf10f8a7f467a1322eb3cc0306237a2811a36598efc0c9f01d6ba5a225a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-77cf130aea341d56",
+  "created_at": 1795588885,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "来源：主HCAHPS；对照STAR。口径：主源用于核验值计算，STAR仅作说明/资格条件（12个月报告期≥100份调查且具公开报告资格）。系数：2008÷13余6；HCAHPS 2006全国实施，2008起公开报告。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 759,
+    "output_tokens": 237,
+    "total_tokens": 996
+  }
+}

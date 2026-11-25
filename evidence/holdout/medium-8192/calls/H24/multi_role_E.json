@@ -1,0 +1,17 @@
+{
+  "request_sha256": "72365db271292974d97f15011416d9e161e8d27f11da4cd9dab9446ebbb17419",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ced37e296d5818cb",
+  "created_at": 1795589874,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "note": "审计组；仅在共享字段已送达 H24-PUB 后安排。条件：开始≥11:35，状态开放，至少2席；选最早。可用：11:37 H24-RP(2席)、11:53 H24-TV(2席)、12:01 H24-KM(3席)；其余不合。回签用候选ASCII id，发往 H24-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 419,
+    "total_tokens": 1323
+  }
+}

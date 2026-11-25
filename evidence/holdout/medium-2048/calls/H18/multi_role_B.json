@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7ed465d01eb14565b79caed764ea8504afedeca23c8c9acb6438efd699a3ab15",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e7f453598dd5844e",
+  "created_at": 1795589075,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "仅移交且修订≤5；先按行号取最新有效状态，若最新为撤销则整行删；暂收行忽略。数据：M1核准26,2,9,16；T2其他15,5,4,29；K5暂收31,2,10,19；Y2核准14,3,8,12；X4撤销21,3,6,22；K1核准36,3,9,16；M4暂收34,5,1,21；X2核准31,4,1,19；K3核准26,5,6,20。聚合=(数量-冲销,下限0)*权重求和+公开索引系数；系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 689,
+    "total_tokens": 1626
+  }
+}

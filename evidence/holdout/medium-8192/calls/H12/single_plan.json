@@ -1,0 +1,19 @@
+{
+  "request_sha256": "de8c0b891db20ec619cd8732545fff325036cebd766d1dd33f3fbf5335276ca8",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e3a4fb8f5a12d1c6",
+  "created_at": 1795589777,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "restricted": "SX-466281-LR",
+    "shared": 304,
+    "admin": "H12-ZC"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3220,
+    "output_tokens": 1735,
+    "total_tokens": 4955
+  }
+}

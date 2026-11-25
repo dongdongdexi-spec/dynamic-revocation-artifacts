@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b72701c60a44dd36c14137233ac6a2d3e2e89f291cd5b01c89f9423c02de8056",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9d162ae03f6a38f5",
+  "created_at": 1795589086,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "仅取子流=交割且修订≤5，忽略暂收；按行号保留最新有效状态，最新若为撤销则整行剔除。入选：K3、M1、Y2；X因最新有效态为撤销删去。聚合=Σ[max(数量-冲销量,0)×权重]+公开索引系数（A给）。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 1045,
+    "total_tokens": 1982
+  }
+}

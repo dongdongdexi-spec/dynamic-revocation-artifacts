@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4c1cd937658b39aa99dc9839f420777261f4b9915dca27252f73482c0de10479",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-11b02dc3eeb544ea",
+  "created_at": 1795589680,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "仅取子流=订阅且修订<=5；暂收忽略。按行号取最新有效：K3核准（K5暂收忽略，K1更旧）；X4撤销→整行删；M1核准（M4暂收忽略）；Y7核准（Y2更旧）。T2非订阅删。聚合=Σ数量×权重+A给的公开系数；回传入选行号+办法。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 1081,
+    "total_tokens": 2015
+  }
+}

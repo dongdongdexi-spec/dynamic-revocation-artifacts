@@ -1,0 +1,17 @@
+{
+  "request_sha256": "237375626debd7f1f11f0c9eb87920464fe1c88c06ca88c7d9c63d0fbb47b519",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8b2d4378c582e19f",
+  "created_at": 1795589731,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "仅处理子流=开放、修订<=5；忽略暂收；按行号保留最新有效态，若最新为撤销则删整行。有效入选：K(3核准/36/4/5/23)、Y(2核准/13/3/9/25)、M(1核准/15/2/7/22)。截断后加权和=23*4+13*3+15*2=161；公开索引系数待A提供。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 537,
+    "total_tokens": 1465
+  }
+}

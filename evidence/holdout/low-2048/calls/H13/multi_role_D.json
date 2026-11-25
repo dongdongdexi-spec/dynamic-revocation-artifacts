@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b08cd96fdeb68c19957a8638f2cacf0cf48e1397ba5e03ab18fb08c3bedccfb6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-70166a20877f648a",
+  "created_at": 1795586691,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "当前工单内部标识 H13-R2；历史撤稿/待办号 H13-R1。提交单位为每条渠道单独的交付单；队列状态与送达回执分开。预约仅依据实际收到的共享交付安排；抄送或常设组路由未经本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 118,
+    "total_tokens": 842
+  }
+}

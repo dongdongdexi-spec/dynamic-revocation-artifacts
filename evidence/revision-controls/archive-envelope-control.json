@@ -1,0 +1,497 @@
+{
+  "pairs": 60,
+  "description": "The same keyless persisted synthetic archive is loaded before and after Gateway.revoke.",
+  "key_lookup": "Only the current Gateway index is consulted. No detached key copies are used.",
+  "outcome": "An authenticated open also has to reproduce the bound plaintext digest.",
+  "limits": "This control covers the active index. Physical erasure, external caches, backup recovery, and keys acquired before retirement are untested.",
+  "counts": {
+    "retained_slot_authenticated_open": 60,
+    "retired_slot_absent": 60,
+    "retired_slot_authenticated_open": 0,
+    "archive_unchanged": 60,
+    "regranted_epoch_authenticated_open": 60,
+    "old_slot_absent_after_regrant": 60
+  },
+  "per_pair": [
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    },
+    {
+      "retained_slot_authenticated_open": true,
+      "retired_slot_absent": true,
+      "retired_slot_authenticated_open": false,
+      "archive_unchanged": true,
+      "regranted_epoch_authenticated_open": true,
+      "old_slot_absent_after_regrant": true
+    }
+  ]
+}

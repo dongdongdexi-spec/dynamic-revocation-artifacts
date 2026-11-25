@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bbd7d3a725349739b1ef1c2b043fd0eb43a598d254c0407558641457ff2cf7da",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ab01e83c8c5f436c",
+  "created_at": 1795589694,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "行政预约：仅在共享字段已实际送达 H06-PUB 后才安排；收件 H06-OPS，回签用候选 ASCII id。限制：披露组，start≥11:35，seats≥2，status=开放；满足者取最早。候选：H06-ZC 11:45/1/开放；H06-KM 12:01/3/开放；H06-RP 11:48/3/冻结；H06-DF 11:33/3/开放；H06-LX 11:37/2/开放；H06-TV 11:53/2/开放；H06-WQ 候补组 11:50/4/开放。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 420,
+    "total_tokens": 1324
+  }
+}

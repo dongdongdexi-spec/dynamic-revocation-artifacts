@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bb6bebd1e71666f8af8190f7d096cb2a6fbb37f63ea0242ef92bccab1b004376",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-f53141b172216a13",
+  "created_at": 1795589783,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "主控在收敛清单后规划中途交付；提交单位=每条渠道单独的交付单。队列状态与送达回执分开，预约仅据实际收到的共享交付。旧单据只记历史来源并保留原交付编号核验。当前工单内部标识H15-R2；历史撤稿/待办号H15-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 373,
+    "total_tokens": 1097
+  }
+}

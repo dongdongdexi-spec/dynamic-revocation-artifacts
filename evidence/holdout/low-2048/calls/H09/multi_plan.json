@@ -1,0 +1,19 @@
+{
+  "request_sha256": "f1492fea41676150bf527cb997b56c97a1e5ef1c5777080a17c22f9ea6c2c2ae",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-32819be8338a5494",
+  "created_at": 1795586581,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "restricted": null,
+    "shared": 168,
+    "admin": "H09-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1701,
+    "output_tokens": 175,
+    "total_tokens": 1876
+  }
+}

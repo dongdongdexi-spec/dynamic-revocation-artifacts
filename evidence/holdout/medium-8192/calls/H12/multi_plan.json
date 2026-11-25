@@ -1,0 +1,19 @@
+{
+  "request_sha256": "7a1ed3fd2699035d111ecd784ea4081304ef80aa10ebb6aeea8efbd10bf890f9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fc96795038fa216d",
+  "created_at": 1795589788,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "restricted": "合成调查抽检索引",
+    "shared": 105,
+    "admin": "H12-ZC"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1663,
+    "output_tokens": 1903,
+    "total_tokens": 3566
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "91918e2477ed3d8d07930b1922084a301c681e0bcd43c7a0d78d5ba7cbfd9afb",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-994c6d90a13591b1",
+  "created_at": 1795586673,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "主来源STAR：HCAHPS星级评分需12个月报告期内至少100份调查且具公开报告资格；HCAHPS说明：2006全国实施，2008起公开报告。核验系数=100 mod 13=9。百万单位/百分号已移除，按法规条号。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 163,
+    "total_tokens": 920
+  }
+}

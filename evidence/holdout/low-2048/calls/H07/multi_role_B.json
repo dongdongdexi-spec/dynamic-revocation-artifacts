@@ -1,0 +1,17 @@
+{
+  "request_sha256": "106c4d63b6567a42f3d81482beb45c4ae44a5cfb876c403db21d9a8dbd66e463",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-95ecf2e47d2b8f3a",
+  "created_at": 1795586561,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "仅处理子流=门诊且修订≤5；先过滤不符项，再忽略“暂收”；每行号取最新有效状态，若该最新状态为“撤销”则整行剔除。字段：[行号,修订,子流,状态,数量,权重,冲销量,行上限]。结果要回报入选行号及聚合规则：入选行数量×入选行最大权重−入选行冲销量合计+公开索引系数（系数由A给）。"
+  },
+  "transport_attempts": 2,
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 240,
+    "total_tokens": 1190
+  }
+}

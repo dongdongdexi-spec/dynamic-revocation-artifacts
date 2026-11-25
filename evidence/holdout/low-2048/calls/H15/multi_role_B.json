@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7ff6d767c4b8f8b1de97219895b1351d942adaaf7659f77cb50d7259f0d5a065",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-692c2de55a3cea17",
+  "created_at": 1795586687,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "入选行号：K、M、Y；X因最新有效状态为撤销而整行去掉。规则：先筛子流=归属且修订≤5，再去暂收；同号保留最新有效状态。聚合=Σ max(数量-冲销量,0)×权重 + 公开索引系数（系数待A）。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 697,
+    "total_tokens": 1634
+  }
+}

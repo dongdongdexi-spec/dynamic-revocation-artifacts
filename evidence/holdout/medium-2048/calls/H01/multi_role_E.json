@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b5b2eba89344c966c1a962c934a88bd19f0b3d6400f51a998e6da121266268a6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-80ddd6919db4f833",
+  "created_at": 1795588901,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "仅在共享字段已实际送达 H01-PUB 后安排；互认组，start≥09:39，seats≥3，status=开放，取最早。可行仅 H01-KM(09:48,3,开放)；H01-TV 更晚。回签用候选 ASCII id，发往 H01-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 467,
+    "total_tokens": 1371
+  }
+}

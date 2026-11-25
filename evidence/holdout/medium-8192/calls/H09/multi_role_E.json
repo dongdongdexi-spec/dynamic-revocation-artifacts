@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c554267c0f99d3f0deb7368bf26da160469afe239b136d7abf51008d4634a847",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-edaa4460c0366b18",
+  "created_at": 1795589740,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "行政预约：仅在共享字段已送达H09-PUB后安排；薪酬组，开始≥09:05，≥2席，状态开放，按最早可行选。可行：H09-DF(09:07,2席)；H09-ZC(09:23,2席)；H09-RP(09:31,3席)。回签用ASCII id发H09-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 911,
+    "output_tokens": 586,
+    "total_tokens": 1497
+  }
+}

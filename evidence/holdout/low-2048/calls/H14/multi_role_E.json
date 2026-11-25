@@ -1,0 +1,17 @@
+{
+  "request_sha256": "12e7147be6ce3ec9761f698c79ee19d25fc4deec54ab45b32fd1e64132675ae2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3b54dc14000cf748",
+  "created_at": 1795586696,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "E: 预约仅在共享字段已实际送达 H14-PUB 后才可安排；条件=调查组、start≥11:19、席位≥4、状态开放，取最早。候选：H14-RP 11:28 调查组 4 开放；H14-WQ 11:36 调查组 5 开放。其余不符：LX冻结、DF候补组、KM/TV/ZC时间过早或TV席位不足。回签用ASCII id发 H14-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 301,
+    "total_tokens": 1198
+  }
+}

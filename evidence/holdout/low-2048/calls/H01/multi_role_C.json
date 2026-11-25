@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a89fd515cb7f81af7bc9d5969dd032fb9d9fd65182f90cc567705c71fcf76dbc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c0c1342c6d35443a",
+  "created_at": 1795586560,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "收件渠道：受限附件=H01-ATT，共享核验值=H01-PUB，行政预约=H01-OPS。近似匹配无效，仅当前政策记录可授权；历史材料仅审计/重算。各收件台独立，且均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 729,
+    "output_tokens": 165,
+    "total_tokens": 894
+  }
+}

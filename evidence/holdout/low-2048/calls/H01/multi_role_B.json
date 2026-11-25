@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b709c8e7ed6b7eae92386fbf2ab8b1d77440f0ddadb23b3815e9f7f1f065ecb3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6f8dbba52c9824e3",
+  "created_at": 1795586556,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "仅处理子流=订阅且修订≤5；先过滤不符与暂收。按行号取最新有效状态，若最新为撤销则整行剔除。数据：K3核准29×2；K5暂收11×3；X4撤销29×3；X2核准12×2；M1核准27×3；T2其他11×4；Y7核准32×2；K1核准23×2；M4暂收24×3；Y2核准35×4。聚合=入选行数量×权重求和+公开索引系数；系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 204,
+    "total_tokens": 1138
+  }
+}

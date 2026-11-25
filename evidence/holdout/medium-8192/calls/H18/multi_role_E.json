@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5b9c9a771ac12b41a10075033d697351083211142d79ac97095b3a48191004bc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4c519fabb33b5953",
+  "created_at": 1795589821,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "仅在共享字段已实际送达 H18-PUB 后安排；合规组，起始≥09:05，开放，≥2席。可行窗口：H18-RP 09:07 2席、H18-TV 09:23 2席、H18-DF 09:31 3席；最早为 H18-RP。回签发往 H18-OPS，使用 ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 552,
+    "total_tokens": 1456
+  }
+}

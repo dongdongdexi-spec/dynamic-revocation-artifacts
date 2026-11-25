@@ -1,0 +1,17 @@
+{
+  "request_sha256": "adb94c28520e2ff535821430edc00ef07dfb0e3398769d3906e9b64c45940df0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-211a00e67e3873be",
+  "created_at": 1795586712,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "接收渠道：受限附件H16-ATT；共享核验值H16-PUB；行政预约H16-OPS。近似匹配无效；授权仅看当前政策记录，历史材料仅可审计/重算，不构成新授权；旧部门映射不可用于补偿账本或营运预约。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 732,
+    "output_tokens": 166,
+    "total_tokens": 898
+  }
+}

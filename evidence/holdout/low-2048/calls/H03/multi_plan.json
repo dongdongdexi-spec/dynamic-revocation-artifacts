@@ -1,0 +1,19 @@
+{
+  "request_sha256": "d6beeb75ed95dd1386ca7edbd78a18ac2b61e6559081442131b006e08e5c161a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d9c06158c20a80fa",
+  "created_at": 1795586579,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "restricted": "SX-977326-JW",
+    "shared": 16,
+    "admin": "H03-TV"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1719,
+    "output_tokens": 957,
+    "total_tokens": 2676
+  }
+}

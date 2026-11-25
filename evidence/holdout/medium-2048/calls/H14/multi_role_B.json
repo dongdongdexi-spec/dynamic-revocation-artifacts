@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d86dc977c2163982a0fceb39ed012a34c070b67046aa7e9f18a6851def2871fa",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-715398cfca3a1c55",
+  "created_at": 1795589022,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "筛后仅保留用工且修订≤5，去暂收；按行号取最新有效状态：X=4撤销→删，M=1核准，Y=2核准，K=3核准。入选行号=M/Y/K；聚合=Σ(数量×权重)+公开索引系数（系数待A）。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 1110,
+    "total_tokens": 2044
+  }
+}

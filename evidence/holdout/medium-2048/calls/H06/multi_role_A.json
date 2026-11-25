@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fdf0af71746e90f6edd9992a1d70a56771a74439a69ef761c9c78563b68f3afd",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-45950a2fb57cdfd6",
+  "created_at": 1795588928,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "会员费滚动差异：主来源COST25，FY2025会员费5323、总收入275235；对照COST24，FY2024会员费4828、总收入254453。核验系数=主来源整数5323÷13余6；仅主来源参与核验值计算，来源/口径/系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 750,
+    "output_tokens": 231,
+    "total_tokens": 981
+  }
+}

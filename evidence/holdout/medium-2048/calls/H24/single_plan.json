@@ -1,0 +1,19 @@
+{
+  "request_sha256": "ccc1d6ef26c6236f7feb447818d020b19dc4866e8aa20ebbfa2c47d84f6e5ef3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1bd00d2c2fd42d4f",
+  "created_at": 1795589144,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "restricted": "SX-291849-GR",
+    "shared": 289,
+    "admin": "H24-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 2420,
+    "output_tokens": 1793,
+    "total_tokens": 4213
+  }
+}

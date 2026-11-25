@@ -1,0 +1,24 @@
+{
+  "single": {
+    "plan": {
+      "id": "H12",
+      "restricted": "SX-466281-LR",
+      "shared": 304,
+      "admin": "H12-ZC"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H12",
+      "restricted": "合成调查抽检索引",
+      "shared": 105,
+      "admin": "H12-ZC"
+    },
+    "note_failures": [
+      "B:invalid_note"
+    ],
+    "plan_failure": null
+  }
+}

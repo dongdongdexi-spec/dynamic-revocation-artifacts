@@ -1,0 +1,17 @@
+{
+  "request_sha256": "868a63b86023aff89865db6f4a3ffd743448f009d2ee83164a1726bcb7bf2228",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ff965e52a021bf33",
+  "created_at": 1795588887,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "筛选后保留 M@1、K@3；X 最新有效为撤销整行删，Y@7超截止删，暂收行忽略，T非住院删。聚合=(数量-冲销量,下限0)×权重求和，再+公开索引系数；底数=15+95=110，系数待A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 572,
+    "total_tokens": 1509
+  }
+}

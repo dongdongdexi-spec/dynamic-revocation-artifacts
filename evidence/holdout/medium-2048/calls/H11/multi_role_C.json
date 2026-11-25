@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2d76ea4976606c9cf88fb0cbf944b1093ed1fddd0e76e1078c30539b956f2fa6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-874edffc607780bb",
+  "created_at": 1795588984,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "渠道登记：受限附件H11-ATT；共享核验值H11-PUB；行政预约H11-OPS。近似匹配无效；仅当前政策记录可作授权依据，历史材料仅供审计/重算，不能作新授权证明。实验单按集团口径解释抵销，合成生产排产附件需单独登记；均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 725,
+    "output_tokens": 328,
+    "total_tokens": 1053
+  }
+}

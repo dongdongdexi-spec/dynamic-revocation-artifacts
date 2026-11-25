@@ -1,0 +1,17 @@
+{
+  "request_sha256": "434d4ceff2a347100c648bdd9af259f2a38b1c6ad69edfa2b79234aaeaf5837c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-eca7c149e1542677",
+  "created_at": 1795589818,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "仅取子流=发布且修订≤5，忽略暂收；按行号保留最新有效状态，若最新为撤销则整行剔除。入选：K3、M1、Y2；X组最新有效为撤销，故整组去除。聚合=3×max权重5−冲销量24+A=−9+A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 1037,
+    "total_tokens": 1977
+  }
+}

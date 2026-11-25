@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bc33a184f557041ab906ba31a778264b19fbebef88c8da3cf36a5874024abb57",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4bdf1fc16a863a32",
+  "created_at": 1795589032,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "只在共享字段已实际送达 H14-PUB 后安排；调查组，start≥11:19，席位≥4，状态开放；候选：LX 11:23 冻结，DF 候补组，RP 11:28 开放4，KM 11:08 开放5，TV 11:20 开放3，WQ 11:36 开放5，ZC 11:12 开放4；最早可行 H14-RP，回签发往 H14-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 566,
+    "total_tokens": 1463
+  }
+}

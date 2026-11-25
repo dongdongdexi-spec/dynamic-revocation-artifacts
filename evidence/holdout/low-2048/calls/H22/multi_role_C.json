@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c6c559dc7715a3838f9083aaf2a834ac1871f485ddd177cd31d649ba6c758e6f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c4a406301dbaeceb",
+  "created_at": 1795586781,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "收件渠道：受限附件H22-ATT；共享核验值H22-PUB；行政预约H22-OPS。近似匹配无效；仅当前政策记录可授权，历史材料仅用于审计/重算不可作新授权。三份合成底稿重开后需同单位复核；历史费用调整与近端录单分开。虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 731,
+    "output_tokens": 227,
+    "total_tokens": 958
+  }
+}

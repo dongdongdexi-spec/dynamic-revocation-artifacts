@@ -1,0 +1,60 @@
+{
+  "pass": true,
+  "failed_gates": [],
+  "gates_measured": {
+    "issued_natural_operations": 1980,
+    "independent_deliveries": 990,
+    "post_publication_old_commits": 0,
+    "post_publication_old_decrypt_admissions": 0,
+    "duplicate_durable_receipts": 0,
+    "digest_mismatches": 0,
+    "unbound_worker_requests_in_natural_runs": 0,
+    "missing_or_nonterminal_natural_operations": 0,
+    "authorized_attempts_without_matching_durable_receipt_or_fence_before_lease_release": 0,
+    "retired_scope_overlap_rounds_minimum": 10,
+    "target_scope_actual_ack_suppression_minimum": 48,
+    "target_scope_durable_fence_minimum": 68,
+    "target_scope_attempt_denials_minimum": 832,
+    "delayed_original_refusals_minimum": 176,
+    "cached_duplicate_outcomes_minimum": 285,
+    "malformed_ack_rejected_and_resolved_minimum": 157
+  },
+  "controls": {
+    "retired_after_regrant": "denied",
+    "valid_regrant": "committed",
+    "binding_mismatch": "binding_mismatch",
+    "cross_handle": "binding_mismatch",
+    "invalid_tag": "invalid_ciphertext",
+    "regrant_status": "committed"
+  },
+  "worker_calls": 2927,
+  "durable_natural_receipts": 1148,
+  "actual_postcommit_acks_suppressed": 330,
+  "durable_fenced_attempts": 351,
+  "fresh_authorized_retries": 325,
+  "authorized_decrypt_attempts": 1500,
+  "old_receipts_before_publication": 158,
+  "old_receipts_during_write_wait": 7,
+  "overlap_epochs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "application_transport": "ipv4_loopback_tcp",
+  "scheduled_tcp_worker_connections": 110,
+  "scheduled_tcp_recipient_connections": 1,
+  "environment": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.12.9",
+    "sqlite": "3.45.3",
+    "logical_cpu_count": 24
+  },
+  "ipc_protocol_sha256": "b38cce0f194141ecceaeb36f78aa57f16d2368d69d5b7765102acf6d57953e31"
+}

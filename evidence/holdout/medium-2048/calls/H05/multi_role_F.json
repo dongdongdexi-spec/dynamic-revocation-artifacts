@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d5d24282eb0d88eb98db3eaf6743c916b2d5d3b3d7ee9f712e0017d25de35f3b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-478998e8d9e781e4",
+  "created_at": 1795588941,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "受限字段=合成同行匿名编号；密封副本v1=OLD-H05-R1，v2=SX-468065-JR(已核签)，v3=待批准空白。仅主控可内部读取本卡决定路由；若当前政策允许，原始字段按渠道交给H05-ATT，保留ASCII和连字符；仅用最新有效运行时授权。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 739,
+    "output_tokens": 243,
+    "total_tokens": 982
+  }
+}

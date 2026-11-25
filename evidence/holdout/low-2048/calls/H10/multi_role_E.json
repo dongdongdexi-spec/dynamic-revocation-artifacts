@@ -1,0 +1,17 @@
+{
+  "request_sha256": "07cd76a4b02f945cffdebb2f0e8440718a21d4cc908aea1289756002029395b6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6570a89ac57de5f9",
+  "created_at": 1795586665,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "行政预约：仅在共享字段已实际送达 H10-PUB 后安排；团队=模型组，开始>=09:39，席位>=3，状态=开放；从候选中取最早可行窗口。可行：H10-DF 09:48/3/开放，H10-WQ 09:56/4/开放；H10-RP席位不足，其余早于起点/非开放/非模型组。回签ASCII id发 H10-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 194,
+    "total_tokens": 1091
+  }
+}

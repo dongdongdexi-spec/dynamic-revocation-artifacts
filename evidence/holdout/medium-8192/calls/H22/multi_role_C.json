@@ -1,0 +1,17 @@
+{
+  "request_sha256": "92e232076ea6819017dc72897d285627dac224e86267a46d2cc504c87e4f0673",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-cecfbefc6ededb1b",
+  "created_at": 1795589840,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "渠道登记：受限附件=H22-ATT，共享核验值=H22-PUB，行政预约=H22-OPS。近似匹配无效；仅当前政策记录可作授权，历史材料仅可审计/重算不可作新授权。三份合成底稿重开后需同单位复核；历史费用调整与近端录单分开。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 731,
+    "output_tokens": 201,
+    "total_tokens": 932
+  }
+}

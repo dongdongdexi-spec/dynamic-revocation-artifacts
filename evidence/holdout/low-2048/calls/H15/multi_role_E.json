@@ -1,0 +1,17 @@
+{
+  "request_sha256": "148b94dcbd2ae63b50a8de5da6b823a5df7f24abf669cceaa4cc4efc972e7dbf",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3a340eb477c75324",
+  "created_at": 1795586698,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "经费组；仅在共享字段已送达 H15-PUB 后才可安排；需开始≥11:35、≥2席、状态开放，取最早。候选：H15-TV 12:01 开放3；H15-DF 11:48 冻结3；H15-RP 11:33 开放3；H15-LX 11:45 开放1；H15-WQ 11:37 开放2；H15-ZC 候补4；H15-KM 11:53 开放2。可行最早=H15-WQ"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 236,
+    "total_tokens": 1140
+  }
+}

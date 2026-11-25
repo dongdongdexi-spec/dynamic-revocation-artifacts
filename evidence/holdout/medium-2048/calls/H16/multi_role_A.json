@@ -1,0 +1,17 @@
+{
+  "request_sha256": "85e612754d4c06f492d659fa2124bd4d501809ca28dbe98567ceb7b1b7279373",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0f50524eebb1040e",
+  "created_at": 1795589024,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "主来源COST24：FY2024会员费4828百万、总收入254453百万；对照来源COST25：FY2025会员费5323百万、总收入275235百万。核验系数=4828 mod 13=5。仅主来源参与核验；来源/口径/系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 751,
+    "output_tokens": 308,
+    "total_tokens": 1059
+  }
+}

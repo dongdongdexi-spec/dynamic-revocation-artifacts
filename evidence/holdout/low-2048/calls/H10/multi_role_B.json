@@ -1,0 +1,17 @@
+{
+  "request_sha256": "39b39f4a7fdfbecb1dee613d350870bdb233235935aee6c8bd40bbb557a66479",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-971b84af68cc0621",
+  "created_at": 1795586654,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "筛子流=风险且修订≤5，忽略暂收；同号取最新有效，若最新为撤销则整号剔除。入选：K(修订3,核准,27,权重3,冲10), Y(2,核准,10,权重4,冲9), M(1,核准,26,权重3,冲6)。聚合=入选数3×最大权重4−冲销量合计25+公开索引系数A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 504,
+    "total_tokens": 1444
+  }
+}

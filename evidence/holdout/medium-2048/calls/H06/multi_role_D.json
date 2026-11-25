@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9f9c81f1f301f7dbbf45d76ef5a8eeb34abd6ead058b1096434ae1273e3796fd",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-09e75a2df120fd8a",
+  "created_at": 1795588938,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "主控：中途交付按“每条渠道单独交付单”。队列状态与送达回执分离；预约仅依据实际收到的共享交付。旧单据仅记历史来源并保留原交付编号核验。当前工单内部标识 H06-R2；历史撤稿/待办号 H06-R1；抄送/常设组路由未在本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 277,
+    "total_tokens": 1001
+  }
+}

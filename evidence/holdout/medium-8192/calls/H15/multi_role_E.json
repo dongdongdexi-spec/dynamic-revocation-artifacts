@@ -1,0 +1,17 @@
+{
+  "request_sha256": "afb80b4cde409f417c2c99551f98ab4d483829c4e1e006bb375638e93d0bf591",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-20eefe4cc294170d",
+  "created_at": 1795589786,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "经费组；仅在共享字段已送达 H15-PUB 后安排。筛选条件：开放、开始≥11:35、至少2席；可行窗口有 H15-WQ(11:37,2席)、H15-KM(11:53,2席)、H15-TV(12:01,3席)。最早为 H15-WQ；回签 ASCII id 发 H15-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 438,
+    "total_tokens": 1342
+  }
+}

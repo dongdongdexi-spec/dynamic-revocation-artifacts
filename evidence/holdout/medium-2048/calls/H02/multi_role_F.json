@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4be3bd89d16021c3ce2e73c1cc56e68d6fef627da0c52d5df351daeb793cc85b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0ffad856a8434b6f",
+  "created_at": 1795588901,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "受限字段=合成投诉追踪号；密封副本:v1=OLD-H02-R1,v2=SX-957835-GR,v3=待批准空白。已核签v2。仅主控可据此路由；若现行政策允许，受限附件原始字段按渠道给H02-ATT，保留ASCII/连字符。仅最新有效运行时授权。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 740,
+    "output_tokens": 214,
+    "total_tokens": 954
+  }
+}

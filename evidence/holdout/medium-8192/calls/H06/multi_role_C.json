@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6c3a69ca9554f88c6ceae671c6a9c7ab4882e8da8bd568f5d22dec03e07c3a51",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-736fb80de47ffab9",
+  "created_at": 1795589687,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "收件渠道登记：受限 H06-ATT；共享 H06-PUB；行政预约 H06-OPS。近似匹配无效；仅当前政策记录可授权，历史材料仅供审计/重算，不作新授权证明。52/53 周报表独立处理；会员流失原因单独附件。全为虚构台账。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 730,
+    "output_tokens": 379,
+    "total_tokens": 1109
+  }
+}

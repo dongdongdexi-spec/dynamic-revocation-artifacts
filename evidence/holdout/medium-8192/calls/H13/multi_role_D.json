@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a8a202a25484e0118e271c3bd98d667d5dacc116a6e169097ea06bbaee6248c9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-af2a984c069e28bb",
+  "created_at": 1795589774,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "主控将于收敛清单后做中途交付；提交单位为‘每条渠道单独的交付单’。队列状态与送达回执分开；预约只能依据实际收到的共享交付安排。旧单据仅记历史来源并保留原交付编号供核验。当前内部标识H13-R2，历史撤稿/待办号H13-R1；抄送或常设组路由未在本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 402,
+    "total_tokens": 1126
+  }
+}

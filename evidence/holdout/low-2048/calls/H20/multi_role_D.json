@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4325d5e2d2162dd22428a96abcab3357ab952f0a1caa5e932e64c564371d98e7",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5bea079d6834f5d5",
+  "created_at": 1795586776,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "提交单位：一张批次单，可续办独立共享子任务。预约只依据实际收到的共享交付；旧单据仅记历史来源，保留原交付编号核验。当前工单内部标识H20-R2；历史撤稿/待办号H20-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 129,
+    "total_tokens": 857
+  }
+}

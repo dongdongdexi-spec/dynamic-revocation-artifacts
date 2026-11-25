@@ -1,0 +1,4834 @@
+{
+  "single_off": [
+    {
+      "id": "H01",
+      "plan_sha256": "6d1dd513c0dd85c5f085b0e9ede9890abeee5cd9da4e42361a6a498e8b7bfd36",
+      "timeline": [
+        {
+          "tick": 63,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 71,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 76,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 81,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 89,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 94,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 89,
+          "recipient": "H01-PUB",
+          "value": 291
+        },
+        {
+          "lane": "admin",
+          "tick": 94,
+          "recipient": "H01-OPS",
+          "value": "H01-KM"
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "plan_sha256": "46431b17d059169e27e7b6a53c6d559a043d01344adab6221ac3c581473c21ee",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 90,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 93,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 96,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 104,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 109,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 104,
+          "recipient": "H02-ATT",
+          "value": "SX-957835-GR"
+        },
+        {
+          "lane": "shared",
+          "tick": 104,
+          "recipient": "H02-PUB",
+          "value": 140
+        },
+        {
+          "lane": "admin",
+          "tick": 109,
+          "recipient": "H02-OPS",
+          "value": "H02-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "plan_sha256": "bb628bc3887594e3ed08cf5144044fc70aea9b84fca876bc5be1439d807db1f3",
+      "timeline": [
+        {
+          "tick": 129,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 154,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 157,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 166,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 157,
+          "recipient": "H03-ATT",
+          "value": "SX-977326-JW"
+        },
+        {
+          "lane": "shared",
+          "tick": 157,
+          "recipient": "H03-PUB",
+          "value": 105
+        },
+        {
+          "lane": "admin",
+          "tick": 166,
+          "recipient": "H03-OPS",
+          "value": "H03-TV"
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "plan_sha256": "6333f02971c737afb2176a0f74385e868235dccdfa962455c309458782d1458e",
+      "timeline": [
+        {
+          "tick": 118,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 135,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 141,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 141,
+          "recipient": "H04-ATT",
+          "value": "SX-859154-LQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 141,
+          "recipient": "H04-PUB",
+          "value": 33
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H04-OPS",
+          "value": "H04-LX"
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "plan_sha256": "79f00f5c37872456a067284bca224a995c18c11c11ac8ec2414f561743d9eb16",
+      "timeline": [
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 158,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 166,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 173,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 181,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 173,
+          "recipient": "H05-PUB",
+          "value": 147
+        },
+        {
+          "lane": "admin",
+          "tick": 181,
+          "recipient": "H05-OPS",
+          "value": "H05-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "plan_sha256": "dba0759aee84ba6fee6a5426cf5c5f810a8935ba2cfa077d8f40073ad9908cd4",
+      "timeline": [
+        {
+          "tick": 76,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 79,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 84,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 88,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 96,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 100,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 96,
+          "recipient": "H06-ATT",
+          "value": "SX-136247-MR"
+        },
+        {
+          "lane": "shared",
+          "tick": 96,
+          "recipient": "H06-PUB",
+          "value": 162
+        },
+        {
+          "lane": "admin",
+          "tick": 100,
+          "recipient": "H06-OPS",
+          "value": "H06-LX"
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "plan_sha256": "2671366b82b1387a4e66312df64be3bfba2530a777f8d3893e5576b67456536d",
+      "timeline": [
+        {
+          "tick": 39,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 43,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 48,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 64,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 67,
+          "recipient": "H07-ATT",
+          "value": "SX-854969-GU"
+        },
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H07-PUB",
+          "value": 279
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H07-OPS",
+          "value": "H07-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "plan_sha256": "438d9fa7366b70507445434e41d4bccaf93894a63917833e367fcc926c55f95d",
+      "timeline": [
+        {
+          "tick": 153,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 159,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 164,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 168,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 183,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 174,
+          "recipient": "H08-ATT",
+          "value": "SX-823491-JU"
+        },
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H08-PUB",
+          "value": 378
+        },
+        {
+          "lane": "admin",
+          "tick": 183,
+          "recipient": "H08-OPS",
+          "value": "H08-RP"
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "plan_sha256": "cb08b9c2825605cc125543e163fb659119cb118e3b9e76d2ff337fb45b7560ae",
+      "timeline": [
+        {
+          "tick": 150,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 156,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 162,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 170,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 179,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H09-PUB",
+          "value": 46
+        },
+        {
+          "lane": "admin",
+          "tick": 179,
+          "recipient": "H09-OPS",
+          "value": "H09-DF"
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "plan_sha256": "66a5ed51ed67245024de0f705df329e07e28d2ded1bdf09a22e738d1a8d6b618",
+      "timeline": [
+        {
+          "tick": 64,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 66,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 72,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 79,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 89,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 82,
+          "recipient": "H10-ATT",
+          "value": "合成未公开试验凭证"
+        },
+        {
+          "lane": "shared",
+          "tick": 82,
+          "recipient": "H10-PUB",
+          "value": -6
+        },
+        {
+          "lane": "admin",
+          "tick": 89,
+          "recipient": "H10-OPS",
+          "value": "H10-DF"
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "plan_sha256": "37a91fe53877d4bc4e0782c8c57df2e02ff432623cd0f75cec0d3c68284891f1",
+      "timeline": [
+        {
+          "tick": 99,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 108,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 112,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 117,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 125,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 134,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 125,
+          "recipient": "H11-ATT",
+          "value": "SX-149390-LQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 125,
+          "recipient": "H11-PUB",
+          "value": 294
+        },
+        {
+          "lane": "admin",
+          "tick": 134,
+          "recipient": "H11-OPS",
+          "value": "H11-KM"
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "plan_sha256": "503c1774325926fa6e5904b44c363ad1800cd9f3bceab42d88e8f2b21dcb32fd",
+      "timeline": [
+        {
+          "tick": 133,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 145,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 156,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 150,
+          "recipient": "H12-ATT",
+          "value": "合成调查抽检索引"
+        },
+        {
+          "lane": "shared",
+          "tick": 150,
+          "recipient": "H12-PUB",
+          "value": 436
+        },
+        {
+          "lane": "admin",
+          "tick": 156,
+          "recipient": "H12-OPS",
+          "value": "H12-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "plan_sha256": "0b7f6c1d0377ed6c11080c45c12166f8fc518cf753a1c9815509289417e517fc",
+      "timeline": [
+        {
+          "tick": 116,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 130,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 136,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 140,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 136,
+          "recipient": "H13-PUB",
+          "value": 13
+        },
+        {
+          "lane": "admin",
+          "tick": 140,
+          "recipient": "H13-OPS",
+          "value": "H13-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "plan_sha256": "1443afc384d2391121e7d48ac25cf9e0a5710a93f7b2d4a0a553fbb7d834e91e",
+      "timeline": [
+        {
+          "tick": 40,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 54,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 58,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 66,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 66,
+          "recipient": "H14-ATT",
+          "value": "SX-632795-PU"
+        },
+        {
+          "lane": "shared",
+          "tick": 66,
+          "recipient": "H14-PUB",
+          "value": 213
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H14-OPS",
+          "value": "H14-RP"
+        }
+      ]
+    },
+    {
+      "id": "H15",
+      "plan_sha256": "c80c2b572b3967b148d709f3c4676714d369e1b7b234554f82297047c0f271fb",
+      "timeline": [
+        {
+          "tick": 96,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 101,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 105,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 108,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 111,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 116,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 123,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 116,
+          "recipient": "H15-ATT",
+          "value": "SX-951350-MQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 116,
+          "recipient": "H15-PUB",
+          "value": 284
+        },
+        {
+          "lane": "admin",
+          "tick": 123,
+          "recipient": "H15-OPS",
+          "value": "H15-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H16",
+      "plan_sha256": "2c3e08bcaee21b1a0d8bb159b70c7b6f0f0eed7a8829f87b5d64dac2de4b225c",
+      "timeline": [
+        {
+          "tick": 91,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 93,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 97,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 101,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 106,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 113,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 106,
+          "recipient": "H16-ATT",
+          "value": "SX-472049-PX"
+        },
+        {
+          "lane": "shared",
+          "tick": 106,
+          "recipient": "H16-PUB",
+          "value": 169
+        },
+        {
+          "lane": "admin",
+          "tick": 113,
+          "recipient": "H16-OPS",
+          "value": "H16-KM"
+        }
+      ]
+    },
+    {
+      "id": "H17",
+      "plan_sha256": "478f14606ebebdcbe3962828987388d8a7c2c1a51ab744c6296128f27ca8e8e6",
+      "timeline": [
+        {
+          "tick": 126,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 131,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 138,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 144,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 148,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 157,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 148,
+          "recipient": "H17-PUB",
+          "value": 293
+        },
+        {
+          "lane": "admin",
+          "tick": 157,
+          "recipient": "H17-OPS",
+          "value": "H17-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H18",
+      "plan_sha256": "3021696152d122ff584c5207f886df14af5f35fcf5acbb13bf30abb2635d8c94",
+      "timeline": [
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 125,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 139,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 142,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 142,
+          "recipient": "H18-ATT",
+          "value": "SX-927541-MQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 142,
+          "recipient": "H18-PUB",
+          "value": 358
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H18-OPS",
+          "value": "H18-RP"
+        }
+      ]
+    },
+    {
+      "id": "H19",
+      "plan_sha256": "b03e0b8b497b2692a2d9e50e185ee9ce746556a99ff0db12a62f84a5643564f7",
+      "timeline": [
+        {
+          "tick": 102,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 110,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 114,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 126,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 132,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 126,
+          "recipient": "H19-ATT",
+          "value": "合成转岗核验号"
+        },
+        {
+          "lane": "shared",
+          "tick": 126,
+          "recipient": "H19-PUB",
+          "value": 270
+        },
+        {
+          "lane": "admin",
+          "tick": 132,
+          "recipient": "H19-OPS",
+          "value": "H19-RP"
+        }
+      ]
+    },
+    {
+      "id": "H20",
+      "plan_sha256": "4627e48e68c1dd9daa1ff8ea8d25b56716017d48416ff19c8f9c4957e0c9333f",
+      "timeline": [
+        {
+          "tick": 42,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 47,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 51,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 62,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 62,
+          "recipient": "H20-ATT",
+          "value": "SX-242404-GU"
+        },
+        {
+          "lane": "shared",
+          "tick": 62,
+          "recipient": "H20-PUB",
+          "value": -5
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H20-OPS",
+          "value": "H20-KM"
+        }
+      ]
+    },
+    {
+      "id": "H21",
+      "plan_sha256": "bbb56bca69f04ad6986fbd8b598134716644a614231b40244f129f72d9efc193",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 87,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 95,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 103,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 107,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 111,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 107,
+          "recipient": "H21-PUB",
+          "value": 221
+        },
+        {
+          "lane": "admin",
+          "tick": 111,
+          "recipient": "H21-OPS",
+          "value": "H21-DF"
+        }
+      ]
+    },
+    {
+      "id": "H22",
+      "plan_sha256": "665104ee770943ec2e6a2b7ab61a501983606b75632d6f5e6e59107f86e71c17",
+      "timeline": [
+        {
+          "tick": 138,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 144,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 152,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 158,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 165,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 171,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 165,
+          "recipient": "H22-ATT",
+          "value": "SX-540196-PU"
+        },
+        {
+          "lane": "shared",
+          "tick": 165,
+          "recipient": "H22-PUB",
+          "value": 137
+        },
+        {
+          "lane": "admin",
+          "tick": 171,
+          "recipient": "H22-OPS",
+          "value": "H22-RP"
+        }
+      ]
+    },
+    {
+      "id": "H23",
+      "plan_sha256": "407f3b13ce1b51b451aecb60797df2bf37020d97f3ce33da20b8d0574cd1ff72",
+      "timeline": [
+        {
+          "tick": 60,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 62,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 70,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 75,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 90,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 99,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 90,
+          "recipient": "H23-ATT",
+          "value": "合成门诊事故追踪号"
+        },
+        {
+          "lane": "shared",
+          "tick": 90,
+          "recipient": "H23-PUB",
+          "value": 0
+        },
+        {
+          "lane": "admin",
+          "tick": 99,
+          "recipient": "H23-OPS",
+          "value": "H23-DF"
+        }
+      ]
+    },
+    {
+      "id": "H24",
+      "plan_sha256": "f8b74b60c1911860e6cac344c9d6aa77d6504372dc47a2c7ab9f7c8033a1b297",
+      "timeline": [
+        {
+          "tick": 44,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 53,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 60,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 67,
+          "recipient": "H24-ATT",
+          "value": "SX-291849-GR"
+        },
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H24-PUB",
+          "value": 289
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H24-OPS",
+          "value": "H24-RP"
+        }
+      ]
+    }
+  ],
+  "single_on": [
+    {
+      "id": "H01",
+      "plan_sha256": "6d1dd513c0dd85c5f085b0e9ede9890abeee5cd9da4e42361a6a498e8b7bfd36",
+      "timeline": [
+        {
+          "tick": 63,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 71,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 76,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 81,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 89,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 94,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 89,
+          "recipient": "H01-PUB",
+          "value": 291
+        },
+        {
+          "lane": "admin",
+          "tick": 94,
+          "recipient": "H01-OPS",
+          "value": "H01-KM"
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "plan_sha256": "46431b17d059169e27e7b6a53c6d559a043d01344adab6221ac3c581473c21ee",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 90,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 93,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 96,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 104,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 109,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 104,
+          "recipient": "H02-PUB",
+          "value": 140
+        },
+        {
+          "lane": "admin",
+          "tick": 109,
+          "recipient": "H02-OPS",
+          "value": "H02-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "plan_sha256": "bb628bc3887594e3ed08cf5144044fc70aea9b84fca876bc5be1439d807db1f3",
+      "timeline": [
+        {
+          "tick": 129,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 154,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 157,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 166,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 157,
+          "recipient": "H03-PUB",
+          "value": 105
+        },
+        {
+          "lane": "admin",
+          "tick": 166,
+          "recipient": "H03-OPS",
+          "value": "H03-TV"
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "plan_sha256": "6333f02971c737afb2176a0f74385e868235dccdfa962455c309458782d1458e",
+      "timeline": [
+        {
+          "tick": 118,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 135,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 141,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 141,
+          "recipient": "H04-PUB",
+          "value": 33
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H04-OPS",
+          "value": "H04-LX"
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "plan_sha256": "79f00f5c37872456a067284bca224a995c18c11c11ac8ec2414f561743d9eb16",
+      "timeline": [
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 158,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 166,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 173,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 181,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 173,
+          "recipient": "H05-PUB",
+          "value": 147
+        },
+        {
+          "lane": "admin",
+          "tick": 181,
+          "recipient": "H05-OPS",
+          "value": "H05-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "plan_sha256": "dba0759aee84ba6fee6a5426cf5c5f810a8935ba2cfa077d8f40073ad9908cd4",
+      "timeline": [
+        {
+          "tick": 76,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 79,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 84,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 88,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 96,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 100,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 96,
+          "recipient": "H06-PUB",
+          "value": 162
+        },
+        {
+          "lane": "admin",
+          "tick": 100,
+          "recipient": "H06-OPS",
+          "value": "H06-LX"
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "plan_sha256": "2671366b82b1387a4e66312df64be3bfba2530a777f8d3893e5576b67456536d",
+      "timeline": [
+        {
+          "tick": 39,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 43,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 48,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 64,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H07-PUB",
+          "value": 279
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H07-OPS",
+          "value": "H07-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "plan_sha256": "438d9fa7366b70507445434e41d4bccaf93894a63917833e367fcc926c55f95d",
+      "timeline": [
+        {
+          "tick": 153,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 159,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 164,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 168,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 183,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H08-PUB",
+          "value": 378
+        },
+        {
+          "lane": "admin",
+          "tick": 183,
+          "recipient": "H08-OPS",
+          "value": "H08-RP"
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "plan_sha256": "cb08b9c2825605cc125543e163fb659119cb118e3b9e76d2ff337fb45b7560ae",
+      "timeline": [
+        {
+          "tick": 150,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 156,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 162,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 170,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 179,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H09-PUB",
+          "value": 46
+        },
+        {
+          "lane": "admin",
+          "tick": 179,
+          "recipient": "H09-OPS",
+          "value": "H09-DF"
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "plan_sha256": "66a5ed51ed67245024de0f705df329e07e28d2ded1bdf09a22e738d1a8d6b618",
+      "timeline": [
+        {
+          "tick": 64,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 66,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 72,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 79,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 89,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 82,
+          "recipient": "H10-PUB",
+          "value": -6
+        },
+        {
+          "lane": "admin",
+          "tick": 89,
+          "recipient": "H10-OPS",
+          "value": "H10-DF"
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "plan_sha256": "37a91fe53877d4bc4e0782c8c57df2e02ff432623cd0f75cec0d3c68284891f1",
+      "timeline": [
+        {
+          "tick": 99,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 108,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 112,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 117,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 125,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 134,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 125,
+          "recipient": "H11-PUB",
+          "value": 294
+        },
+        {
+          "lane": "admin",
+          "tick": 134,
+          "recipient": "H11-OPS",
+          "value": "H11-KM"
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "plan_sha256": "503c1774325926fa6e5904b44c363ad1800cd9f3bceab42d88e8f2b21dcb32fd",
+      "timeline": [
+        {
+          "tick": 133,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 145,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 156,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 150,
+          "recipient": "H12-PUB",
+          "value": 436
+        },
+        {
+          "lane": "admin",
+          "tick": 156,
+          "recipient": "H12-OPS",
+          "value": "H12-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "plan_sha256": "0b7f6c1d0377ed6c11080c45c12166f8fc518cf753a1c9815509289417e517fc",
+      "timeline": [
+        {
+          "tick": 116,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 130,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 136,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 140,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 136,
+          "recipient": "H13-PUB",
+          "value": 13
+        },
+        {
+          "lane": "admin",
+          "tick": 140,
+          "recipient": "H13-OPS",
+          "value": "H13-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "plan_sha256": "1443afc384d2391121e7d48ac25cf9e0a5710a93f7b2d4a0a553fbb7d834e91e",
+      "timeline": [
+        {
+          "tick": 40,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 54,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 58,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 66,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 66,
+          "recipient": "H14-PUB",
+          "value": 213
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H14-OPS",
+          "value": "H14-RP"
+        }
+      ]
+    },
+    {
+      "id": "H15",
+      "plan_sha256": "c80c2b572b3967b148d709f3c4676714d369e1b7b234554f82297047c0f271fb",
+      "timeline": [
+        {
+          "tick": 96,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 101,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 105,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 108,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 111,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 116,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 123,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 116,
+          "recipient": "H15-PUB",
+          "value": 284
+        },
+        {
+          "lane": "admin",
+          "tick": 123,
+          "recipient": "H15-OPS",
+          "value": "H15-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H16",
+      "plan_sha256": "2c3e08bcaee21b1a0d8bb159b70c7b6f0f0eed7a8829f87b5d64dac2de4b225c",
+      "timeline": [
+        {
+          "tick": 91,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 93,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 97,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 101,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 106,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 113,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 106,
+          "recipient": "H16-PUB",
+          "value": 169
+        },
+        {
+          "lane": "admin",
+          "tick": 113,
+          "recipient": "H16-OPS",
+          "value": "H16-KM"
+        }
+      ]
+    },
+    {
+      "id": "H17",
+      "plan_sha256": "478f14606ebebdcbe3962828987388d8a7c2c1a51ab744c6296128f27ca8e8e6",
+      "timeline": [
+        {
+          "tick": 126,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 131,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 138,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 144,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 148,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 157,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 148,
+          "recipient": "H17-PUB",
+          "value": 293
+        },
+        {
+          "lane": "admin",
+          "tick": 157,
+          "recipient": "H17-OPS",
+          "value": "H17-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H18",
+      "plan_sha256": "3021696152d122ff584c5207f886df14af5f35fcf5acbb13bf30abb2635d8c94",
+      "timeline": [
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 125,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 139,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 142,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 142,
+          "recipient": "H18-PUB",
+          "value": 358
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H18-OPS",
+          "value": "H18-RP"
+        }
+      ]
+    },
+    {
+      "id": "H19",
+      "plan_sha256": "b03e0b8b497b2692a2d9e50e185ee9ce746556a99ff0db12a62f84a5643564f7",
+      "timeline": [
+        {
+          "tick": 102,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 110,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 114,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 126,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 132,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 126,
+          "recipient": "H19-PUB",
+          "value": 270
+        },
+        {
+          "lane": "admin",
+          "tick": 132,
+          "recipient": "H19-OPS",
+          "value": "H19-RP"
+        }
+      ]
+    },
+    {
+      "id": "H20",
+      "plan_sha256": "4627e48e68c1dd9daa1ff8ea8d25b56716017d48416ff19c8f9c4957e0c9333f",
+      "timeline": [
+        {
+          "tick": 42,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 47,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 51,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 62,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 62,
+          "recipient": "H20-PUB",
+          "value": -5
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H20-OPS",
+          "value": "H20-KM"
+        }
+      ]
+    },
+    {
+      "id": "H21",
+      "plan_sha256": "bbb56bca69f04ad6986fbd8b598134716644a614231b40244f129f72d9efc193",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 87,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 95,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 103,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 107,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 111,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 107,
+          "recipient": "H21-PUB",
+          "value": 221
+        },
+        {
+          "lane": "admin",
+          "tick": 111,
+          "recipient": "H21-OPS",
+          "value": "H21-DF"
+        }
+      ]
+    },
+    {
+      "id": "H22",
+      "plan_sha256": "665104ee770943ec2e6a2b7ab61a501983606b75632d6f5e6e59107f86e71c17",
+      "timeline": [
+        {
+          "tick": 138,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 144,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 152,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 158,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 165,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 171,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 165,
+          "recipient": "H22-PUB",
+          "value": 137
+        },
+        {
+          "lane": "admin",
+          "tick": 171,
+          "recipient": "H22-OPS",
+          "value": "H22-RP"
+        }
+      ]
+    },
+    {
+      "id": "H23",
+      "plan_sha256": "407f3b13ce1b51b451aecb60797df2bf37020d97f3ce33da20b8d0574cd1ff72",
+      "timeline": [
+        {
+          "tick": 60,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 62,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 70,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 75,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 90,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 99,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 90,
+          "recipient": "H23-PUB",
+          "value": 0
+        },
+        {
+          "lane": "admin",
+          "tick": 99,
+          "recipient": "H23-OPS",
+          "value": "H23-DF"
+        }
+      ]
+    },
+    {
+      "id": "H24",
+      "plan_sha256": "f8b74b60c1911860e6cac344c9d6aa77d6504372dc47a2c7ab9f7c8033a1b297",
+      "timeline": [
+        {
+          "tick": 44,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 53,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 60,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H24-PUB",
+          "value": 289
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H24-OPS",
+          "value": "H24-RP"
+        }
+      ]
+    }
+  ],
+  "multi_off": [
+    {
+      "id": "H01",
+      "plan_sha256": "b342c41c817f539e6cbbac73e96e1f6818b4978b4b9417176d0485fec8f510ad",
+      "timeline": [
+        {
+          "tick": 63,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 71,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 76,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 81,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 89,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 94,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 89,
+          "recipient": "H01-PUB",
+          "value": 282
+        },
+        {
+          "lane": "admin",
+          "tick": 94,
+          "recipient": "H01-OPS",
+          "value": "H01-KM"
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "plan_sha256": "447b5ffe8df46fbf98da3b0373d1760ac70d8a242a97351188628e40e8c26551",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 90,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 93,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 96,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 104,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 109,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 104,
+          "recipient": "H02-ATT",
+          "value": "SX-957835-GR"
+        },
+        {
+          "lane": "shared",
+          "tick": 104,
+          "recipient": "H02-PUB",
+          "value": 1818
+        },
+        {
+          "lane": "admin",
+          "tick": 109,
+          "recipient": "H02-OPS",
+          "value": "H02-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "plan_sha256": "1aa2592ac95c3d9d60da6fb9d6cb8597bfe2977aacbe30e8ad43cce3f16decd2",
+      "timeline": [
+        {
+          "tick": 129,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 154,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 157,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 166,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 157,
+          "recipient": "H03-ATT",
+          "value": "SX-977326-JW"
+        },
+        {
+          "lane": "shared",
+          "tick": 157,
+          "recipient": "H03-PUB",
+          "value": 16
+        },
+        {
+          "lane": "admin",
+          "tick": 166,
+          "recipient": "H03-OPS",
+          "value": "H03-TV"
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "plan_sha256": "fb8c5e082864497574e3900d5d9ea331401af727eb4e93037b8ef797d7c4dfed",
+      "timeline": [
+        {
+          "tick": 118,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 135,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 141,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 141,
+          "recipient": "H04-ATT",
+          "value": "SX-859154-LQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 141,
+          "recipient": "H04-PUB",
+          "value": 10
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H04-OPS",
+          "value": "H04-LX"
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "plan_sha256": "6d4609c5214843802bc588aa44eb5f1da7c71832d186180b212a28f7b4267fd8",
+      "timeline": [
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 158,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 166,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 173,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 181,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 173,
+          "recipient": "H05-PUB",
+          "value": 19
+        },
+        {
+          "lane": "admin",
+          "tick": 181,
+          "recipient": "H05-OPS",
+          "value": "H05-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "plan_sha256": "e5ddb5558365dda6e705ac23cac9485dc02a12a359a8623b3028cb9287bb06de",
+      "timeline": [
+        {
+          "tick": 76,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 79,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 84,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 88,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 96,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 100,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 96,
+          "recipient": "H06-ATT",
+          "value": "H06-R2"
+        },
+        {
+          "lane": "shared",
+          "tick": 96,
+          "recipient": "H06-PUB",
+          "value": 131
+        },
+        {
+          "lane": "admin",
+          "tick": 100,
+          "recipient": "H06-OPS",
+          "value": "H06-LX"
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "plan_sha256": "5fe11b672182a99fb75278aac4c0c5f7fe311e8c7fe6af50250b9a93a7091e20",
+      "timeline": [
+        {
+          "tick": 39,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 43,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 48,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 64,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 67,
+          "recipient": "H07-ATT",
+          "value": "SX-854969-GU"
+        },
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H07-PUB",
+          "value": 7
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H07-OPS",
+          "value": "H07-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "plan_sha256": "fea4c29525c512230d54f54a3b1747acf6ae6a1f8fb18cb2680c72cdde7d5995",
+      "timeline": [
+        {
+          "tick": 153,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 159,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 164,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 168,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 183,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 174,
+          "recipient": "H08-ATT",
+          "value": "SX-823491-JU"
+        },
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H08-PUB",
+          "value": 283
+        },
+        {
+          "lane": "admin",
+          "tick": 183,
+          "recipient": "H08-OPS",
+          "value": "H08-RP"
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "plan_sha256": "48a1bb9725c1e2dff216522b99dd3104629494bdc8e2f3b321386af404e6016f",
+      "timeline": [
+        {
+          "tick": 150,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 156,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 162,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 170,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 179,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H09-PUB",
+          "value": 168
+        },
+        {
+          "lane": "admin",
+          "tick": 179,
+          "recipient": "H09-OPS",
+          "value": "H09-DF"
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "plan_sha256": "44bed642bce6e87b3e11e12caf373808625881effeb2f8add632ec35fde6a285",
+      "timeline": [
+        {
+          "tick": 64,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 66,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 72,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 79,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 89,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 82,
+          "recipient": "H10-ATT",
+          "value": "SX-750464-PV"
+        },
+        {
+          "lane": "shared",
+          "tick": 82,
+          "recipient": "H10-PUB",
+          "value": -9
+        },
+        {
+          "lane": "admin",
+          "tick": 89,
+          "recipient": "H10-OPS",
+          "value": "H10-DF"
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "plan_sha256": "af5674242bb9a4156510728bc07215486d2b7040a882e0774888f39219e51c35",
+      "timeline": [
+        {
+          "tick": 99,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 108,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 112,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 117,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 125,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 134,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 125,
+          "recipient": "H11-ATT",
+          "value": "SX-149390-LQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 125,
+          "recipient": "H11-PUB",
+          "value": 285
+        },
+        {
+          "lane": "admin",
+          "tick": 134,
+          "recipient": "H11-OPS",
+          "value": "H11-KM"
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "plan_sha256": "2152d038ad954b291329569bed5ca03b1ba21b0cf507fa06753821670a3e217b",
+      "timeline": [
+        {
+          "tick": 133,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 145,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 156,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 150,
+          "recipient": "H12-ATT",
+          "value": "SX-466281-LR"
+        },
+        {
+          "lane": "shared",
+          "tick": 150,
+          "recipient": "H12-PUB",
+          "value": 334
+        },
+        {
+          "lane": "admin",
+          "tick": 156,
+          "recipient": "H12-OPS",
+          "value": "H12-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "plan_sha256": "0c3aa197e096c7897db06d2469541fcf8d1abb547f21d5f8d204ce291f19e5e5",
+      "timeline": [
+        {
+          "tick": 116,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 130,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 136,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 140,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 136,
+          "recipient": "H13-PUB",
+          "value": 16
+        },
+        {
+          "lane": "admin",
+          "tick": 140,
+          "recipient": "H13-OPS",
+          "value": "H13-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "plan_sha256": "1443afc384d2391121e7d48ac25cf9e0a5710a93f7b2d4a0a553fbb7d834e91e",
+      "timeline": [
+        {
+          "tick": 40,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 54,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 58,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 66,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 66,
+          "recipient": "H14-ATT",
+          "value": "SX-632795-PU"
+        },
+        {
+          "lane": "shared",
+          "tick": 66,
+          "recipient": "H14-PUB",
+          "value": 213
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H14-OPS",
+          "value": "H14-RP"
+        }
+      ]
+    },
+    {
+      "id": "H15",
+      "plan_sha256": "045ad1c7e53c98f6d243220d4566e3a614c0bf55d4f9eee6e7baed6aa1af6983",
+      "timeline": [
+        {
+          "tick": 96,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 101,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 105,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 108,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 111,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 116,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 123,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 116,
+          "recipient": "H15-ATT",
+          "value": "SX-951350-MQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 116,
+          "recipient": "H15-PUB",
+          "value": 3
+        },
+        {
+          "lane": "admin",
+          "tick": 123,
+          "recipient": "H15-OPS",
+          "value": "H15-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H16",
+      "plan_sha256": "da26470b42f2308271c5fcf036a68f28896458756d17c55ecb8af6e8edf47074",
+      "timeline": [
+        {
+          "tick": 91,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 93,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 97,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 101,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 106,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 113,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 106,
+          "recipient": "H16-ATT",
+          "value": "SX-472049-PX"
+        },
+        {
+          "lane": "shared",
+          "tick": 106,
+          "recipient": "H16-PUB",
+          "value": 101
+        },
+        {
+          "lane": "admin",
+          "tick": 113,
+          "recipient": "H16-OPS",
+          "value": "H16-KM"
+        }
+      ]
+    },
+    {
+      "id": "H17",
+      "plan_sha256": "73693272688c38fc2376f07744ef943a688504357772c95a3be1c8ea32bac29a",
+      "timeline": [
+        {
+          "tick": 126,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 131,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 138,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 144,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 148,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 157,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 148,
+          "recipient": "H17-PUB",
+          "value": 245
+        },
+        {
+          "lane": "admin",
+          "tick": 157,
+          "recipient": "H17-OPS",
+          "value": "H17-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H18",
+      "plan_sha256": "c915fcad1b83cd32c1fea3d30d121b805e9a347bb8a2a5d814c6d72219775116",
+      "timeline": [
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 125,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 139,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 142,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 142,
+          "recipient": "H18-ATT",
+          "value": "SX-927541-MQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 142,
+          "recipient": "H18-PUB",
+          "value": 11
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H18-OPS",
+          "value": "H18-RP"
+        }
+      ]
+    },
+    {
+      "id": "H19",
+      "plan_sha256": "c7b343543ac51b66fae2b6dd9f1fd47b268ebafe2698792e0c26ed207b03fbeb",
+      "timeline": [
+        {
+          "tick": 102,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 110,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 114,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 126,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 132,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 126,
+          "recipient": "H19-ATT",
+          "value": "SX-654888-LQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 126,
+          "recipient": "H19-PUB",
+          "value": 21
+        },
+        {
+          "lane": "admin",
+          "tick": 132,
+          "recipient": "H19-OPS",
+          "value": "H19-RP"
+        }
+      ]
+    },
+    {
+      "id": "H20",
+      "plan_sha256": "bb2522eefa2db9bc61ad2d83b7b85c7dafbbf7f6b63c747941d9396c9b844e94",
+      "timeline": [
+        {
+          "tick": 42,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 47,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 51,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 62,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 62,
+          "recipient": "H20-ATT",
+          "value": "SX-242404-GU"
+        },
+        {
+          "lane": "shared",
+          "tick": 62,
+          "recipient": "H20-PUB",
+          "value": -4
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H20-OPS",
+          "value": "H20-KM"
+        }
+      ]
+    },
+    {
+      "id": "H21",
+      "plan_sha256": "14cb64fc976404a518555c3ff117b8e4a9213c27c379c2bd8e1192569cb2988b",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 87,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 95,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 103,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 107,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 111,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 107,
+          "recipient": "H21-PUB",
+          "value": 63
+        },
+        {
+          "lane": "admin",
+          "tick": 111,
+          "recipient": "H21-OPS",
+          "value": "H21-DF"
+        }
+      ]
+    },
+    {
+      "id": "H22",
+      "plan_sha256": "abdfcd2c0a75c5f3d2adb1ab35c793346b822b84ab9a7091effc858ab74ad35f",
+      "timeline": [
+        {
+          "tick": 138,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 144,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 152,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 158,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 165,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 171,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 165,
+          "recipient": "H22-ATT",
+          "value": "SX-540196-PU"
+        },
+        {
+          "lane": "shared",
+          "tick": 165,
+          "recipient": "H22-PUB",
+          "value": 60
+        },
+        {
+          "lane": "admin",
+          "tick": 171,
+          "recipient": "H22-OPS",
+          "value": "H22-RP"
+        }
+      ]
+    },
+    {
+      "id": "H23",
+      "plan_sha256": "6b700804b53186c39fdd3a6a57d1f4b80b66501426ae36f84e25a20d1c0054d7",
+      "timeline": [
+        {
+          "tick": 60,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 62,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 70,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 75,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 90,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 99,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 90,
+          "recipient": "H23-ATT",
+          "value": "SX-728441-NQ"
+        },
+        {
+          "lane": "shared",
+          "tick": 90,
+          "recipient": "H23-PUB",
+          "value": 0
+        },
+        {
+          "lane": "admin",
+          "tick": 99,
+          "recipient": "H23-OPS",
+          "value": "H23-DF"
+        }
+      ]
+    },
+    {
+      "id": "H24",
+      "plan_sha256": "58d8779e97e482163bf76c183e396c9ff2878e852df131f7629935019321dfd6",
+      "timeline": [
+        {
+          "tick": 44,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 53,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 60,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "off",
+      "restricted_proposed": true,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "restricted",
+          "tick": 67,
+          "recipient": "H24-ATT",
+          "value": "SX-291849-GR"
+        },
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H24-PUB",
+          "value": 353
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H24-OPS",
+          "value": "H24-RP"
+        }
+      ]
+    }
+  ],
+  "multi_on": [
+    {
+      "id": "H01",
+      "plan_sha256": "b342c41c817f539e6cbbac73e96e1f6818b4978b4b9417176d0485fec8f510ad",
+      "timeline": [
+        {
+          "tick": 63,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 71,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 76,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 81,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 89,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 94,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 89,
+          "recipient": "H01-PUB",
+          "value": 282
+        },
+        {
+          "lane": "admin",
+          "tick": 94,
+          "recipient": "H01-OPS",
+          "value": "H01-KM"
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "plan_sha256": "447b5ffe8df46fbf98da3b0373d1760ac70d8a242a97351188628e40e8c26551",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 90,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 93,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 96,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 104,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 109,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 104,
+          "recipient": "H02-PUB",
+          "value": 1818
+        },
+        {
+          "lane": "admin",
+          "tick": 109,
+          "recipient": "H02-OPS",
+          "value": "H02-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "plan_sha256": "1aa2592ac95c3d9d60da6fb9d6cb8597bfe2977aacbe30e8ad43cce3f16decd2",
+      "timeline": [
+        {
+          "tick": 129,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 154,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 157,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 166,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 157,
+          "recipient": "H03-PUB",
+          "value": 16
+        },
+        {
+          "lane": "admin",
+          "tick": 166,
+          "recipient": "H03-OPS",
+          "value": "H03-TV"
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "plan_sha256": "fb8c5e082864497574e3900d5d9ea331401af727eb4e93037b8ef797d7c4dfed",
+      "timeline": [
+        {
+          "tick": 118,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 135,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 141,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 141,
+          "recipient": "H04-PUB",
+          "value": 10
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H04-OPS",
+          "value": "H04-LX"
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "plan_sha256": "6d4609c5214843802bc588aa44eb5f1da7c71832d186180b212a28f7b4267fd8",
+      "timeline": [
+        {
+          "tick": 146,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 158,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 166,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 173,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 181,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 173,
+          "recipient": "H05-PUB",
+          "value": 19
+        },
+        {
+          "lane": "admin",
+          "tick": 181,
+          "recipient": "H05-OPS",
+          "value": "H05-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "plan_sha256": "e5ddb5558365dda6e705ac23cac9485dc02a12a359a8623b3028cb9287bb06de",
+      "timeline": [
+        {
+          "tick": 76,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 79,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 84,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 88,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 96,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 100,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 96,
+          "recipient": "H06-PUB",
+          "value": 131
+        },
+        {
+          "lane": "admin",
+          "tick": 100,
+          "recipient": "H06-OPS",
+          "value": "H06-LX"
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "plan_sha256": "5fe11b672182a99fb75278aac4c0c5f7fe311e8c7fe6af50250b9a93a7091e20",
+      "timeline": [
+        {
+          "tick": 39,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 43,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 48,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 64,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H07-PUB",
+          "value": 7
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H07-OPS",
+          "value": "H07-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "plan_sha256": "fea4c29525c512230d54f54a3b1747acf6ae6a1f8fb18cb2680c72cdde7d5995",
+      "timeline": [
+        {
+          "tick": 153,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 159,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 164,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 168,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 183,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H08-PUB",
+          "value": 283
+        },
+        {
+          "lane": "admin",
+          "tick": 183,
+          "recipient": "H08-OPS",
+          "value": "H08-RP"
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "plan_sha256": "48a1bb9725c1e2dff216522b99dd3104629494bdc8e2f3b321386af404e6016f",
+      "timeline": [
+        {
+          "tick": 150,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 156,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 162,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 170,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 174,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 179,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 174,
+          "recipient": "H09-PUB",
+          "value": 168
+        },
+        {
+          "lane": "admin",
+          "tick": 179,
+          "recipient": "H09-OPS",
+          "value": "H09-DF"
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "plan_sha256": "44bed642bce6e87b3e11e12caf373808625881effeb2f8add632ec35fde6a285",
+      "timeline": [
+        {
+          "tick": 64,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 66,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 72,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 79,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 89,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 82,
+          "recipient": "H10-PUB",
+          "value": -9
+        },
+        {
+          "lane": "admin",
+          "tick": 89,
+          "recipient": "H10-OPS",
+          "value": "H10-DF"
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "plan_sha256": "af5674242bb9a4156510728bc07215486d2b7040a882e0774888f39219e51c35",
+      "timeline": [
+        {
+          "tick": 99,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 108,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 112,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 117,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 125,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 134,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 125,
+          "recipient": "H11-PUB",
+          "value": 285
+        },
+        {
+          "lane": "admin",
+          "tick": 134,
+          "recipient": "H11-OPS",
+          "value": "H11-KM"
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "plan_sha256": "2152d038ad954b291329569bed5ca03b1ba21b0cf507fa06753821670a3e217b",
+      "timeline": [
+        {
+          "tick": 133,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 135,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 138,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 145,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 150,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 156,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 150,
+          "recipient": "H12-PUB",
+          "value": 334
+        },
+        {
+          "lane": "admin",
+          "tick": 156,
+          "recipient": "H12-OPS",
+          "value": "H12-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "plan_sha256": "0c3aa197e096c7897db06d2469541fcf8d1abb547f21d5f8d204ce291f19e5e5",
+      "timeline": [
+        {
+          "tick": 116,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 124,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 130,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 136,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 140,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 136,
+          "recipient": "H13-PUB",
+          "value": 16
+        },
+        {
+          "lane": "admin",
+          "tick": 140,
+          "recipient": "H13-OPS",
+          "value": "H13-ZC"
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "plan_sha256": "1443afc384d2391121e7d48ac25cf9e0a5710a93f7b2d4a0a553fbb7d834e91e",
+      "timeline": [
+        {
+          "tick": 40,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 54,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 58,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 66,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 66,
+          "recipient": "H14-PUB",
+          "value": 213
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H14-OPS",
+          "value": "H14-RP"
+        }
+      ]
+    },
+    {
+      "id": "H15",
+      "plan_sha256": "045ad1c7e53c98f6d243220d4566e3a614c0bf55d4f9eee6e7baed6aa1af6983",
+      "timeline": [
+        {
+          "tick": 96,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 101,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 105,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 108,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 111,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 116,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 123,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 116,
+          "recipient": "H15-PUB",
+          "value": 3
+        },
+        {
+          "lane": "admin",
+          "tick": 123,
+          "recipient": "H15-OPS",
+          "value": "H15-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H16",
+      "plan_sha256": "da26470b42f2308271c5fcf036a68f28896458756d17c55ecb8af6e8edf47074",
+      "timeline": [
+        {
+          "tick": 91,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 93,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 97,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 101,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 106,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 113,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 106,
+          "recipient": "H16-PUB",
+          "value": 101
+        },
+        {
+          "lane": "admin",
+          "tick": 113,
+          "recipient": "H16-OPS",
+          "value": "H16-KM"
+        }
+      ]
+    },
+    {
+      "id": "H17",
+      "plan_sha256": "73693272688c38fc2376f07744ef943a688504357772c95a3be1c8ea32bac29a",
+      "timeline": [
+        {
+          "tick": 126,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 131,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 138,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 144,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 148,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 157,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 148,
+          "recipient": "H17-PUB",
+          "value": 245
+        },
+        {
+          "lane": "admin",
+          "tick": 157,
+          "recipient": "H17-OPS",
+          "value": "H17-WQ"
+        }
+      ]
+    },
+    {
+      "id": "H18",
+      "plan_sha256": "c915fcad1b83cd32c1fea3d30d121b805e9a347bb8a2a5d814c6d72219775116",
+      "timeline": [
+        {
+          "tick": 120,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 125,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 132,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 139,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 142,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 148,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 142,
+          "recipient": "H18-PUB",
+          "value": 11
+        },
+        {
+          "lane": "admin",
+          "tick": 148,
+          "recipient": "H18-OPS",
+          "value": "H18-RP"
+        }
+      ]
+    },
+    {
+      "id": "H19",
+      "plan_sha256": "c7b343543ac51b66fae2b6dd9f1fd47b268ebafe2698792e0c26ed207b03fbeb",
+      "timeline": [
+        {
+          "tick": 102,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 104,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 110,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 114,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 120,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 126,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 132,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 126,
+          "recipient": "H19-PUB",
+          "value": 21
+        },
+        {
+          "lane": "admin",
+          "tick": 132,
+          "recipient": "H19-OPS",
+          "value": "H19-RP"
+        }
+      ]
+    },
+    {
+      "id": "H20",
+      "plan_sha256": "bb2522eefa2db9bc61ad2d83b7b85c7dafbbf7f6b63c747941d9396c9b844e94",
+      "timeline": [
+        {
+          "tick": 42,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 47,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 51,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 56,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 62,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 62,
+          "recipient": "H20-PUB",
+          "value": -4
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H20-OPS",
+          "value": "H20-KM"
+        }
+      ]
+    },
+    {
+      "id": "H21",
+      "plan_sha256": "14cb64fc976404a518555c3ff117b8e4a9213c27c379c2bd8e1192569cb2988b",
+      "timeline": [
+        {
+          "tick": 84,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 87,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 95,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 103,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 107,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 111,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": false,
+      "restricted_blocked": false,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 107,
+          "recipient": "H21-PUB",
+          "value": 63
+        },
+        {
+          "lane": "admin",
+          "tick": 111,
+          "recipient": "H21-OPS",
+          "value": "H21-DF"
+        }
+      ]
+    },
+    {
+      "id": "H22",
+      "plan_sha256": "abdfcd2c0a75c5f3d2adb1ab35c793346b822b84ab9a7091effc858ab74ad35f",
+      "timeline": [
+        {
+          "tick": 138,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 144,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 152,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 158,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 165,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 171,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 165,
+          "recipient": "H22-PUB",
+          "value": 60
+        },
+        {
+          "lane": "admin",
+          "tick": 171,
+          "recipient": "H22-OPS",
+          "value": "H22-RP"
+        }
+      ]
+    },
+    {
+      "id": "H23",
+      "plan_sha256": "6b700804b53186c39fdd3a6a57d1f4b80b66501426ae36f84e25a20d1c0054d7",
+      "timeline": [
+        {
+          "tick": 60,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 62,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 70,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 75,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 82,
+          "event": "outbox_restored"
+        },
+        {
+          "tick": 90,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 99,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 90,
+          "recipient": "H23-PUB",
+          "value": 0
+        },
+        {
+          "lane": "admin",
+          "tick": 99,
+          "recipient": "H23-OPS",
+          "value": "H23-DF"
+        }
+      ]
+    },
+    {
+      "id": "H24",
+      "plan_sha256": "58d8779e97e482163bf76c183e396c9ff2878e852df131f7629935019321dfd6",
+      "timeline": [
+        {
+          "tick": 44,
+          "event": "restricted_fact_returned"
+        },
+        {
+          "tick": 46,
+          "event": "model_proposal"
+        },
+        {
+          "tick": 53,
+          "event": "outbox_enqueue"
+        },
+        {
+          "tick": 60,
+          "event": "authoritative_revocation"
+        },
+        {
+          "tick": 67,
+          "event": "independent_items_commit"
+        },
+        {
+          "tick": 71,
+          "event": "admin_window_commit"
+        }
+      ],
+      "gate": "on",
+      "restricted_proposed": true,
+      "restricted_blocked": true,
+      "receipts": [
+        {
+          "lane": "shared",
+          "tick": 67,
+          "recipient": "H24-PUB",
+          "value": 353
+        },
+        {
+          "lane": "admin",
+          "tick": 71,
+          "recipient": "H24-OPS",
+          "value": "H24-RP"
+        }
+      ]
+    }
+  ]
+}

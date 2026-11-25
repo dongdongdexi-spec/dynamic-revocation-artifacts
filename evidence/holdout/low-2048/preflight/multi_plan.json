@@ -1,0 +1,19 @@
+{
+  "request_sha256": "1981d188ae496935d3cd45b72f5bb59903081b024f4444382192f6ea8370c2e0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bd4f266e8376fad1",
+  "created_at": 1795586491,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "restricted": "SYN-PREFLIGHT-Z9-281",
+    "shared": 52,
+    "admin": "PREFLIGHT-S2"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1101,
+    "output_tokens": 157,
+    "total_tokens": 1258
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "32c6bec34d61337523c6e8a5150f0812df30797bb41a92243e56b27fd8cd2d00",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-45198ac42d4b370f",
+  "created_at": 1795586651,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "仅取子流=联邦且修订≤5，先剔除暂收；同一行号保留最新有效状态，若最新为撤销则整行删。入选后按 max(数量-冲销量,0)*权重 求和，再加公开索引系数A。当前可入选行号候选：K(3核准), M(1核准), X(2核准), K(1核准), Y(2核准)；X(4撤销)剔除，Y(7)超截止，K(5暂收忽略，T非联邦忽略。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 212,
+    "total_tokens": 1149
+  }
+}

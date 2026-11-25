@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f5c10ee5fdc7024d6b62db8ac1f5caf694f4c737a1e188172e40fe56fd906dfd",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d57b096fe6cddc05",
+  "created_at": 1795588979,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "STAR：HCAHPS星级评分需12个月报告期内至少100份调查且具公开报告资格；HCAHPS：患者体验调查2006年全国实施、2008年起公开报告。核验系数=主来源原始整数100÷13余9；百万单位/百分号去除后取整数。仅主来源参与核验值，向主控报来源、口径、系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 396,
+    "total_tokens": 1153
+  }
+}

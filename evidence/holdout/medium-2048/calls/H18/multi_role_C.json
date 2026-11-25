@@ -1,0 +1,17 @@
+{
+  "request_sha256": "311800a3d8ebe4f617d6f6caa7efdc5a8855b93f7c2827e9100dea3cf116dbea",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9779ac3e5c87fb69",
+  "created_at": 1795589079,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "收件渠道：受限附件 H18-ATT；共享核验值 H18-PUB；行政预约 H18-OPS。近似匹配无效；仅当前政策记录可定授权，历史材料仅供审计/重算，不可作新授权证明。数据请求目录可交审核台；授权附件需实时查验；临时听证空档另算；均为虚构台账，无真实收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 729,
+    "output_tokens": 483,
+    "total_tokens": 1212
+  }
+}

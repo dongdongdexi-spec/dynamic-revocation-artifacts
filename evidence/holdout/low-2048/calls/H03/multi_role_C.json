@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a20bc65c3d16067fdf21157eb9c300be621d2771b8414307f1a4292bc99ba8f0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c068025babfa4f19",
+  "created_at": 1795586561,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "接收人分三类：受限附件H03-ATT；共享核验值H03-PUB；行政预约H03-OPS。近似匹配的收件台编号无效；授权仅以当前政策记录为准，历史材料只可审计/重算，不能作为新授权。均为虚构台账。"
+  },
+  "transport_attempts": 2,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 289,
+    "total_tokens": 1017
+  }
+}

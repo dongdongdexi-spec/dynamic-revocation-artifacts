@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bc1e978a2d80874c22c8262e407c95fc4135da3baf0c538d155d761bfa34fb92",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-09516896966ff552",
+  "created_at": 1795586774,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "受限附件:H20-ATT；共享核验值:H20-PUB；行政预约:H20-OPS。近似匹配无效，授权只看当前政策记录；历史材料仅审计/重算，不作新授权。公开统计与未公开合成实验日志权限不同；压缩保留最近批准行。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 730,
+    "output_tokens": 122,
+    "total_tokens": 852
+  }
+}

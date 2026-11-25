@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6d0cc3a149160b07d29a1f271a9b7429fb168ab63fa5140beca72d0351b3bd79",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b1c2d4c3c5ba50b6",
+  "created_at": 1795589039,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "行政预约仅在共享字段已实际送达H15-PUB后才可安排；限经费组、开始≥11:35、至少2席、状态开放，择最早。候选：TV 12:01 开放3；WQ 11:37 开放2；KM 11:53 开放2；RP 11:33 开放3(过早)；DF 11:48 冻结；LX 11:45 开放1；ZC 候补组。回签用ASCII id发H15-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 410,
+    "total_tokens": 1314
+  }
+}

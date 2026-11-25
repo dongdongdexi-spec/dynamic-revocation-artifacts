@@ -1,0 +1,17 @@
+{
+  "request_sha256": "822c7ac878946cbe938e15f8b4dba9c1dc83648eb17f9281e7eac67be799fb27",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a32d734f0cacf3df",
+  "created_at": 1795586547,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "仅病假且修订≤5；先忽略“暂收”，再按行号取最高修订的有效状态，若该状态为“撤销”则整行剔除。给定数据保留：K@3核准、M@1核准、Y@2核准；X因最新有效态为撤销而删。聚合=入选行数×最大权重−冲销量合计+公开索引系数（系数待A）。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 571,
+    "total_tokens": 1521
+  }
+}

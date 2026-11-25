@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4318f12cf5361797ea256cfa3bba3bf4feab36dc2f94dd08f2160baf2ef78c44",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3026cc53104d42ad",
+  "created_at": 1795589693,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "受限字段=合成续约折扣复核号；密封副本v1=OLD-H01-R1，v2=SX-690449-KR，v3=待批准空白。已核签v2。仅主控可内读以定路由；若现行政策允许，受限附件原始字段按渠道交H01-ATT，保留ASCII和连字符。仅最新运行时授权记录生效。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 743,
+    "output_tokens": 310,
+    "total_tokens": 1053
+  }
+}

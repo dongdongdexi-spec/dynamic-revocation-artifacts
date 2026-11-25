@@ -1,0 +1,17 @@
+{
+  "request_sha256": "1958e10003013706f784d0e41d442245ebab7bba7e7c3e4c520ab23c1348305c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d4641a0dfab07368",
+  "created_at": 1795588899,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "行政预约：仅在共享字段已送达H04-PUB后安排；条件=福利组、开放、start≥10:54、seats≥3，取最早可行。候选：ZC 10:55/2开；LX 11:03/3开；WQ 候补组；KM 10:58/4冻；RP 11:11/4开；DF 10:43/4开；TV 10:47/3开。最早可行=H04-LX。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 539,
+    "total_tokens": 1436
+  }
+}

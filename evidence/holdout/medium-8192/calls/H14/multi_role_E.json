@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9c69678977471f070ccd3913e0cafe7f433470ec3641d461a883ae3bd965d5d2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-75c7c6feedf91e35",
+  "created_at": 1795589777,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "行政预约：仅共享字段已实际送达 H14-PUB 后才可排。调查组；开始≥11:19；至少4席；状态开放；同条件取最早。候选：H14-LX 11:23 冻结5；H14-DF 11:25 候补组6；H14-RP 11:28 开放4；H14-KM 11:08 开放5；H14-TV 11:20 开放3；H14-WQ 11:36 开放5；H14-ZC 11:12 开放4。回签用 ASCII id 发 H14-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 340,
+    "total_tokens": 1237
+  }
+}

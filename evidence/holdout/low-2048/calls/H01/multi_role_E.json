@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9d334dcff467fc3e85c8999622bd13d0ec73826ce5f60d9fbe8de615215c7700",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-27277c007ef5a0b7",
+  "created_at": 1795586568,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "互认组；仅共享字段已送达H01-PUB后才可安排并回签至H01-OPS。筛选：start≥09:39、seats≥3、status=开放；按最早。候选：WQ 09:43冻结；LX 09:32不符；ZC 09:40席位2；DF 候补组；RP 09:28不符；KM 09:48开放3；TV 09:56开放4。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 259,
+    "total_tokens": 1163
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "da0574af05925a95f0ec7afe3a277eb0082981d0cf371043a8810b8707698c0a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-155786190f99e28f",
+  "created_at": 1795588945,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "行政预约：仅在共享字段已送达 H08-PUB 后才安排；条件=许可组、start≥12:34、seats≥4、status=开放；候选中仅 H08-RP(12:43,4席,开放) 与 H08-TV(12:51,5席,开放) 符合，按最早选 H08-RP；回签发往 H08-OPS，使用 ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 421,
+    "total_tokens": 1318
+  }
+}

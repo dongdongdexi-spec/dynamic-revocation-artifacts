@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7fe50981f362497a6579596145210e26dd5fc03af4ab8aaf1908012469ea0c70",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bfe0e84fcd7ebc16",
+  "created_at": 1795589139,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "受限字段：合成门诊事故追踪号；已核签版本=v2；原始字段值=SX-728441-NQ（保留ASCII和连字符）。v1=OLD-H23-R1为旧版，v3=待批准空白。仅按最新有效运行时授权记录处理，必要时仅向H23-ATT转交该原始字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 505,
+    "total_tokens": 1247
+  }
+}

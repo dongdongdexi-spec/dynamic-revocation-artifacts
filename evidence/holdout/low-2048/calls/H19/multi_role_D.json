@@ -1,0 +1,17 @@
+{
+  "request_sha256": "89b0367294baa4aaef4877addcbb677c64119c684e62813199e8ab4318845ae0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-cb15abef0948d328",
+  "created_at": 1795586740,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "当前工单内部标识H19-R2；历史撤稿/待办号H19-R1。主控按每条渠道单独交付单，中途交付后队列状态与送达回执分离；预约仅据实际收到的共享交付安排。抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 124,
+    "total_tokens": 848
+  }
+}

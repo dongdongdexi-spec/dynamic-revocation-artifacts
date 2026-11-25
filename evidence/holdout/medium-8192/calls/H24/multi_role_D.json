@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fb152e4f01b2c93c772fa919257eb34769350dad87b327541497a8bb9ba8d778",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-65b6c73649a8217b",
+  "created_at": 1795589872,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "note": "主控规划的是‘一张批次单，可续办独立共享子任务’；队列状态与送达回执分开，预约仅能据实际收到的共享交付安排。旧单据只记历史来源，保留原交付编号供核验。当前工单内部标识H24-R2，历史撤稿/待办号H24-R1；抄送/常设组路由未在本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 322,
+    "total_tokens": 1050
+  }
+}

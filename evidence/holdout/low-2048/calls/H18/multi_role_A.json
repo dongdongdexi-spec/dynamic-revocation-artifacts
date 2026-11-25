@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8900471656854fb260a6d11b7c990f24549d67e7a1cfc8a585062612985c6c5d",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-f31cd4135d6a12fd",
+  "created_at": 1795586713,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "来源:DA05第5条(用户将数据分享给第三方); 说明:DA04第4条(用户访问/使用互联产品及相关服务数据及持有者提供数据义务); 口径:主来源原始整数5, 百万/百分号已移除; 核验系数=5 mod 13=5."
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 745,
+    "output_tokens": 218,
+    "total_tokens": 963
+  }
+}

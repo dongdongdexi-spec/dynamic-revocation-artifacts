@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d33676e81f547246057b0a5cde5a56d3faa5021b82fd01f5bfec8a2734f46bd1",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6824ec87d695d1fe",
+  "created_at": 1795586784,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "受限字段=合成谈判批核号；已核签版本 v2=SX-615011-GV。仅主控按最新运行时授权决定路由；若允许，原始字段按渠道交给 H21-ATT。保留 ASCII/连字符；v1=OLD-H21-R1，v3=待批准空白。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 169,
+    "total_tokens": 910
+  }
+}

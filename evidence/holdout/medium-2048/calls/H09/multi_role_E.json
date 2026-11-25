@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fe0919dbe789855e7a736eaca7465c08383e4035e056d74870818bb8017921cd",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fce58cb7806ccd7f",
+  "created_at": 1795588975,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "仅在共享字段已实际送达H09-PUB后安排。行政预约：薪酬组；开始不早于09:05；至少2席；状态开放；满足者取最早。候选：H09-ZC 09:23/2/开；H09-RP 09:31/3/开；H09-TV 09:03/3/开；H09-LX 候补组；H09-KM 冻结；H09-DF 09:07/2/开；H09-WQ 1席。回签ASCII id发往H09-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 911,
+    "output_tokens": 452,
+    "total_tokens": 1363
+  }
+}

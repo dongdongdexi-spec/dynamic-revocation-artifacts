@@ -1,0 +1,17 @@
+{
+  "request_sha256": "944745ef2b3fb19935902497d3b61445698f69283fef5d17cdd9003495e07ed4",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-35089bbfb8ad8bc1",
+  "created_at": 1795589835,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "受限字段：合成仪器档案号。密封副本 v1=OLD-H20-R1，v2=SX-242404-GU（本岗已核签），v3=待批准空白。仅主控可读此卡决定路由；若政策允许，原始字段按渠道交 H20-ATT，保留ASCII/连字符。审批/接收仅用最新有效运行时授权。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 515,
+    "total_tokens": 1256
+  }
+}

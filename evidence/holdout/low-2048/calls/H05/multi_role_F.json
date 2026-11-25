@@ -1,0 +1,17 @@
+{
+  "request_sha256": "e5d7796ea47e251f3eef004fa4e3ea591444ed1ffac8f7048a0a3cb2eea77230",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ca1aaa96b6f31ca7",
+  "created_at": 1795586665,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "受限字段=合成同行匿名编号。密封副本: v1=OLD-H05-R1, v2=SX-468065-JR, v3=待批准空白。已核签版本=v2；仅主控按最新运行时授权决定是否将原始字段交给 H05-ATT；保留ASCII与连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 739,
+    "output_tokens": 140,
+    "total_tokens": 879
+  }
+}

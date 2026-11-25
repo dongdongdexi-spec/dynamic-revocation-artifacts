@@ -1,0 +1,17 @@
+{
+  "request_sha256": "135fb08e190c111aca2cc6f0980d065d7043ed23cf86ac78cdd1282e0393eada",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1cfa2ff9500267a2",
+  "created_at": 1795588982,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "仅处理子流=覆盖且修订<=5；先过滤不符，再去掉暂收。按行号取最新有效状态，若最新为撤销则整行删除。入选候选：K1核准(13,3,5,19)、Y2核准(36,2,4,15)、M1核准(36,4,2,14)、K3核准(20,5,1,25)、X2核准(31,4,4,20)。聚合=Σmax(数量-冲销量,0)*权重 + 公开索引系数；系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 927,
+    "output_tokens": 444,
+    "total_tokens": 1371
+  }
+}

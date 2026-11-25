@@ -1,0 +1,17 @@
+{
+  "request_sha256": "95a9b7d1abd2c0895e71d5f2e0a09c9a3a0b9fa12002d1fa0e3d91ec5155de6e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ff73274576c42290",
+  "created_at": 1795589072,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "仅处理参与且修订≤5；剔其他/暂收。按行号保留最新有效状态，若最新为撤销则整行删。原行：Y7核准29,2,3,13；T2其他；K1核准31,4,9,21；Y2核准9,2,2,23；M1核准11,5,7,20；X4撤销16,3,1,19；K3核准35,5,3,13；M4暂收；X2核准25,5,10,28；K5暂收。聚合=Σmin(数,上限)*权重+A系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 1630,
+    "total_tokens": 2558
+  }
+}

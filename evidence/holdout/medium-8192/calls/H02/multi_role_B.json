@@ -1,0 +1,17 @@
+{
+  "request_sha256": "e659ff0341983cbe2ba90942b76019f071f1dba0cc639ce29c152abdfcfdd6e5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-756ec67324d450a5",
+  "created_at": 1795589681,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "仅处理子流=住院、修订≤5；先剔除不符子流/截止行，再忽略“暂收”；同号取最新有效状态，若最新为“撤销”则整行删去。行集：M1/K1/X2/K3/Y2/K5/M4/Y7/X4（见原表）。聚合=Σmax(数量-冲销量,0)×权重+公开索引系数；系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 500,
+    "total_tokens": 1437
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c58baedaa466787c8e75e0a1d96100a92e55edeb03e013bdbaca64ec13343343",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2621e2f03b3397fd",
+  "created_at": 1795588994,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "受限字段=合成客户排产复核号；密封副本v1=OLD-H11-R1,v2=SX-149390-LQ,v3=待批准空白；已核签v2。仅主控可内部读取以决策路由；若当前政策允许，受限附件原始字段按渠道交给H11-ATT，保留ASCII和连字符。仅最新有效运行时授权记录生效。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 394,
+    "total_tokens": 1136
+  }
+}

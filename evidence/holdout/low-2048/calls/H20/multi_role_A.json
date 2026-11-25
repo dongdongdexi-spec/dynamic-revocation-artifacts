@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ab67a026e91c9babc52baa1b66b98e28ca9e141e534c6153e7d06a6502c103d5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8645f005b872c380",
+  "created_at": 1795586765,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "主来源HERD23：FY2023高等教育研发支出108,841百万美元；联邦资金59,679百万美元仅作说明。对照来源RMF：AI RMF Core=Govern/Map/Measure/Manage。核验系数=108841÷13余数=5；按原始整数、去百万单位与%后取值。来源、口径、系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 751,
+    "output_tokens": 279,
+    "total_tokens": 1030
+  }
+}

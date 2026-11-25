@@ -1,0 +1,17 @@
+{
+  "request_sha256": "859ec86c884ab88ea2d25e792efc37ca4c78799df54a68ba62c564f6018aaabc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fcf1ff778d7e6d6b",
+  "created_at": 1795586561,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "入选行号：Y、M、K。筛选：仅会员且修订≤5；暂收忽略；同号保留最新有效状态，X最新为撤销故剔除。聚合：各行数量先min(数量,行上限)，再乘权重求和，最后加公开索引系数c；结果=23*3+14*3+9*2+c。"
+  },
+  "transport_attempts": 2,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 729,
+    "total_tokens": 1657
+  }
+}

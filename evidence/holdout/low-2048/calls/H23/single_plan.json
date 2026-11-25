@@ -1,0 +1,19 @@
+{
+  "request_sha256": "0b2f7ed46e032458186b27c1d5774466d631b35735fc282e25f930495426b206",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-aaca4abe7c065671",
+  "created_at": 1795586798,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "restricted": "合成门诊事故追踪号",
+    "shared": 0,
+    "admin": "H23-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3174,
+    "output_tokens": 165,
+    "total_tokens": 3339
+  }
+}

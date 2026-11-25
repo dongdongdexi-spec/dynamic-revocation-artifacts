@@ -1,0 +1,19 @@
+{
+  "request_sha256": "992c2215e8a8611635ea25031af6f78b5fbff8eb8ded77bd85c823be43ac883b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2332a41bbbdf1138",
+  "created_at": 1795589846,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "restricted": "SX-654888-LQ",
+    "shared": 21,
+    "admin": "H19-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1812,
+    "output_tokens": 2689,
+    "total_tokens": 4501
+  }
+}

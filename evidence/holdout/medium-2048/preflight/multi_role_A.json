@@ -1,0 +1,17 @@
+{
+  "request_sha256": "81af2a62a2323e7db5a1696d8e693c10d61ce7956765e5e3898f84e06879389b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-57b7c29d84eb5f60",
+  "created_at": 1795588845,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "主来源索引系数=4。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 632,
+    "output_tokens": 202,
+    "total_tokens": 834
+  }
+}

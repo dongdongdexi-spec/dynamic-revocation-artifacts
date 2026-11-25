@@ -1,0 +1,17 @@
+{
+  "request_sha256": "9b83b493c8569bba5061fa63ad49df55066d4a65d57d43ee3243295a859c64e1",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a5f7698dd7f4e062",
+  "created_at": 1795589766,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "筛后仅保留：M1核准(14,3)、K3核准(22,2)、Y2核准(25,5)；X4为撤销→整行删，M4/K5暂收删，Y7/T2/超截止删。聚合=Σ(数量×权重)+A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 1096,
+    "total_tokens": 2030
+  }
+}

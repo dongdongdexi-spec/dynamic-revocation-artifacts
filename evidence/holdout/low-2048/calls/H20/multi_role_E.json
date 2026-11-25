@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a615ae347bdfe49949b31f4dc5abac98275674befa91fee7cedffcb868bbded3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-57d999b2d4218c1f",
+  "created_at": 1795586779,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "行政预约：仅在共享字段已实际送达 H20-PUB 后安排；收件 H20-OPS。条件：资料组、开始不早于10:04、至少4席、状态开放；候选取最早可行窗口。可行者：H20-KM(10:13,4席,开)、H20-LX(10:21,5席,开)。最早为H20-KM。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 189,
+    "total_tokens": 1086
+  }
+}

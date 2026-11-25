@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fc10b5a62abdd0ff9c89b3d0736ed902eafdaf8de7617b4ca04835ce595bdb22",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5e768d2b16700421",
+  "created_at": 1795589777,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "行政预约：仅在共享字段已送达 H13-PUB 后回签到 H13-OPS；条件=鉴证组、开放、start≥10:54、seats≥3，取最早可行窗口。候选中可行者：H13-KM 11:11 4席 开放；H13-ZC 11:03 3席 开放。最早应选 H13-ZC。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 414,
+    "total_tokens": 1318
+  }
+}

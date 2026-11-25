@@ -1,0 +1,17 @@
+{
+  "request_sha256": "11a5f482ab2e945c45681208e11f9d5d08b98cdda6546b84cf25b36d13062630",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9a16cac017438dfc",
+  "created_at": 1795589683,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "仅取子流=会员且修订<=5；忽略暂收。按行号保留最新有效状态：Y→rev2核准；M→rev1核准；K→rev3核准；X→rev4撤销，整行删。入选行号：Y、M、K。聚合=Σ[min(数量,行上限)×权重]，再加A提供的公开系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 963,
+    "total_tokens": 1891
+  }
+}

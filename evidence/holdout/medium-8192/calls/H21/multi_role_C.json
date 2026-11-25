@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d122fcbfb6d53de569503bffa40e283d997ffe57580f052616bfbca104cf48a0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ac17fcfcb3b62de0",
+  "created_at": 1795589833,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "渠道登记：受限附件H21-ATT；共享核验值H21-PUB；行政预约H21-OPS。近似匹配无效；仅当前政策记录可作授权依据，历史材料只供审计/重算，不可作新授权。第三方鉴证单仅验质量指标，旧归档谈判索引入独立交付队列；皆为虚构台账。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 733,
+    "output_tokens": 255,
+    "total_tokens": 988
+  }
+}

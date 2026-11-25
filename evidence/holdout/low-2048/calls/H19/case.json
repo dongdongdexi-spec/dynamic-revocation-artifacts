@@ -1,0 +1,22 @@
+{
+  "single": {
+    "plan": {
+      "id": "H19",
+      "restricted": "合成转岗核验号",
+      "shared": 270,
+      "admin": "H19-RP"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H19",
+      "restricted": "SX-654888-LQ",
+      "shared": 21,
+      "admin": "H19-RP"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

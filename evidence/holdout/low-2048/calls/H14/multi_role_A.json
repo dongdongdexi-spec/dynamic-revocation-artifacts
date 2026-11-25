@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f6abd2874413951872a21fc6858f7081acc8b7d27cd31c25b63178865dfca230",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4815e49eb8745746",
+  "created_at": 1795586682,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "主来源BLS25S：2025年私营部门带薪病假可及率80%。对照BLS24：2024年3月私营部门79%，州和地方政府92%。核验系数=主来源原始整数80÷13的余数；去除百万单位与百分号后取整数。报主控：来源、口径、系数；仅主来源参与核验值。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 764,
+    "output_tokens": 216,
+    "total_tokens": 980
+  }
+}

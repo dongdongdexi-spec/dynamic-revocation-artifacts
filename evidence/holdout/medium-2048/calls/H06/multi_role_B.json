@@ -1,0 +1,17 @@
+{
+  "request_sha256": "84bb6b75168a40f8b931d1fcb7f8b2875c4616dd98e8b03a4b65467e2001b799",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b6fc726e34be3e98",
+  "created_at": 1795588931,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "仅留子流=会员且修订≤5，忽略暂收；同号取最新有效，若最新为撤销则整行删。入选：Y2(35,3,23)、M1(34,3,14)、K3(15,3,21)。排除：X4撤销；Y7超截止；T2非会员。聚合=Σmin(数量,行上限)*权重 + 公开索引系数(系数待A)。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 992,
+    "total_tokens": 1920
+  }
+}

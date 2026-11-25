@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a8859db2da2e6b5a56903698badcda24de0322eef1a8ca7f7c0be4e967f06b52",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e5880e325838dd0a",
+  "created_at": 1795586542,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "主来源BLS24：2024年3月私营部门带薪病假可及率79%，州与地方政府92%；对照BLS25：2025年3月私营部门医疗福利可及率72%，参与率45%。核验系数=79÷13余数=1；仅主来源用于核验值，按原始整数、去百分号/百万单位。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 765,
+    "output_tokens": 172,
+    "total_tokens": 937
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "86e2bf1d8e0c75066370dc42dc54cc21c7b8ad0eb6a47afc4d6db5a0c7c6e59f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5d6d14d0acecb4f6",
+  "created_at": 1795586769,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "选入K3、M1、Y2；X因最新有效状态=撤销剔除，T非发布剔除。聚合=入选数量3×最大权重5−冲销量合计(8+7+9)；再加A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 499,
+    "total_tokens": 1439
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b4545ba81dbef22eba4ce7c27eef45fb62bb5a5e106ebe728581f7eb4fb92e8e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a3d5508ae4838b62",
+  "created_at": 1795589679,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "仅联邦且修订≤5；先剔除暂收，再按行号取最新有效修订，若最新状态=撤销则整行删。保留：M(1,核准)、K(3,核准)、Y(7,核准)；X最新4为撤销删，T=其他删。聚合：Σmax(数量-冲销量,0)×权重 + 公开索引系数（系数由A）"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 906,
+    "total_tokens": 1843
+  }
+}

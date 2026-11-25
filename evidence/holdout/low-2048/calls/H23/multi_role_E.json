@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b6c256bd85444b530bad5941544edb70f408aab8f0452da59fa94039cf9e0130",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bffa42f69141f7dc",
+  "created_at": 1795586791,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "公示组；仅在共享字段已实际送达 H23-PUB 后安排。筛选：状态=开放、team=公示组、start≥11:19、seats≥4；按最早 start 选。候选中仅 H23-DF(11:28,4席,开放) 符合；回签用 ASCII id 发往 H23-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 226,
+    "total_tokens": 1130
+  }
+}

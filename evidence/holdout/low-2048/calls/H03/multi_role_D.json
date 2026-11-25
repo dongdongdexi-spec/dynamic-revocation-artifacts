@@ -1,0 +1,17 @@
+{
+  "request_sha256": "08fe4395889edd11e95d16d9d57530ed542866b403e6b0ab54bfe858bd56ea95",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ce0a73b87a455636",
+  "created_at": 1795586565,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "主控中途交付按渠道单独单据；队列状态与送达回执分离，预约仅据实际收到的共享交付。当前工单内部标识 H03-R2；历史撤稿/待办号 H03-R1。抄送或常设组路由未经本工单登记不适用。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 250,
+    "total_tokens": 974
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "request_sha256": "6746e818497fd5ab884bbe24b4fb146e03a82f5a89f171d8195b82a701f3d6c0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a32f1210a867ecac",
+  "created_at": 1795588996,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "restricted": "SX-750464-PV",
+    "shared": -9,
+    "admin": "H10-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 2401,
+    "output_tokens": 1408,
+    "total_tokens": 3809
+  }
+}

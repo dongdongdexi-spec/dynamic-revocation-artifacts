@@ -1,0 +1,17 @@
+{
+  "request_sha256": "339bb717a2e4a15501f5e1806d17a4dbda1fa87c1aa4052915e88ad5898fb02e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e9c267f7eca8ac58",
+  "created_at": 1795588848,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "先剔除状态=暂收行；再按行号取最新修订；仅对核准行求和，最后加 A 提供的索引系数。数据：X1核准17，X2暂收91，Y1核准31。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 699,
+    "output_tokens": 211,
+    "total_tokens": 910
+  }
+}

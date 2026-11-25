@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a68197a6721c6053d6368e04405693d28aa0d23c6ae655003d3a575edeaa8bee",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-7bbc2759dca60abb",
+  "created_at": 1795586543,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "来源：主来源HCAHPS；对照来源STAR。口径：HCAHPS星级评分要求12个月报告期内至少100份调查且具公开报告资格；主来源仅用于核验值计算。系数=2008÷13余数=9。请将来源、口径、系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 759,
+    "output_tokens": 216,
+    "total_tokens": 975
+  }
+}

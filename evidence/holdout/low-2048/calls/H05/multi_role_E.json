@@ -1,0 +1,17 @@
+{
+  "request_sha256": "970310a35bfa9981fbbb2a1eb33d6c9cdd0ff2a46828dbd85fe9503fc019bd13",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8ac264695b786290",
+  "created_at": 1795586660,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "行政预约：仅在共享字段已送达 H05-PUB 后安排；条件=核算组、开始≥11:19、≥4席、开放。候选中合格者：H05-WQ(11:28,4,开)、H05-TV(11:36,5,开)。取最早→H05-WQ。回签用 ASCII id 发往 H05-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 391,
+    "total_tokens": 1295
+  }
+}

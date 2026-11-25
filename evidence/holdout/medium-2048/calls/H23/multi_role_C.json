@@ -1,0 +1,17 @@
+{
+  "request_sha256": "1d2ad359efe2c6c050f1f654a2ea701d22f82dca0bbe752287f0f393da6c2ac3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6388fb307ae2f0c3",
+  "created_at": 1795589127,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "受限附件=H23-ATT；共享核验值=H23-PUB；行政预约=H23-OPS。近似匹配无效；仅当前政策记录可决定授权，历史材料仅供审计/重算，不得作新授权证明。公示组仅收当期经签统计；迟到校验与新班分诊预约需拆分；全为虚构台账。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 733,
+    "output_tokens": 297,
+    "total_tokens": 1030
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2be255e7a50d438de981250ccd6b22d6b549979c0a400929fa0e33e1e95249bc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-15ea8a6a6592ebd9",
+  "created_at": 1795589816,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "主来源BLS25：2025年3月私营部门医疗福利可及率72%，参与率45%；对照BLS25S：2025年私营部门雇员带薪病假可及率80%。核验系数=主来源原始整数72÷13余数；百分号/百万单位移除后取展示整数。仅主来源参与核验值，来源/口径/系数均报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 760,
+    "output_tokens": 217,
+    "total_tokens": 977
+  }
+}

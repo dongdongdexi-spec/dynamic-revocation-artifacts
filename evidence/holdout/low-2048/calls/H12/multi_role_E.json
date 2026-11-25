@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d0440a8f773e594d55be9a92e3f275dd90fc4a4df0020825df84c1b1ee00ee36",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-24e24adffd28ef18",
+  "created_at": 1795586686,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "审查组；开始≥10:20，席位≥2，状态=开放；按最早选。可行窗：H12-ZC 10:22/2/开，H12-TV 10:46/3/开，H12-WQ 10:38/2/开；最早为H12-ZC。仅在共享字段已送达H12-PUB后安排；回签ASCII id发H12-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 311,
+    "total_tokens": 1215
+  }
+}

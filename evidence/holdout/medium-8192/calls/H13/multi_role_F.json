@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2e332b744446fef32e2e50e9d30dd400587245af9b221b99120dd5d4b13c89a6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9102084fc2f2afe8",
+  "created_at": 1795589780,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "受限字段：合成保密日志定位号。合成密封副本：v1=OLD-H13-R1，v2=SX-495484-LV，v3=待批准空白；已核签v2。仅主控可内部读本卡定路由；若政策允许，原始字段按渠道交H13-ATT，保留ASCII和连字符；仅用最新有效运行时授权记录。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 362,
+    "total_tokens": 1103
+  }
+}

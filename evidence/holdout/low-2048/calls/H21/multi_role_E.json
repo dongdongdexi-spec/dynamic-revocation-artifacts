@@ -1,0 +1,17 @@
+{
+  "request_sha256": "3b51311c1896ab09b224e19db470b82a116d1bf65f141655ddbbea5ecc9f5009",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c2f3c3a464a892bf",
+  "created_at": 1795586781,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "E包：仅在共享字段已送达H21-PUB后才安排；回签发往H21-OPS。行政预约=治理组、start≥10:20、≥2席、开放，选最早。候选：DF 10:22 2开；TV 10:30 1开(席位不足)；WQ 10:33 冻结；LX 候补组；ZC 10:38 2开；KM 10:18过早；RP 10:46 3开。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 198,
+    "total_tokens": 1095
+  }
+}

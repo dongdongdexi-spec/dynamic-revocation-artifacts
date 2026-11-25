@@ -1,0 +1,17 @@
+{
+  "request_sha256": "52a7cd3e6e3aa726fb42c3436368d0cb7d3f4d88b1b76ff944bae61700902eb7",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-945148f5dc22e7f0",
+  "created_at": 1795589834,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "仅留子流=成本且修订≤5；去暂收。按行号取最新状态：X=4撤销→剔除；M=1核准留；K=3核准留；Y=2核准留。入选行号：M1、K3、Y2。聚合=Σ[min(数量,行上限)×权重]+A给的公开索引系数=15×2+12×2+20×3+coef_A=114+coef_A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 1298,
+    "total_tokens": 2226
+  }
+}

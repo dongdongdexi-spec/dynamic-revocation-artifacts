@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b43069a061815b4741d28cc2e873e2f852a23847c6a6aefdee2c5070679c9dcc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8a3450b72f2dd769",
+  "created_at": 1795589848,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "行政预约：仅在共享字段已实际送达 H23-PUB 后安排；发往 H23-OPS。条件：公示组，start≥11:19，seats≥4，status=开放，取最早。候选：LX11:25候补6开；DF11:28公示4开；RP11:20公示3开；ZC11:08公示5开；KM11:12公示4开；WQ11:36公示5开；TV11:23公示5冻。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 559,
+    "total_tokens": 1463
+  }
+}

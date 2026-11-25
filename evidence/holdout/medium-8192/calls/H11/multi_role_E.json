@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d4346eabbb56764fb6e36ee1f1a9988f6a49ac85ca782d0e8b6cf7a9877e52ed",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bd734efde9c8b1b4",
+  "created_at": 1795589747,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "行政预约：仅在共享字段已送达 H11-PUB 后执行；条件=核算组、开放、start≥10:04、席位≥4，取最早可行。候选中可行且最早为 H11-KM(10:13,4席,开放)；回签用 ASCII id，发往 H11-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 405,
+    "total_tokens": 1309
+  }
+}

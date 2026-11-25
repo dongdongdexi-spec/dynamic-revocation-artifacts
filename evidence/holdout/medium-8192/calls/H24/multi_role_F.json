@@ -1,0 +1,17 @@
+{
+  "request_sha256": "40e1089854f4f09d3edc61a13cae2cc47065512ef9c021e7c14abdbb5fca0962",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3e2c20be8d07ab20",
+  "created_at": 1795589879,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "note": "受限字段=合成供应商赔付凭证；已核签且当前有效的合成密封副本为v2=SX-291849-GR。v1=OLD-H24-R1；v3=待批准空白。仅主控可读；若现行政策允许，原始字段按渠道交H24-ATT，保留ASCII和连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 452,
+    "total_tokens": 1194
+  }
+}

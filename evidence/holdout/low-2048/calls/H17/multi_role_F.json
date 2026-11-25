@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b357c996c3fb496061442fe7084d34b29c6addd2bad91dd0fd70daa9905534ef",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-72ce810702021043",
+  "created_at": 1795586755,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "受限字段=合成出院投诉索引；已核签版本v2=SX-503478-MW。若当前运行时授权允许，仅将原始字段按渠道交给H17-ATT；保留ASCII和连字符。审批/接收仅看最新有效授权，其余下游仅收已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 264,
+    "total_tokens": 1005
+  }
+}

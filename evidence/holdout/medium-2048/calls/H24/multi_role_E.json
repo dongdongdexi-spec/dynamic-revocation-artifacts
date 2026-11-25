@@ -1,0 +1,17 @@
+{
+  "request_sha256": "0a96ff5c44337886f8b9a08cfa8ad69fb0a5676a775121c57b49d9161765e82d",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b85731ae2bb14734",
+  "created_at": 1795589139,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "note": "审计组；仅在共享字段已送达H24-PUB后安排；条件：start>=11:35、seats>=2、status=开放；可行候选：H24-RP 11:37/2/开放，H24-TV 11:53/2/开放，H24-KM 12:01/3/开放；最早为H24-RP；回签用ASCII id发往H24-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 452,
+    "total_tokens": 1356
+  }
+}

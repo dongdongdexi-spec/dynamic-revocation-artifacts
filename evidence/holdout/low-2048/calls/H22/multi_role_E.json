@@ -1,0 +1,17 @@
+{
+  "request_sha256": "10790853a6cf3bd93da27687cff2cc459e4a17e69a8ee9d43de5df0c29515ec5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bcaa9c993bc05d4e",
+  "created_at": 1795586787,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "仅在共享字段已实际送达 H22-PUB 后再排。结算组，开放，开始≥10:54，席位≥3；可选最早为 H22-RP（11:03，3席，开放）。回签用 ASCII id，发往 H22-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 303,
+    "total_tokens": 1207
+  }
+}

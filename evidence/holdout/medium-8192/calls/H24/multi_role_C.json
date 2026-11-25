@@ -1,0 +1,17 @@
+{
+  "request_sha256": "afe71ae66ccfdbe8ad2a61c5e549dd19f9f33dc04528a19eba44c7d2978bab79",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-86f6df066f57ba9f",
+  "created_at": 1795589870,
+  "status": "ok",
+  "output": {
+    "id": "H24",
+    "note": "收件渠道：受限附件H24-ATT，共享核验值H24-PUB，行政预约H24-OPS。近似匹配无效；仅当前政策记录可作授权依据，历史材料仅供审计/重算，不可作新授权证明。福利方案总体数据与个案争议分收件身份；早于最早许可的供应商占位无效。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 732,
+    "output_tokens": 218,
+    "total_tokens": 950
+  }
+}

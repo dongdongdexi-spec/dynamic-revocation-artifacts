@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8648e1a952c3d0e00c8b58e4125bd432bf191d6de2440c0e7f3914e4503ee034",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-352ed7ae521eebe9",
+  "created_at": 1795586572,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "行政预约：仅在共享字段已送达 H07-PUB 后才可安排；组别=统计组，开始不早于12:09，席位≥3，状态=开放；候选中最早可行窗口为 H07-ZC(12:18,统计组,3,开放)。回签用ASCII id，发往 H07-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 265,
+    "total_tokens": 1162
+  }
+}

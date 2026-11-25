@@ -1,0 +1,17 @@
+{
+  "request_sha256": "eaefc0351fa9b5b95f537e12ebd0a5adb0364ea02e8b96f9bf895735b15f6206",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9607e618a7cfad61",
+  "created_at": 1795588886,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "仅保留子流=风险且修订≤5；暂收行剔除。按行号取最新有效状态：M1核准、K3核准（K5为暂收忽略）、Y2核准；X4最新有效状态为撤销，整行去除。T2因子流=其他不入。聚合：入选行先按行上限截断再×权重求和，基础和=24×2+10×4+24×4=184，另加A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 1066,
+    "total_tokens": 1994
+  }
+}

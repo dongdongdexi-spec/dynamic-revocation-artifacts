@@ -1,0 +1,19 @@
+{
+  "request_sha256": "95b31473d86d78fde140200ea287ede46c8cc546828ffe2e87c4d2140a8429ca",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0766693548b148e5",
+  "created_at": 1795589101,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "restricted": null,
+    "shared": 221,
+    "admin": "H21-DF"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3590,
+    "output_tokens": 1140,
+    "total_tokens": 4730
+  }
+}

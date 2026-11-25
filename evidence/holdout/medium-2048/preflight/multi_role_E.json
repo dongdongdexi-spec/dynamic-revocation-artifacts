@@ -1,0 +1,17 @@
+{
+  "request_sha256": "424cc3637c3c51fbf86a9284ae6fd6a34feb202cfb5583acc9dadc1bff9eeb03",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-6c121314b60c0e6e",
+  "created_at": 1795588857,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "甲组；至少2席；最早09:30；在满足且开放者中选最早。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 644,
+    "output_tokens": 313,
+    "total_tokens": 957
+  }
+}

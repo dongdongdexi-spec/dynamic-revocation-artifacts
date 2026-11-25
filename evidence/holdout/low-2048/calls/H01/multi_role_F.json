@@ -1,0 +1,17 @@
+{
+  "request_sha256": "98c27491de2682989eedea4bf155bf8336a599cd20d1ad46bedb0a7e50f5fac9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b9d0fc16bc0c5b3f",
+  "created_at": 1795586571,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "受限字段=合成续约折扣复核号；核签版本v2=SX-690449-KR。仅在最新运行时授权允许时，原始字段可按渠道交H01-ATT；其余下游仅收已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 743,
+    "output_tokens": 158,
+    "total_tokens": 901
+  }
+}

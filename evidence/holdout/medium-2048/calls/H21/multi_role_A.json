@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8a01b7d8837ae68682241dba2df9b13ce8dedf9e075bd140a13dc39023bdb245",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-de8952043f3f866c",
+  "created_at": 1795589083,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "主来源AI09第9条：高风险AI风险管理为全生命周期持续迭代。对照DA05第5条：用户将数据分享给第三方。核验系数=9 mod 13=9；口径为去除“百万单位/百分号”后取所示整数。法规按条号。主来源仅参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 417,
+    "total_tokens": 1159
+  }
+}

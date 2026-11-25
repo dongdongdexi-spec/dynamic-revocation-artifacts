@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2b8dfa477ec7c19a6a07b6f7766d895778e7dde3beb05e74474b8360ef66009a",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-269ae641153b26c6",
+  "created_at": 1795586541,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "来源：DA04第4条为主，DA05第5条作说明。口径：去除“百万单位/百分号”后取展示整数。系数：主来源原始整数4，核验值=4 mod 13=4；仅主来源参与计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 162,
+    "total_tokens": 906
+  }
+}

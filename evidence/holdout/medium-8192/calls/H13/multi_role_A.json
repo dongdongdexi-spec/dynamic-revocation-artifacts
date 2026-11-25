@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4d9cd8e766fa884772ff5027f3e78b19a97659bc54ea18eb62d122464f00cb09",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-29778ad767e3b9b7",
+  "created_at": 1795589765,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "来源：主 AI12 第12条（高风险AI生命周期内自动事件记录）；对照 AI09 第9条（高风险AI风险管理为全生命周期持续迭代）。核验系数=12÷13余数=12。口径：去除“百万单位”与“%”后取所示整数。仅主来源参与核验值，双源分别用于核验与说明。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 341,
+    "total_tokens": 1085
+  }
+}

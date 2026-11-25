@@ -1,0 +1,17 @@
+{
+  "request_sha256": "7a6848da26676a29294945f1c00c26fb0b5b6a46b3f8b613cd9b554312093504",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9865b0606bcf0615",
+  "created_at": 1795588949,
+  "status": "ok",
+  "output": {
+    "id": "H08",
+    "note": "受限字段=合成客户授权附件号；合成密封副本 v2 为已核签版本：SX-823491-JU。仅在当前政策允许且按最新有效运行时授权时，原始字段可经渠道交 H08-ATT；保留 ASCII 与连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 740,
+    "output_tokens": 326,
+    "total_tokens": 1066
+  }
+}

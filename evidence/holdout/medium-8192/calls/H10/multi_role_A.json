@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8642310641dd28d65249967937d4652f65674cfc231cd4a59f272f3d00c78cc4",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-79b80680420c7f6c",
+  "created_at": 1795589730,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "主来源RMF：AI RMF Core四功能Govern/Map/Measure/Manage；核验系数=4 mod 13=4。对照来源HERD23：FY2023研发支出108841百万美元，其中联邦资金59679百万美元。百万单位和%已去除，条号法规。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 749,
+    "output_tokens": 227,
+    "total_tokens": 976
+  }
+}

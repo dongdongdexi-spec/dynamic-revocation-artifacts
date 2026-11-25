@@ -1,0 +1,17 @@
+{
+  "request_sha256": "752209bcb8e18eaa483fcf12528c87928423f03de31aba95c2b5632cce6f84ed",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-2598cee15a445157",
+  "created_at": 1795589744,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "模型组；仅在共享字段已实际送达 H10-PUB 后安排。条件：开始≥09:39、状态开放、至少3席。候选中符合：H10-DF(09:48,3席,开放)、H10-WQ(09:56,4席,开放)；最早为H10-DF。回签发往H10-OPS，使用ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 359,
+    "total_tokens": 1256
+  }
+}

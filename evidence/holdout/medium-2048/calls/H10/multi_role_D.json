@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fbdb0f03ce247abeec957c5216cb727e66ce91888c017273f26c93c53df42eb3",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-92228acfb840ca55",
+  "created_at": 1795588985,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "中途交付；提交单位=每条渠道单独交付单。队列状态与送达回执分离；预约仅依据实际收到的共享交付。旧单仅记历史来源，保留原交付编号核验。当前内部标识H10-R2；历史撤稿/待办H10-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 621,
+    "total_tokens": 1345
+  }
+}

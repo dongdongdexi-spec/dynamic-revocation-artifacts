@@ -1,0 +1,17 @@
+{
+  "request_sha256": "8b58e6a6523bc34783abe87e5988bd8c0b3f3ded87375cecdb9a610297e4cb53",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8c2d1b2c4b56eaf3",
+  "created_at": 1795586787,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "主控中途交付；提交单位=每条渠道单独交付单。队列状态与送达回执分开；预约仅依据实际收到的共享交付。旧单据只记历史来源，保留原交付编号核验。当前工单内部标识H23-R2；历史撤稿/待办号H23-R1；抄送或常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 188,
+    "total_tokens": 912
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "488ffbb6312e25c100e3878484f713153e7e65a6b761f4551923ef07b8843db5",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-dadb8d2f156c349f",
+  "created_at": 1795588970,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "渠道登记：受限附件H09-ATT；共享核验值H09-PUB；行政预约H09-OPS。近似匹配无效；仅当前政策记录可决定授权，历史材料仅供审计/重算，不可作新授权证明。区分参与与可及；暂未签名通过的补交申请等下一班。虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 727,
+    "output_tokens": 224,
+    "total_tokens": 951
+  }
+}

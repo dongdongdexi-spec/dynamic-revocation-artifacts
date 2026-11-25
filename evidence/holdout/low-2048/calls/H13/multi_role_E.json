@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ff6edee57c48009ddf135781418b83e0108540c5904c23de69c94b6d1c010e4f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-63fc69a7a1255b4f",
+  "created_at": 1795586693,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "E: 仅在共享字段已送达H13-PUB后才可安排；行政预约限鉴证组、开始≥10:54、≥3席、开放，取最早可行。候选：LX 11:00候补组；WQ 10:55席2；DF 10:58冻结；TV 10:47；RP 10:43；KM 11:11；ZC 11:03。回签发H13-OPS，用ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 204,
+    "total_tokens": 1108
+  }
+}

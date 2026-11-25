@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bf62843cc208a452b266061ec2f302ed9564cd542f602503113e491423a7a3f1",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-cf6c898fd89f7e7d",
+  "created_at": 1795589650,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "附件、共享数据及行政分别提交为 PREFLIGHT-restricted、PREFLIGHT-shared、PREFLIGHT-admin；仅按当前授权行动。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 648,
+    "output_tokens": 329,
+    "total_tokens": 977
+  }
+}

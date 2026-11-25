@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fd57f844ded2dee9d1455b0d50587a9e2d7808b2d29e44b90ce27093b057cea2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-31b37ea6542be8bc",
+  "created_at": 1795586732,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "收件渠道：受限附件=H19-ATT，共享核验值=H19-PUB，行政预约=H19-OPS。近似匹配无效；仅当前政策记录可作授权依据，历史材料只可审计/重算。汇总组保留福利参与口径，勿与个人部门变更或排期混用。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 729,
+    "output_tokens": 151,
+    "total_tokens": 880
+  }
+}

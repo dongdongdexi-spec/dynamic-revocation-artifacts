@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b7b0e01945c7aff6ec55c5f2643ba6370b59f5652d67aa6c12a629e8be1d1fc4",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d001c9d12e052856",
+  "created_at": 1795588938,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "收件渠道：受限附件H07-ATT；共享核验值H07-PUB；行政预约H07-OPS。近似匹配无效；仅当前政策记录定授权，历史材料仅供审计/重算，不能作新授权证明。季度刷新区分撤回行与晚到生效行，诊疗转运事件需独立授权；皆为虚构台账，无真实收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 733,
+    "output_tokens": 357,
+    "total_tokens": 1090
+  }
+}

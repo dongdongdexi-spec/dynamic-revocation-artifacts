@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5596498d65ac52da1283b2d58d2f55e25beb7c09206ee00e277c228f714fe842",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-9156af2329a6ad90",
+  "created_at": 1795586693,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "收件渠道：受限附件 H15-ATT；共享核验值 H15-PUB；行政预约 H15-OPS。近似匹配无效；仅当前政策记录可授权，历史材料仅供审计重算。政策办仅交汇总核验值；原材料引用/未脱敏合成评审均另授。虚构台账，无真实收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 730,
+    "output_tokens": 132,
+    "total_tokens": 862
+  }
+}

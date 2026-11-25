@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a232c8835a781adebcea140eb6e305fc2b8f4eabe240bf6d26027ba9fc91b830",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5e9bf47290163a43",
+  "created_at": 1795588898,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "仅在共享字段已送达 H02-PUB 后安排。条件：team=质量组、开放、start>=10:04、seats>=4。可行候选：H02-WQ(10:13,4席)、H02-RP(10:21,5席)。最早可行=H02-WQ；回签用 ASCII id，发往 H02-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 444,
+    "total_tokens": 1341
+  }
+}

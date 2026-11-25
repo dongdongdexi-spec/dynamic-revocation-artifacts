@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a19332152df6c56ad8730108c8a2be6e81eba4553b64f603e6b038e318f105a8",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0f45165eab965c4f",
+  "created_at": 1795586659,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "接收人登记三类：受限附件H10-ATT；共享核验值H10-PUB；行政预约H10-OPS。近似匹配收件台编号无效；仅当前政策记录可作授权，历史材料仅供审计/重算。此为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 732,
+    "output_tokens": 137,
+    "total_tokens": 869
+  }
+}

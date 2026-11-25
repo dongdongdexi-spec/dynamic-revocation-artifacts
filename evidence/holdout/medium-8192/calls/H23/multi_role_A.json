@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6c1b6cf8ad86b9dfb80797ff7808a1970ff6b983589e880e046d6d021f2416b4",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3e5bfff01b14fd04",
+  "created_at": 1795589834,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "来源：主来源OQR（CMS门诊医疗质量，Compare数据按季度刷新=每年4次，索引口径）；对照来源STAR（HCAHPS星级评分：12个月报告期内至少100份调查且具公开报告资格）。核验系数：4 mod 13＝4；仅主来源参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 762,
+    "output_tokens": 262,
+    "total_tokens": 1024
+  }
+}

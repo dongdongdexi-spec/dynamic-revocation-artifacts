@@ -1,0 +1,17 @@
+{
+  "request_sha256": "3d05eee28a99569215ddb20b3e4c6c1b0a59ccbbda12701090e88c579da2f3fb",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3564a6744724e32a",
+  "created_at": 1795589091,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "收件分三项：受限附件 H21-ATT；共享核验值 H21-PUB；行政预约 H21-OPS。收件台编号近似匹配无效；仅当前政策记录可作授权依据，历史材料仅供审计/重算，不能新授权。第三方鉴证单仅承接质量核验指标，旧归档谈判索引入单独交付队列。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 733,
+    "output_tokens": 200,
+    "total_tokens": 933
+  }
+}

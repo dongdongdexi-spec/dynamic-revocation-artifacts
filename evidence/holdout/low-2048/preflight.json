@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "pipeline_checks": {
+    "ledger_handoff": true,
+    "exact_marker_handoff": true,
+    "all_notes_and_plans_usable": true
+  },
+  "plan_accuracy_diagnostic": {
+    "single": false,
+    "multi": true
+  },
+  "protocol_sha256": "b401080902d6870102f059f65f3d6b642e0160108ff162e17ec66794edd48d10"
+}

@@ -1,0 +1,19 @@
+{
+  "request_sha256": "21732140bfef2a109da3965a1a29e0ac7e303539b28a47c161d32f044b9b3a64",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0649abc73aeae318",
+  "created_at": 1795589091,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "restricted": "SX-242404-GU",
+    "shared": 436,
+    "admin": "H20-LX"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 2403,
+    "output_tokens": 1638,
+    "total_tokens": 4041
+  }
+}

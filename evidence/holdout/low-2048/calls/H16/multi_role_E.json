@@ -1,0 +1,17 @@
+{
+  "request_sha256": "1fae699d0d7ad35d3b5397abe854582905347cb6414d9237b0a38e754a90f469",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-da6e2a733820322f",
+  "created_at": 1795586726,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "运营组；起始≥12:09；≥3席；状态开放。候选：H16-RP 12:26 4席、H16-KM 12:18 3席、H16-LX 12:02太早、H16-DF 11:58太早、H16-TV 2席不足、H16-WQ冻结、H16-ZC候补组不符。若共享字段已送达H16-PUB，则最早可行窗口为H16-KM；回签ID发H16-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 256,
+    "total_tokens": 1153
+  }
+}

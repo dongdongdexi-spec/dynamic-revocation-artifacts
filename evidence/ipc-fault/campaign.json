@@ -1,0 +1,223 @@
+{
+  "seed": 734087,
+  "items": 18,
+  "scenarios": [
+    "normal",
+    "precommit_failure",
+    "lost_ack",
+    "duplicate",
+    "late_original",
+    "query_outage",
+    "malformed_ack"
+  ],
+  "scopes": [
+    "withdrawn",
+    "independent"
+  ],
+  "smoke": false,
+  "transport": "inherited_multiprocessing_pipe",
+  "receiver_pid": 59000,
+  "gateway_pid": 21804,
+  "runs": [
+    {
+      "stage": "natural",
+      "epoch": 1,
+      "workers": 6,
+      "planned_delay_ns": 30501460,
+      "started_ns": 615705612536600,
+      "worker_pids": [
+        20172,
+        47816,
+        50716,
+        29376,
+        18448,
+        55824
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 2,
+      "workers": 6,
+      "planned_delay_ns": 138409007,
+      "started_ns": 615707199054200,
+      "worker_pids": [
+        51672,
+        39152,
+        58516,
+        56340,
+        27324,
+        31736
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 3,
+      "workers": 6,
+      "planned_delay_ns": 38982386,
+      "started_ns": 615708699762200,
+      "worker_pids": [
+        45140,
+        50660,
+        53584,
+        26328,
+        45768,
+        55548
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 4,
+      "workers": 6,
+      "planned_delay_ns": 66299468,
+      "started_ns": 615710293043300,
+      "worker_pids": [
+        54604,
+        34112,
+        18120,
+        61620,
+        9968,
+        22520
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 5,
+      "workers": 6,
+      "planned_delay_ns": 132251438,
+      "started_ns": 615711915277200,
+      "worker_pids": [
+        41408,
+        27632,
+        51700,
+        57112,
+        6164,
+        4700
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 6,
+      "workers": 16,
+      "planned_delay_ns": 49600621,
+      "started_ns": 615714169511700,
+      "worker_pids": [
+        45648,
+        36164,
+        16868,
+        21004,
+        10084,
+        30236,
+        30556,
+        25636,
+        58184,
+        49900,
+        10100,
+        23752,
+        51568,
+        56540,
+        14080,
+        10088
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 7,
+      "workers": 16,
+      "planned_delay_ns": 154973963,
+      "started_ns": 615716520443100,
+      "worker_pids": [
+        55124,
+        41476,
+        46512,
+        36268,
+        14604,
+        58784,
+        16132,
+        4172,
+        62456,
+        34204,
+        58940,
+        33424,
+        32008,
+        40324,
+        46960,
+        59264
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 8,
+      "workers": 16,
+      "planned_delay_ns": 169479190,
+      "started_ns": 615718845788500,
+      "worker_pids": [
+        60200,
+        7356,
+        43752,
+        40872,
+        61948,
+        46384,
+        14716,
+        11388,
+        27612,
+        54472,
+        62436,
+        42424,
+        24076,
+        22912,
+        48052,
+        17976
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 9,
+      "workers": 16,
+      "planned_delay_ns": 150252420,
+      "started_ns": 615721194872500,
+      "worker_pids": [
+        50188,
+        58336,
+        23188,
+        28792,
+        60132,
+        13892,
+        17568,
+        38908,
+        40148,
+        50144,
+        15508,
+        37164,
+        42140,
+        57904,
+        59892,
+        22408
+      ]
+    },
+    {
+      "stage": "natural",
+      "epoch": 10,
+      "workers": 16,
+      "planned_delay_ns": 91508644,
+      "started_ns": 615723540857300,
+      "worker_pids": [
+        28948,
+        21748,
+        22552,
+        9392,
+        17200,
+        49568,
+        15276,
+        31180,
+        9400,
+        9068,
+        2336,
+        49920,
+        59040,
+        22200,
+        13764,
+        28360
+      ]
+    }
+  ]
+}

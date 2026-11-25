@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f67ea72878c59282f1ad2ceefa4fdd531c8929aee121d660e397044a4f034890",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-b4063c5e09fb76f4",
+  "created_at": 1795586683,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "仅此工单：当前内部标识 H12-R2；历史撤稿/待办号 H12-R1。队列状态与送达回执分开；预约只能基于实际收到的共享交付。抄送/常设组路由未在本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 194,
+    "total_tokens": 922
+  }
+}

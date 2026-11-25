@@ -1,0 +1,17 @@
+{
+  "request_sha256": "04cde6c1cc8e7829924138d680172da7f5893dc84454952b3a16755bc7d2092e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bc706a1d79342da8",
+  "created_at": 1795589831,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "行政预约：复核组；开始≥09:39；席位≥3；状态=开放；满足者取最早。候选：TV 09:56 开放4；RP 09:48 开放3；ZC 09:32 早于限；WQ 09:40 但2席；LX 09:28 早于限；DF 冻结；KM 候补组。仅在共享字段已送达 H19-PUB 后安排；回签用候选ASCII id 发 H19-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 543,
+    "total_tokens": 1447
+  }
+}

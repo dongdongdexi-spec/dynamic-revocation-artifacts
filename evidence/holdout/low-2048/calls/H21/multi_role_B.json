@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6c657cbd9e64fd11430c1e2b03427e5ab1414d3cb5efe4ac0e401c94e6ae94b8",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-62412e8f07e1eda9",
+  "created_at": 1795586771,
+  "status": "ok",
+  "output": {
+    "id": "H21",
+    "note": "筛选后入选：K(保留最新有效=3核准，1被覆盖，5暂收忽略)、M(1核准，4暂收忽略)、Y(2核准；7超截止剔除)；X(4撤销，最新有效为撤销，整行去掉)；T子流不符。聚合=Σmax(数量-冲销量,0)×权重+公开索引系数，系数待A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 513,
+    "total_tokens": 1450
+  }
+}

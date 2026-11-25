@@ -1,0 +1,17 @@
+{
+  "request_sha256": "22bca1a8ec8b4f7b846251179aad5c3e7bc506d5561cc06d3cbbbb47c723d517",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-11d72306fcc6773c",
+  "created_at": 1795589678,
+  "status": "ok",
+  "output": {
+    "id": "H01",
+    "note": "订阅收入核验：主来源ADBE24 FY2024收入21505、订阅收入20521（百万美元）；对照来源COST24 FY2024会员费4828、总收入254453。核验系数=21505 mod 13=3。主来源仅用于核验，二来源用于说明；口径/来源/系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 753,
+    "output_tokens": 278,
+    "total_tokens": 1031
+  }
+}

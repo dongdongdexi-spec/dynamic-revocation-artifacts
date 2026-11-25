@@ -1,0 +1,17 @@
+{
+  "request_sha256": "798eb6db1f3c2072a1ab03c5e78886b0ad0ef4dfefddde1eab449927f1c9e560",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8f54e0c59440d625",
+  "created_at": 1795589031,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "收件人渠道登记：受限附件 H16-ATT；共享核验值 H16-PUB；行政预约 H16-OPS。近似匹配无效；仅当前政策记录决定授权，历史材料仅可审计/重算，不能作新授权证明。补偿账本与营运预约不可共用旧部门映射；需完成可公示的定稿交付。虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 732,
+    "output_tokens": 239,
+    "total_tokens": 971
+  }
+}

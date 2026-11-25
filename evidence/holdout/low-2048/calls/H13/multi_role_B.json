@@ -1,0 +1,17 @@
+{
+  "request_sha256": "743d337ebdd56aa8df9af34da59ac962b8567a052d2b09352e551b4dc04f9075",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8a28039914fd7153",
+  "created_at": 1795586682,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "筛后入选：K3、M1、Y2；X因最新有效状态为撤销剔除，K1被K3覆盖，Y7因修订>5忽略，暂收行忽略。聚合=入选行数×最大权重−冲销量合计+公开索引系数；此题值为3×4−8+A系数=4+A系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 519,
+    "total_tokens": 1459
+  }
+}

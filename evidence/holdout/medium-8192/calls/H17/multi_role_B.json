@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d044d5c12bc82ea58b548ea44a7defd8ed77fc48061312d62e2e3914b3bea682",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3c5a686417fd1508",
+  "created_at": 1795589782,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "仅取子流=沟通且修订≤5；暂收行忽略。各行取最新有效状态：Y=2核准，K=3核准，M=1核准；X=4撤销→整行剔除；T=其他剔除。聚合=Σ(数量×权重)+A系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 934,
+    "output_tokens": 940,
+    "total_tokens": 1874
+  }
+}

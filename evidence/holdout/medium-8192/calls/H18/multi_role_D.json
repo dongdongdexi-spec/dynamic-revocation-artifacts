@@ -1,0 +1,17 @@
+{
+  "request_sha256": "6e45c8192cefce8c28e7c1170dc14cc19e1a89bad08e91ba47d9ca0da6965f63",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5739300b61cd6d76",
+  "created_at": 1795589818,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "工单内部标识H18-R2；历史撤稿/待办号H18-R1。提交单位为“每条渠道单独的交付单”。队列状态与送达回执分开；预约只能依据实际收到的共享交付安排。抄送/常设组路由未经本工单登记，旧单据仅记历史来源且保留原交付编号供核验。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 317,
+    "total_tokens": 1041
+  }
+}

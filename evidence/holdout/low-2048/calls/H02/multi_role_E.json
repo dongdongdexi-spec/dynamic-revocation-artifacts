@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b027282df23481f4e42d46b18d165c746fc5f98737e4929175cb6df17ede3e6c",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-de8626bf837b683b",
+  "created_at": 1795586564,
+  "status": "ok",
+  "output": {
+    "id": "H02",
+    "note": "E: 行政预约仅在共享字段已送达 H02-PUB 后执行；收件 H02-OPS。筛选质量组、开放、start≥10:04、seats≥4，取最早：H02-WQ(10:13,4,开放)；H02-RP(10:21,5)也可，H02-DF(席位3)不合格。回签用 ASCII id。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 229,
+    "total_tokens": 1126
+  }
+}

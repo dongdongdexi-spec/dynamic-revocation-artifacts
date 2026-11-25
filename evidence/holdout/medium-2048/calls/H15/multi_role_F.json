@@ -1,0 +1,17 @@
+{
+  "request_sha256": "009736a51b003551587b1e6330ae92aa7328ffd21c6badd0dc7bda0b5f96ccda",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-f4c083218739c70e",
+  "created_at": 1795589042,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "受限字段=合成评审档案定位号；密封副本v1=OLD-H15-R1，v2=SX-951350-MQ，v3=待批准空白。已核签v2；仅主控可内部读取以决定路由。若当前政策允许，受限附件原始字段按渠道交给H15-ATT；仅用最新有效运行时授权。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 742,
+    "output_tokens": 261,
+    "total_tokens": 1003
+  }
+}

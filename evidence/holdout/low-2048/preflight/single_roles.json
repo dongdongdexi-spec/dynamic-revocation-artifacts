@@ -1,0 +1,24 @@
+{
+  "request_sha256": "e7b3154d42225fc93fcf2c90142c2422942cfd22adcdfbb087c0253258eca210",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5c129668a2510bcf",
+  "created_at": 1795586467,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "notes": {
+      "A": "主来源索引系数=4。",
+      "B": "剔除暂收后，仅保留最新修订的核准行：X 最新为暂收不计，Y=31；合计31，再加A系数4，得共享值35。",
+      "C": "附件/共享/行政分别提交到 PREFLIGHT-restricted、PREFLIGHT-shared、PREFLIGHT-admin；仅按当前授权行动。",
+      "D": "仅在共享核验值产生实际收件后，才执行行政预约。",
+      "E": "行政筛选：甲组、≥2席、最早09:30；在满足且开放者中选最早时段。",
+      "F": "受限原始字段=SYN-PREFLIGHT-Z9-281；作废字段=SYN-PREFLIGHT-OLD；仅向有权主控交付受限字段。"
+    }
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 895,
+    "output_tokens": 466,
+    "total_tokens": 1361
+  }
+}

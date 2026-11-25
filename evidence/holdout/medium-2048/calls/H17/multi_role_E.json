@@ -1,0 +1,17 @@
+{
+  "request_sha256": "3b73bb33496f50559222219b8d2fc0861661e49817742b886d394af9e31e3366",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-5167e0d7b5341921",
+  "created_at": 1795589053,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "仅在共享字段已实际送达 H17-PUB 后安排；条件：协调组、开放、起始≥12:34、席位≥4，取最早。候选：KM12:27 4开；TV12:23 5开；DF12:51 5开；ZC12:35 3开；LX12:38 5冻；RP12:40 候补组6开；WQ12:43 4开。可行最早=H17-WQ；回签ASCII id 发 H17-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 657,
+    "total_tokens": 1554
+  }
+}

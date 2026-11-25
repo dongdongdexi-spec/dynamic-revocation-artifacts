@@ -1,0 +1,11 @@
+{
+  "passed": false,
+  "checks": {
+    "ledger_handoff": true,
+    "exact_marker_handoff": true,
+    "single_plan": false,
+    "multi_plan": true,
+    "all_notes_and_plans_usable": true
+  },
+  "protocol_sha256": "c26b27f8ddd05b2ecca36406bceb7ac816fd1d5e014c9b799b0d30c3bd6627d8"
+}

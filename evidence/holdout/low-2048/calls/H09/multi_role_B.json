@@ -1,0 +1,17 @@
+{
+  "request_sha256": "df788e02bfacbea987b8ccfb69963537b72b25f00837156e82a07464c43e9248",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-761696e0812c6665",
+  "created_at": 1795586560,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "入选行号：K3、Y2、M1；X4因最新有效态为撤销整行剔除，K5暂收忽略，T2子流不符。聚合：min(数量,行上限)×权重求和=23×4+13×3+15×2=161，再加A给出的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 436,
+    "total_tokens": 1364
+  }
+}

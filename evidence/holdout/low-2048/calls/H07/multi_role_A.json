@@ -1,0 +1,17 @@
+{
+  "request_sha256": "879cb973db829700da976caf478e8ac69bbf99f902f7b9547cc2a1e3859e052f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-816297fecc3699d5",
+  "created_at": 1795586552,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "主来源OQR；索引口径：Compare数据按季度刷新=每年4次。对照来源HCAHPS：2006年全国实施，2008年起公开报告。核验系数=主来源原始整数4，对13取余=4；百万单位和百分号已移除，按所示整数、法规条号。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 755,
+    "output_tokens": 176,
+    "total_tokens": 931
+  }
+}

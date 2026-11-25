@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c36a9b9b2750c8dc9db9dfb7624f8600272a8dd4b4e8f84f70ce56030c20aae6",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-14ea6a2b9af11782",
+  "created_at": 1795588941,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "E: 仅在共享字段已送达H06-PUB后安排；限披露组，start≥11:35，seats≥2，status=开放；取最早可行窗口。候选：ZC 11:45/1/开，KM 12:01/3/开，RP 11:48/3/冻，DF 11:33/3/开，LX 11:37/2/开，TV 11:53/2/开；回签ASCII id发H06-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 754,
+    "total_tokens": 1658
+  }
+}

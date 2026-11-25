@@ -1,0 +1,17 @@
+{
+  "request_sha256": "30821e5cd26566a72f98232ad202f70b06089cb341db5e3501d9ab41e1f4a799",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-7859553ffbe51687",
+  "created_at": 1795589033,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "中途交付按“1张批次单，可续办独立共享子任务”；队列状态与送达回执分开。预约仅基于实际收到的共享交付。旧单据仅记历史来源，保留原交付编号核验。内部标识H16-R2；历史撤稿/待办号H16-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 308,
+    "total_tokens": 1036
+  }
+}

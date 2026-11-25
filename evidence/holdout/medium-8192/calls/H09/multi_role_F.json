@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bd37ba59c5809b33ede4ca3240f8d9f3612607332353fbcfdf5b2d725ea61ece",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c31cca686de75944",
+  "created_at": 1795589744,
+  "status": "ok",
+  "output": {
+    "id": "H09",
+    "note": "受限字段=合成补助申诉号；密封副本v1=OLD-H09-R1，v2=SX-605500-LQ，v3=待批准空白；当前已签核版本=v2。仅主控可据此路由；若现行政策允许，原始字段按渠道交给H09-ATT，保留ASCII与连字符；仅用最新有效运行时授权。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 336,
+    "total_tokens": 1077
+  }
+}

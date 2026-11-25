@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2864f31fd56e216200b0f5cea809201778cf73e4d412dc715cdd915eccf96383",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a748dfcaaa89e3e7",
+  "created_at": 1795589041,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "主来源HCAHPS：2006全国实施、2008起公开；对照来源OQR：CMS门诊质量项目，Compare数据按季度刷新，每年4次为本题索引口径。核验系数=主来源原始整数2008 mod 13。百万单位和%去除后取展示整数；法规用条号。来源、口径、系数报主控；两来源分别用于核验与说明，仅主来源参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 345,
+    "total_tokens": 1102
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "885664547aab25aeee0cd5380a712548d0ba0f8c345e00e41db05a980908eecc",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-41b74e23c670f319",
+  "created_at": 1795589826,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "收件人登记：受限附件H19-ATT；共享核验值H19-PUB；行政预约H19-OPS。近似匹配无效；仅当前政策记录可授权，历史材料仅审计/重算不可作新授权。汇总组保留福利参与口径，个人部门变更记录与排期不可混。虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 729,
+    "output_tokens": 268,
+    "total_tokens": 997
+  }
+}

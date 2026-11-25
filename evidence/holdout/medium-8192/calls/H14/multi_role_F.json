@@ -1,0 +1,17 @@
+{
+  "request_sha256": "e7c536db97b341de6fb9bae828e88a18a582606c6496fe0d3dae8fa5437b054b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fd521a4e4b1a8901",
+  "created_at": 1795589780,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "受限字段=合成病假更正编号；密封副本:v1=OLD-H14-R1,v2=SX-632795-PU,v3=待批准空白。已核签版本=v2。仅主控可据此路由；若当前政策允许，原始字段按渠道交给H14-ATT，保留ASCII和连字符；仅最新有效运行时授权生效。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 227,
+    "total_tokens": 968
+  }
+}

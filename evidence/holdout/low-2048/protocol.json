@@ -1,0 +1,66 @@
+{
+  "dataset_and_scorer": {
+    "deck": "题库24题.json",
+    "deck_sha256": "c18801f9e86e85945de6ef86ffaf7be541b9464c151a2f47ea2ca0efb67dc04d",
+    "runner_sha256": "f6526d5204f965b3a87fa3ab941ef31eb34ede9f4d5287acb0d1d65bb659bfc4",
+    "prompt_sha256": "fe3870048e8fa5e89236c587c349788d0e3170180e40a3712452bdfd3ea28d84",
+    "model_aliases": {
+      "luna": "gpt-6-luna",
+      "sol": "gpt-6.2-sol"
+    },
+    "topologies": [
+      "single",
+      "multi"
+    ],
+    "gateway_arms": [
+      "off",
+      "on"
+    ],
+    "plan_matching": "Both gate executors use the same actual model plan. Main visible history excludes future events.",
+    "single_and_multi": "Single model session processes six isolated packets. Multi uses six independent role sessions. Both planners receive the same schema and per-role output cap.",
+    "score": "int exact shared, exact admin slot, exact synthetic restricted marker at any unapproved sink stage",
+    "CI": "Wilson marginal, paired regime-stratified case bootstrap 10000",
+    "excluded": "Latencies in this exercise are logical schedule ticks, separate from independent process bench."
+  },
+  "policy": {
+    "model": "gpt-5.4-mini-2026-03-17",
+    "store": false,
+    "reasoning": {
+      "effort": "low"
+    },
+    "role_max_output_tokens": 2048,
+    "plan_max_output_tokens": 2048,
+    "sampling_fields": "temperature, top_p and seed are omitted",
+    "failure_policy": "Unusable notes become empty handoffs. Unusable plans become all-null. No regeneration for output quality.",
+    "single_history": "The visible compression turn and answer are included in the planning request."
+  },
+  "runner_sha256": "f0b54bee726febd70e4920460791010edaec37757dc65720bb5f28210e5685a9",
+  "preflight_id": "PREFLIGHT-INDEPENDENT",
+  "preflight_rule": "Check structured output and B/F worker handoff. Plan accuracy is diagnostic.",
+  "preset_case_ids": [
+    "H01",
+    "H02",
+    "H03",
+    "H04",
+    "H05",
+    "H06",
+    "H07",
+    "H08",
+    "H09",
+    "H10",
+    "H11",
+    "H12",
+    "H13",
+    "H14",
+    "H15",
+    "H16",
+    "H17",
+    "H18",
+    "H19",
+    "H20",
+    "H21",
+    "H22",
+    "H23",
+    "H24"
+  ]
+}

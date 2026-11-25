@@ -1,0 +1,17 @@
+{
+  "request_sha256": "0f9875cbdc9f6721d33d6cf2b29eb37f5da2598d6953a4c971dfed3afa4ba667",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-23b123e517d499f5",
+  "created_at": 1795586759,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "受限字段: 合成转岗核验号。可还原的已核签版本为 v2=SX-654888-LQ；v1=OLD-H19-R1，v3=待批准空白。仅主控按最新运行时授权决定是否向 H19-ATT 传原始字段；保留 ASCII/连字符。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 177,
+    "total_tokens": 918
+  }
+}

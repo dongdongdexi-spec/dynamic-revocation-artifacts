@@ -1,0 +1,17 @@
+{
+  "request_sha256": "285fa2bb9cd9443103c825f4fe93f13b50b592a5cd457648af2aadca964c9560",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a8548fcf7c3b22a8",
+  "created_at": 1795589121,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "筛后入选：M1、K3、Y2；X整行剔除（最新有效态为撤销），M4/K5为暂收忽略，Y7超截止剔除。聚合：对入选最新有效行先按行上限截断数量，再乘权重求和，当前基值=15×2+12×2+20×3=114，另加A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 927,
+    "total_tokens": 1855
+  }
+}

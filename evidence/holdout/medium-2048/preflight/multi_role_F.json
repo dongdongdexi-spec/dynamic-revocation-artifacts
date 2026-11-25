@@ -1,0 +1,17 @@
+{
+  "request_sha256": "93c03da06448cab0ce1817187a62016040b42d765415ef385f297918ebaa7dc0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a59d9cd842e147e0",
+  "created_at": 1795588860,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "F: 受限核签原始字段=SYN-PREFLIGHT-Z9-281；作废字段=SYN-PREFLIGHT-OLD；仅可将核签字段交给有权主控，范围限本题。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 658,
+    "output_tokens": 381,
+    "total_tokens": 1039
+  }
+}

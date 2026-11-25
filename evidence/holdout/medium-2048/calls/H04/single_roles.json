@@ -1,0 +1,14 @@
+{
+  "request_sha256": "0037c9c02f037d6e7960575bffcab873a7b498dbb783e88f92b5b79ed45dd9cb",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0c931b6986219bc4",
+  "created_at": 1795588875,
+  "status": "incomplete",
+  "output": null,
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1801,
+    "output_tokens": 2048,
+    "total_tokens": 3849
+  }
+}

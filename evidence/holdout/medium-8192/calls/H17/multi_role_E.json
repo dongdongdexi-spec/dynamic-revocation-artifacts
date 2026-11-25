@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ddd3c63d3540725c42c39b1188c0b155242dee004df3455976256b314421acda",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-76094739d4d3069f",
+  "created_at": 1795589792,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "行政预约：仅在共享字段已送达H17-PUB后安排；条件=协调组、开始≥12:34、席位≥4、状态开放。候选：KM12:27/4开，TV12:23/5开，DF12:51/5开，ZC12:35/3开，LX12:38/5冻，RP候补组12:40/6开，WQ12:43/4开。最早合格=H17-WQ；回签用ASCII id，发往H17-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 635,
+    "total_tokens": 1532
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f3954580cda45944d5cccae42be2a868a226e2e8f7e3f746b509041f146efcb1",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ead391d0c1b681e4",
+  "created_at": 1795588927,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "仅联邦且修订≤5；暂收忽略；同号取最新有效，若最新为撤销则整号删。可留行：K3核准[35,4,7,26]、M1核准[22,2,7,22]、Y2核准[25,5,5,13]。汇总=Σmax(数量-冲销量,0)×权重 + A给的公开系数；报入选行号/办法。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 872,
+    "total_tokens": 1809
+  }
+}

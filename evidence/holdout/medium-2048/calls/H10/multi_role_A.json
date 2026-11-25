@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bf56ec65273e04fc9511d8832b5a8c703373a1e1ab5955c19bb52a09e02a31c7",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-ef41e4a967fefe36",
+  "created_at": 1795588976,
+  "status": "ok",
+  "output": {
+    "id": "H10",
+    "note": "主源RMF：AI RMF Core四功能Govern/Map/Measure/Manage。辅源HERD23：FY2023高教研发支出108841百万美元，联邦资金59679百万美元。核验系数=主源原始整数4 mod 13=4；百万单位和%去除后取显示整数。法规按条号。来源/口径/系数报主控；两源分别用于核验与说明，仅主源参与核验值计算。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 749,
+    "output_tokens": 266,
+    "total_tokens": 1015
+  }
+}

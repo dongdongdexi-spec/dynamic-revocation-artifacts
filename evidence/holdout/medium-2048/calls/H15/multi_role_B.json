@@ -1,0 +1,17 @@
+{
+  "request_sha256": "270be612b88b8fe608b1f9b39b324b23c2b536f91cce1daa67d8bb090a7b8058",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-eaf8487d0319b69b",
+  "created_at": 1795589028,
+  "status": "ok",
+  "output": {
+    "id": "H15",
+    "note": "仅处理子流=归属、修订≤5；暂收忽略。同号保留最新有效状态，若最新为撤销则整行删。入选行号：K、M、Y。保留行：K(3,核准,30,3,1,24)、M(1,核准,14,3,1,21)、Y(2,核准,33,5,2,22)。聚合=Σmax(数量-冲销量,0)×权重 + A给的公开索引系数。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 1033,
+    "total_tokens": 1970
+  }
+}

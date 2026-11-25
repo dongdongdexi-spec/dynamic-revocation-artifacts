@@ -1,0 +1,17 @@
+{
+  "request_sha256": "1c12d1b52d499063159dc3a549c3b7c0432e52ab77a79f2cebf0fc0457b1e173",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-d3db84ca34e37f24",
+  "created_at": 1795589771,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "收件渠道登记：受限附件 H13-ATT；共享核验值 H13-PUB；行政预约 H13-OPS。近似匹配无效；仅当前政策记录可定授权，历史材料仅供审计/重算，不构成新授权。可给鉴证人事件统计；模拟保密日志定位号另受控。全为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 725,
+    "output_tokens": 271,
+    "total_tokens": 996
+  }
+}

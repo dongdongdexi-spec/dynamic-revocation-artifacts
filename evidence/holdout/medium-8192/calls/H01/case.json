@@ -1,0 +1,22 @@
+{
+  "single": {
+    "plan": {
+      "id": "H01",
+      "restricted": null,
+      "shared": 291,
+      "admin": "H01-KM"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  },
+  "multi": {
+    "plan": {
+      "id": "H01",
+      "restricted": null,
+      "shared": 27,
+      "admin": "H01-KM"
+    },
+    "note_failures": [],
+    "plan_failure": null
+  }
+}

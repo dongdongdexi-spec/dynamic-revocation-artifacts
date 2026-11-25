@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2fabccd23dcbf6fd51636479ada4acb03468a0a8e2d9389000978e9cad14f9b9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-78a17744df765d5a",
+  "created_at": 1795588932,
+  "status": "ok",
+  "output": {
+    "id": "H05",
+    "note": "接收人登记：受限附件 H05-ATT；共享核验值 H05-PUB；行政预约 H05-OPS。近似匹配无效；仅当前政策记录可定授权，历史材料仅供审计/重算，不能作新授权证据。补录含机构款+联邦款，更正须经项目账本确认；采访付费编号需单独审批；均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 732,
+    "output_tokens": 383,
+    "total_tokens": 1115
+  }
+}

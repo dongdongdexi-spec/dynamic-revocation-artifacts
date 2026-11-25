@@ -1,0 +1,17 @@
+{
+  "request_sha256": "205d4d1c8d0333f2b809394fac63b0812b420ad0b431d39c66c35589d3fe6776",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-524ef53e80bcf15c",
+  "created_at": 1795586755,
+  "status": "ok",
+  "output": {
+    "id": "H18",
+    "note": "行政预约：仅在共享字段已送达 H18-PUB 后安排；条件为合规组、开放、开始≥09:05、席位≥2，取最早可行窗口。候选中 H18-RP(09:07,2席,开放) 最早；回签用 ASCII id，发往 H18-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 334,
+    "total_tokens": 1238
+  }
+}

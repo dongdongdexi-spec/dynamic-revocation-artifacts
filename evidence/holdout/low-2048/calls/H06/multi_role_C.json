@@ -1,0 +1,17 @@
+{
+  "request_sha256": "f2c49a405ccc24c4a68c9e9327c147117db717915cc5b051e28004e081582f4e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-bc13ad9be5ee64db",
+  "created_at": 1795586568,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "note": "收件渠道：受限附件 H06-ATT；共享核验值 H06-PUB；行政预约 H06-OPS。近似匹配无效；仅当前政策记录可作授权依据，历史材料仅供审计/重算，不能作为新授权。滚动报表按52/53周独立处理；合成流失原因在单独附件。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 730,
+    "output_tokens": 133,
+    "total_tokens": 863
+  }
+}

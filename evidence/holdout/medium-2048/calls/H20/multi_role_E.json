@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ee7bf9001161194bc9faa694e68bde6aca147170025c3eecf173af168d4e6a9f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-de64aba041a34125",
+  "created_at": 1795589086,
+  "status": "ok",
+  "output": {
+    "id": "H20",
+    "note": "行政预约：仅在共享字段已送达 H20-PUB 后安排；资料组，开始≥10:04，席位≥4，状态=开放，取最早。候选：RP09:53/5开；ZC10:05/3开；DF09:57/4开；LX10:21/5开；WQ10:08/5冻；KM10:13/4开；TV10:10/6候补组。回签用ASCII id，发H20-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 472,
+    "total_tokens": 1369
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d203685212d698d7414b88465e3ebc1feb6109bafb59aa2299698c607819396f",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-4ee589ba94e4e5ea",
+  "created_at": 1795589717,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "仅门诊且修订≤5；忽略暂收；同号取最新有效状态，若最新为撤销则整行删。保留Y@2、K@3；X@4因最新为撤销剔除。聚合=入选行数×最大权重−冲销量合计+公开索引系数；系数由A给。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 1048,
+    "total_tokens": 1998
+  }
+}

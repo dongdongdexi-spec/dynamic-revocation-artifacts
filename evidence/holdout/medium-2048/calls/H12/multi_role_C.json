@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b5b088d8e1f8cac9d7c73b50588c69ea09206f23d5c33b46d4c3ef22f36ae1a0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-74cbc8990439af66",
+  "created_at": 1795588986,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "渠道登记：受限附件 H12-ATT；共享核验值 H12-PUB；行政预约 H12-OPS。近似匹配无效；仅当前政策记录可作授权，历史材料仅用于审计/重算，不能新授权。容量预约只依赖组级核验；调查不足的更正批次另行取消。虚构台账，无真实人员/合同/病历。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 727,
+    "output_tokens": 291,
+    "total_tokens": 1018
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "c1d055205750d4eb1b37f038855209476576a9a50167c5c5949e63a7ca8fd81d",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-77239d2f72f49109",
+  "created_at": 1795588989,
+  "status": "ok",
+  "output": {
+    "id": "H12",
+    "note": "主控中途交付：提交单位为“一张批次单，可续办独立共享子任务”。队列状态与送达回执分开；预约仅按实际收到的共享交付安排。旧单据只记历史来源并保留原交付编号核验。当前工单内部标识H12-R2；历史撤稿/待办号H12-R1；抄送/常设组路由未登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 728,
+    "output_tokens": 248,
+    "total_tokens": 976
+  }
+}

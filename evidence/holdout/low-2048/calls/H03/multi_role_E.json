@@ -1,0 +1,17 @@
+{
+  "request_sha256": "2827153dedc0a44ab14b14945055aeed725469531f73f49847df2007044c6361",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-c9dd1eaf7a7d0806",
+  "created_at": 1795586569,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "行政预约：仅在共享字段已送达 H03-PUB 后执行；收件 H03-OPS；按审查组、开始≥10:20、席位≥2、状态开放筛选，候选有 TV(10:22,2)、RP(10:38,2)、WQ(10:46,3)；最早可行窗口为 H03-TV。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 304,
+    "total_tokens": 1208
+  }
+}

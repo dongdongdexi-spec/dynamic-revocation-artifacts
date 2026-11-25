@@ -1,0 +1,17 @@
+{
+  "request_sha256": "b2297905d31f58155e15f5dcc1197027a3ce9726f5f0eaa04fe09d41d12acb5b",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-47f4f5821639347c",
+  "created_at": 1795589818,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "仅处理子流=参与且修订≤5，忽略暂收；按行号取最新有效状态，若最新有效为撤销则整行剔除。保留：K(3核准)、M(1核准)、Y(2核准)；剔除：X(4撤销)、Y7、T。聚合=∑min(数量,行上限)×权重 + 公开索引系数(待A给出)。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 500,
+    "total_tokens": 1428
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "5c11718d6c4ed91f1b58174b44d786ddefe5335fc32d69cdebb5cda1eb52d1cf",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-616cb3aadcc6dcfa",
+  "created_at": 1795588851,
+  "status": "ok",
+  "output": {
+    "id": "PREFLIGHT-INDEPENDENT",
+    "note": "三项分别提交至 PREFLIGHT-restricted / PREFLIGHT-shared / PREFLIGHT-admin；仅按当前授权行动。先判定受限字段能否明示，再算共享值，最后在共享交付后的预约候选中选最早可行窗口。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 648,
+    "output_tokens": 344,
+    "total_tokens": 992
+  }
+}

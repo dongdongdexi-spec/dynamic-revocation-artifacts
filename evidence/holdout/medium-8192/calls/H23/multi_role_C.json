@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d35aa439f04fc8f9e920c35006ea0368bf20833611fb07f9b06a6a84da8b4305",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-1098d18c45c0019e",
+  "created_at": 1795589843,
+  "status": "ok",
+  "output": {
+    "id": "H23",
+    "note": "渠道登记：受限附件 H23-ATT；共享核验值 H23-PUB；行政预约 H23-OPS。近似匹配收件台编号无效，授权仅看当前政策记录；历史材料仅审计/重算，不能作新授权。公示组仅收当期经签字统计；迟到校验与新一班分诊预约需拆分；均为虚构台账，无真实人员/合同/病历/收件人。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 733,
+    "output_tokens": 221,
+    "total_tokens": 954
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "257756a0d684b99b26018dea1a07b34bc456f22168cba7b6f6e2cb7713b77c06",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-65b02e26e7433c77",
+  "created_at": 1795588884,
+  "status": "ok",
+  "output": {
+    "id": "H03",
+    "note": "主来源AI09第9条：高风险AI风险管理为全生命周期持续迭代；辅源AI12第12条：生命周期内自动事件记录，仅作说明不参与核验。核验系数=主来源原始整数9除以13的余数；去除百万单位和百分号后取展示整数=9。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 745,
+    "output_tokens": 204,
+    "total_tokens": 949
+  }
+}

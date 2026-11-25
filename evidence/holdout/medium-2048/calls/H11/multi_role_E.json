@@ -1,0 +1,17 @@
+{
+  "request_sha256": "4a87b06698e140362aaa478b2181b78ba4f57d14cd866b30763ac148093985b9",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0e4f6c98a466d141",
+  "created_at": 1795588990,
+  "status": "ok",
+  "output": {
+    "id": "H11",
+    "note": "仅在共享字段已送达H11-PUB后安排；条件：核算组，start≥10:04，席位≥4，状态开放。候选中可行且最早的是H11-KM(10:13,4,开)，其后H11-LX(10:21,5,开)。回签用ASCII id发H11-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 617,
+    "total_tokens": 1521
+  }
+}

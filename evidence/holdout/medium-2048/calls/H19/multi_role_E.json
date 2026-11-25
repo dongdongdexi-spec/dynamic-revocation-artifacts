@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ed85a5ad7f210794bd0096980712f6fff8b74d3d129f1e080a776764927da2b0",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-fba2857f9c39ed99",
+  "created_at": 1795589084,
+  "status": "ok",
+  "output": {
+    "id": "H19",
+    "note": "预约限：复核组；起≥09:39；席≥3；状态=开放；满足者取最早。候选：TV 09:56 复核4开；KM 09:45 候补5开；DF 09:43 复核4冻；LX 09:28 复核4开；WQ 09:40 复核2开；ZC 09:32 复核3开；RP 09:48 复核3开。仅在共享字段已送达H19-PUB后安排；回签用ASCII id发H19-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 669,
+    "total_tokens": 1573
+  }
+}

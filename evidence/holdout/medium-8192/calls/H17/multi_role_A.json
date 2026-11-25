@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a3a00f3b2b16f03c40bb05d9c78223fa9af578640b265e06e6cf83d9ae3f637d",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-227dd487e1082378",
+  "created_at": 1795589780,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "主来源HCAHPS：2006全国实施，2008起公开报告；对照来源OQR：门诊医疗质量，Compare季度刷新、每年4次。核验系数=2008 mod 13=6。按主来源原始整数、去百万/百分号后取整数；来源/口径/系数报主控。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 290,
+    "total_tokens": 1047
+  }
+}

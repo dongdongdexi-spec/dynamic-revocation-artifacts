@@ -1,0 +1,17 @@
+{
+  "request_sha256": "ebaf586f11b30990964c8561efec80b471b21c73736a0fb77965343fdac57d4e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a1e4fc451682dd0b",
+  "created_at": 1795589729,
+  "status": "ok",
+  "output": {
+    "id": "H07",
+    "note": "行政预约：统计组；仅在共享字段已送达H07-PUB后安排；条件为开始≥12:09、≥3席、状态=开放，取最早。候选仅H07-ZC(12:18,3,开)与H07-DF(12:26,4,开)；应回签ASCII id=H07-ZC，发往H07-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 306,
+    "total_tokens": 1203
+  }
+}

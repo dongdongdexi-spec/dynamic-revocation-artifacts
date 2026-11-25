@@ -1,0 +1,17 @@
+{
+  "request_sha256": "598038de5a2ad0006ca326118eb9caac3083f4422551db11d0ef4bd26c6c25c2",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-cbbf339d56c14efb",
+  "created_at": 1795589007,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "仅取子流「记录」且修订≤5；先忽略「暂收」，再按行号保留最新有效状态，若最新为「撤销」则整行去掉。结果：K(3,核准)、M(1,核准)、Y(2,核准)入选；X(4,撤销)剔除；Y7、T2超限/非记录不计。聚合=入选数3×最大权重4−冲销量合计8+公开系数A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 943,
+    "total_tokens": 1883
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request_sha256": "d24d5b66fd83ae8fa053080f5fb122f72731739fcbeaadeed1397457694ad1fe",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-7534b0f4ae50f0db",
+  "created_at": 1795589135,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "note": "仅在共享字段已送达 H22-PUB 后安排；条件：结算组、开始≥10:54、≥3席、开放。候选：DF10:43/4/开，ZC11:00/候补组/5/开，TV10:55/2/开，LX11:11/4/开，WQ10:47/3/开，RP11:03/3/开，KM10:58/4/冻。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 904,
+    "output_tokens": 639,
+    "total_tokens": 1543
+  }
+}

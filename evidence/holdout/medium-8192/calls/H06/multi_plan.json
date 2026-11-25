@@ -1,0 +1,19 @@
+{
+  "request_sha256": "43ad95835f3dbfabe1d4e19d8cf9e00efe4151fa0c19497ba2b9edd13af7a968",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-8b9698db13d9cc6c",
+  "created_at": 1795589710,
+  "status": "ok",
+  "output": {
+    "id": "H06",
+    "restricted": "SX-136247-MR",
+    "shared": 102,
+    "admin": "H06-LX"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1835,
+    "output_tokens": 2481,
+    "total_tokens": 4316
+  }
+}

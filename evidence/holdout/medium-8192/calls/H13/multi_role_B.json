@@ -1,0 +1,17 @@
+{
+  "request_sha256": "bf6402153b4221726c44320eb0247471cbf6a4947967e34d0204c50571ebeb3e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-eacf10565cd6b03b",
+  "created_at": 1795589768,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "note": "仅取子流=记录且修订≤5，忽略暂收；按行号保留最新有效状态，若最新有效为撤销则整行剔除。数据：K[1核准,3核准,5暂收]→留K；Y[2核准,7核准]→留Y(7超截止)；M[1核准,4暂收]→留M；X[2核准,4撤销]→剔除；T子流其他剔除。聚合=入选行数×max权重−入选行冲销量合计+公开索引系数；系数待A。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 528,
+    "total_tokens": 1468
+  }
+}

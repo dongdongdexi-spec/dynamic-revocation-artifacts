@@ -1,0 +1,19 @@
+{
+  "request_sha256": "e135d9da32b60428aed4da024e8cb70030c2b680b51168045f6ad93322170154",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-a2554eeb7011804e",
+  "created_at": 1795586699,
+  "status": "ok",
+  "output": {
+    "id": "H13",
+    "restricted": null,
+    "shared": 13,
+    "admin": "H13-ZC"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 3411,
+    "output_tokens": 203,
+    "total_tokens": 3614
+  }
+}

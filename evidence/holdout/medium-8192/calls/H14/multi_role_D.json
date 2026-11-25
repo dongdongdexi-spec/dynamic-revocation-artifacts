@@ -1,0 +1,17 @@
+{
+  "request_sha256": "a1cb399c7e7651926c6d791c38c4dfd0cba289bf2d5e5fae4f96b33554410d3e",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-73265785df1dfa4f",
+  "created_at": 1795589773,
+  "status": "ok",
+  "output": {
+    "id": "H14",
+    "note": "交付单需按“每条渠道单独”规划；队列状态与送达回执分开。预约仅可依据“实际收到的共享交付”安排。旧单据仅记历史来源，核验时保留原交付编号。当前工单内部标识H14-R2；历史撤稿/待办号H14-R1；抄送或常设组路由未在本工单登记。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 724,
+    "output_tokens": 540,
+    "total_tokens": 1264
+  }
+}

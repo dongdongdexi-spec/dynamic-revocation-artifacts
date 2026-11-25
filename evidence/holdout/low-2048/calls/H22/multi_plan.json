@@ -1,0 +1,19 @@
+{
+  "request_sha256": "02e6dad806796f964c2d2745f7f1f885006e8a08ef5eae79dd0c5333cba48679",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-e6b5ba32d7d420a7",
+  "created_at": 1795586799,
+  "status": "ok",
+  "output": {
+    "id": "H22",
+    "restricted": "SX-540196-PU",
+    "shared": 60,
+    "admin": "H22-RP"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 1785,
+    "output_tokens": 879,
+    "total_tokens": 2664
+  }
+}

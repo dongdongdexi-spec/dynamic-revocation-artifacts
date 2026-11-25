@@ -1,0 +1,17 @@
+{
+  "request_sha256": "fb8c483bb329e15e6e48c31dd0e1e1f94744c791378cd1b623003a330562a361",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-0390d040bec486b2",
+  "created_at": 1795588903,
+  "status": "ok",
+  "output": {
+    "id": "H04",
+    "note": "受限字段=「合成个案申诉编号」。合成密封副本:v1=OLD-H04-R1，v2=SX-859154-LQ（已核签），v3=待批准空白。仅主控可读；若政策允许，原始字段按渠道交H04-ATT；仅最新有效运行时授权生效。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 211,
+    "total_tokens": 952
+  }
+}

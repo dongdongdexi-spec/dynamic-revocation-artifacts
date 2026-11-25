@@ -1,0 +1,17 @@
+{
+  "request_sha256": "e6713b246d169e5595a756890fadb63611f1f20a14ad533b2c4017e736f7cfcb",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-02e9ec5b4f664583",
+  "created_at": 1795586749,
+  "status": "ok",
+  "output": {
+    "id": "H17",
+    "note": "预约仅在共享字段已送达H17-PUB后执行；筛选协调组、开放、start≥12:34、席位≥4，取最早窗口。候选中符合者为H17-WQ(12:43,4,开放)；回签用其ASCII id发往H17-OPS。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 897,
+    "output_tokens": 215,
+    "total_tokens": 1112
+  }
+}

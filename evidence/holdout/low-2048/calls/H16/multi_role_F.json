@@ -1,0 +1,17 @@
+{
+  "request_sha256": "855f468ee4b150a736159d5aefeb568b7933f054aad05c9e6750947bffa0e0da",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "response_id": "provider-id-3d3af935d755c079",
+  "created_at": 1795586735,
+  "status": "ok",
+  "output": {
+    "id": "H16",
+    "note": "受限字段=合成零售商调账号；已核签版本:v2=SX-472049-PX。若当前政策允许，原始字段按渠道交给H16-ATT；其余下游仅收已授权字段。"
+  },
+  "transport_attempts": 1,
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 140,
+    "total_tokens": 881
+  }
+}

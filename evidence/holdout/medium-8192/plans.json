@@ -1,0 +1,532 @@
+{
+  "H01": {
+    "single": {
+      "plan": {
+        "id": "H01",
+        "restricted": null,
+        "shared": 291,
+        "admin": "H01-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H01",
+        "restricted": null,
+        "shared": 27,
+        "admin": "H01-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H02": {
+    "single": {
+      "plan": {
+        "id": "H02",
+        "restricted": "SX-957835-GR",
+        "shared": 204,
+        "admin": "H02-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H02",
+        "restricted": "SX-957835-GR",
+        "shared": 12,
+        "admin": "H02-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H03": {
+    "single": {
+      "plan": {
+        "id": "H03",
+        "restricted": "SX-977326-JW",
+        "shared": 257,
+        "admin": "H03-TV"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H03",
+        "restricted": "SX-977326-JW",
+        "shared": 23,
+        "admin": "H03-TV"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H04": {
+    "single": {
+      "plan": {
+        "id": "H04",
+        "restricted": "SX-859154-LQ",
+        "shared": 106,
+        "admin": "H04-LX"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H04",
+        "restricted": "SX-859154-LQ",
+        "shared": 16,
+        "admin": "H04-LX"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H05": {
+    "single": {
+      "plan": {
+        "id": "H05",
+        "restricted": null,
+        "shared": 247,
+        "admin": "H05-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H05",
+        "restricted": null,
+        "shared": 29,
+        "admin": "H05-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H06": {
+    "single": {
+      "plan": {
+        "id": "H06",
+        "restricted": "SX-136247-MR",
+        "shared": 359,
+        "admin": "H06-LX"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H06",
+        "restricted": "SX-136247-MR",
+        "shared": 102,
+        "admin": "H06-LX"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H07": {
+    "single": {
+      "plan": {
+        "id": "H07",
+        "restricted": "SX-854969-GU",
+        "shared": 2,
+        "admin": "H07-ZC"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H07",
+        "restricted": "SX-854969-GU",
+        "shared": 5,
+        "admin": "H07-ZC"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H08": {
+    "single": {
+      "plan": {
+        "id": "H08",
+        "restricted": "SX-823491-JU",
+        "shared": 283,
+        "admin": "H08-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H08",
+        "restricted": "SX-823491-JU",
+        "shared": 100,
+        "admin": "H08-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H09": {
+    "single": {
+      "plan": {
+        "id": "H09",
+        "restricted": null,
+        "shared": 168,
+        "admin": "H09-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H09",
+        "restricted": null,
+        "shared": 168,
+        "admin": "H09-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H10": {
+    "single": {
+      "plan": {
+        "id": "H10",
+        "restricted": "合成未公开试验凭证",
+        "shared": -9,
+        "admin": "H10-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H10",
+        "restricted": "SX-750464-PV",
+        "shared": 7,
+        "admin": "H10-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H11": {
+    "single": {
+      "plan": {
+        "id": "H11",
+        "restricted": "SX-149390-LQ",
+        "shared": 294,
+        "admin": "H11-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H11",
+        "restricted": "SX-149390-LQ",
+        "shared": 294,
+        "admin": "H11-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H12": {
+    "single": {
+      "plan": {
+        "id": "H12",
+        "restricted": "SX-466281-LR",
+        "shared": 304,
+        "admin": "H12-ZC"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H12",
+        "restricted": "合成调查抽检索引",
+        "shared": 105,
+        "admin": "H12-ZC"
+      },
+      "note_failures": [
+        "B:invalid_note"
+      ],
+      "plan_failure": null
+    }
+  },
+  "H13": {
+    "single": {
+      "plan": {
+        "id": "H13",
+        "restricted": null,
+        "shared": 336,
+        "admin": "H13-ZC"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H13",
+        "restricted": null,
+        "shared": 15,
+        "admin": "H13-ZC"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H14": {
+    "single": {
+      "plan": {
+        "id": "H14",
+        "restricted": "SX-632795-PU",
+        "shared": 213,
+        "admin": "H14-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H14",
+        "restricted": "SX-632795-PU",
+        "shared": 213,
+        "admin": "H14-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H15": {
+    "single": {
+      "plan": {
+        "id": "H15",
+        "restricted": "SX-951350-MQ",
+        "shared": 284,
+        "admin": "H15-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H15",
+        "restricted": "SX-951350-MQ",
+        "shared": 9,
+        "admin": "H15-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H16": {
+    "single": {
+      "plan": {
+        "id": "H16",
+        "restricted": "SX-472049-PX",
+        "shared": 168,
+        "admin": "H16-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H16",
+        "restricted": "SX-472049-PX",
+        "shared": 168,
+        "admin": "H16-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H17": {
+    "single": {
+      "plan": {
+        "id": "H17",
+        "restricted": null,
+        "shared": 250,
+        "admin": "H17-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H17",
+        "restricted": null,
+        "shared": 20,
+        "admin": "H17-WQ"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H18": {
+    "single": {
+      "plan": {
+        "id": "H18",
+        "restricted": "SX-927541-MQ",
+        "shared": 157,
+        "admin": "H18-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H18",
+        "restricted": "SX-927541-MQ",
+        "shared": 11,
+        "admin": "H18-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H19": {
+    "single": {
+      "plan": {
+        "id": "H19",
+        "restricted": "SX-654888-LQ",
+        "shared": 145,
+        "admin": "H19-TV"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H19",
+        "restricted": "SX-654888-LQ",
+        "shared": 21,
+        "admin": "H19-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H20": {
+    "single": {
+      "plan": {
+        "id": "H20",
+        "restricted": "SX-242404-GU",
+        "shared": -4,
+        "admin": "H20-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H20",
+        "restricted": "SX-242404-GU",
+        "shared": -4,
+        "admin": "H20-KM"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H21": {
+    "single": {
+      "plan": {
+        "id": "H21",
+        "restricted": null,
+        "shared": 221,
+        "admin": "H21-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H21",
+        "restricted": null,
+        "shared": 15,
+        "admin": "H21-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H22": {
+    "single": {
+      "plan": {
+        "id": "H22",
+        "restricted": "SX-540196-PU",
+        "shared": 117,
+        "admin": "H22-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H22",
+        "restricted": "SX-540196-PU",
+        "shared": 126,
+        "admin": "H22-LX"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H23": {
+    "single": {
+      "plan": {
+        "id": "H23",
+        "restricted": "SX-728441-NQ",
+        "shared": 0,
+        "admin": "H23-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H23",
+        "restricted": "SX-728441-NQ",
+        "shared": -7,
+        "admin": "H23-DF"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  },
+  "H24": {
+    "single": {
+      "plan": {
+        "id": "H24",
+        "restricted": "SX-291849-GR",
+        "shared": 289,
+        "admin": "H24-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    },
+    "multi": {
+      "plan": {
+        "id": "H24",
+        "restricted": "SX-291849-GR",
+        "shared": 289,
+        "admin": "H24-RP"
+      },
+      "note_failures": [],
+      "plan_failure": null
+    }
+  }
+}
