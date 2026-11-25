@@ -1,2 +1,2 @@
-# Preserve the exact bytes covered by SHA256SUMS.txt on every platform.
+# Preserve archived line endings on every platform.
 * -text

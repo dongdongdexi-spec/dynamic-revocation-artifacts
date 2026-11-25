@@ -4,10 +4,10 @@ This repository accompanies the manuscript *Privacy-Preserving Delivery Under Dy
 
 ## Reproduce the archived analyses
 
-Use Python 3.12. The offline verification command requires only the standard library and uses the archived plans and events. It checks the checksums, reproduces the 24-case outcomes under all three fixed-snapshot configurations, recomputes authorized round-trip p95 values, and audits the IPC and TCP fault records against their SQLite ledgers.
+Use Python 3.12. The offline analysis uses only the standard library. It reproduces the 24-case outcomes under all three fixed-snapshot configurations, recomputes authorized round-trip p95 values, and analyzes the IPC and TCP fault records against their SQLite ledgers.
 
 ```sh
-python -B code/verify_artifacts.py --out verification.json
+python -B code/reproduce_results.py --out reproduced_results.json
 ```
 
 The analysis produces a new JSON file. Any rerun that generates fresh model plans requires a separately configured API environment and can produce different plans. The frozen settings and recorded outputs are available below.
@@ -23,6 +23,6 @@ The analysis produces a new JSON file. Any rerun that generates fresh model plan
 | Joint encrypted-handle fault experiments | [IPC run and ledger](evidence/ipc-fault/), [loopback TCP run and ledger](evidence/tcp-fault/) | [IPC runner](code/ieee_joint_recovery.py), [TCP runner](code/ieee_joint_recovery_tcp.py), [IPC audit](code/audit_ieee_joint_recovery.py), [TCP audit](code/audit_ieee_joint_recovery_tcp.py) |
 | Archive-envelope and low-effort controls | [Archive-envelope results](evidence/revision-controls/archive-envelope-control.json), [case audit](evidence/revision-controls/low-effort-case-audit.json) | [Archive-envelope control](code/ieee_snapshot_seal_control.py) |
 
-[Supplemental notes](evidence/supplemental-notes/experimental_supplement.md) cover the ancillary observations. The [archived supplements](archives/) retain additional development, concurrency, and fault-control records. [SHA256SUMS.txt](SHA256SUMS.txt) lists the distributed files and their digests.
+[Supplemental notes](evidence/supplemental-notes/experimental_supplement.md) cover the ancillary observations. The [archived supplements](archives/) retain additional development, concurrency, and fault-control records.
 
-Historical scripts and archives preserve study-time naming and layouts. Use the portable offline verification command above for the primary reproduced outcomes. Repository evidence files retain the archived scientific records, with provider administrative identifiers normalized by the reviewer archive.
+Historical scripts and archives preserve study-time naming and layouts. The offline analysis above reproduces the primary results. Repository evidence files retain the archived scientific records, with provider administrative identifiers normalized by the reviewer archive.

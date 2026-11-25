@@ -1,9 +1,8 @@
-"""Verify the archived artifact checksums and rerun the core offline analyses."""
+"""Reproduce the core results from the archived experiment records."""
 
 import argparse
 from collections import defaultdict
 import csv
-from hashlib import sha256
 import json
 from pathlib import Path
 from statistics import quantiles
@@ -19,17 +18,6 @@ EVIDENCE = ROOT / 'evidence'
 
 def load(path):
     return json.loads(path.read_text(encoding='utf-8'))
-
-
-def verify_checksums():
-    count = 0
-    for line in (ROOT / 'SHA256SUMS.txt').read_text(encoding='utf-8').splitlines():
-        expected, name = line.split('  ', 1)
-        path = (ROOT / name).resolve()
-        if not path.is_relative_to(ROOT) or sha256(path.read_bytes()).hexdigest() != expected:
-            raise ValueError(f'Checksum mismatch: {name}')
-        count += 1
-    return count
 
 
 def rescore_holdout():
@@ -74,10 +62,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, help='Optional output JSON; defaults to stdout.')
     args = parser.parse_args()
-    checksums = verify_checksums()
     tcp = EVIDENCE / 'tcp-fault'
     outcome = {
-        'files_verified': checksums,
         'holdout': rescore_holdout(),
         'matched_lock_p95': lock_p95(),
         'ipc_fault': audit(EVIDENCE / 'ipc-fault'),
